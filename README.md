@@ -1,6 +1,6 @@
 # TLD Root Zone DB
 
-[![Update TLD Data and Deploy](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tlds.yml/badge.svg)](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tlds.yml)
+[![Update TLD Data and Deploy](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-data.yml/badge.svg)](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-data.yml)
 
 **Updated Daily Dump of the IANA Root Zone Database**
 

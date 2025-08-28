@@ -1,4 +1,4 @@
-name: Update TLD Data and Deploy
+name: Update Data
 
 on:
   schedule:
