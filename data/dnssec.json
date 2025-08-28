@@ -1,0 +1,5378 @@
+[
+  {
+    "domain": "aaa",
+    "dnssec": true
+  },
+  {
+    "domain": "aarp",
+    "dnssec": true
+  },
+  {
+    "domain": "abb",
+    "dnssec": true
+  },
+  {
+    "domain": "abbott",
+    "dnssec": true
+  },
+  {
+    "domain": "abbvie",
+    "dnssec": true
+  },
+  {
+    "domain": "abc",
+    "dnssec": true
+  },
+  {
+    "domain": "able",
+    "dnssec": true
+  },
+  {
+    "domain": "abogado",
+    "dnssec": true
+  },
+  {
+    "domain": "abudhabi",
+    "dnssec": true
+  },
+  {
+    "domain": "ac",
+    "dnssec": true
+  },
+  {
+    "domain": "academy",
+    "dnssec": true
+  },
+  {
+    "domain": "accenture",
+    "dnssec": true
+  },
+  {
+    "domain": "accountant",
+    "dnssec": true
+  },
+  {
+    "domain": "accountants",
+    "dnssec": true
+  },
+  {
+    "domain": "aco",
+    "dnssec": true
+  },
+  {
+    "domain": "actor",
+    "dnssec": true
+  },
+  {
+    "domain": "ad",
+    "dnssec": true
+  },
+  {
+    "domain": "ads",
+    "dnssec": true
+  },
+  {
+    "domain": "adult",
+    "dnssec": true
+  },
+  {
+    "domain": "aeg",
+    "dnssec": true
+  },
+  {
+    "domain": "aero",
+    "dnssec": true
+  },
+  {
+    "domain": "aetna",
+    "dnssec": true
+  },
+  {
+    "domain": "af",
+    "dnssec": true
+  },
+  {
+    "domain": "afl",
+    "dnssec": true
+  },
+  {
+    "domain": "africa",
+    "dnssec": true
+  },
+  {
+    "domain": "ag",
+    "dnssec": true
+  },
+  {
+    "domain": "agakhan",
+    "dnssec": true
+  },
+  {
+    "domain": "agency",
+    "dnssec": true
+  },
+  {
+    "domain": "ai",
+    "dnssec": true
+  },
+  {
+    "domain": "aig",
+    "dnssec": true
+  },
+  {
+    "domain": "airbus",
+    "dnssec": true
+  },
+  {
+    "domain": "airforce",
+    "dnssec": true
+  },
+  {
+    "domain": "airtel",
+    "dnssec": true
+  },
+  {
+    "domain": "akdn",
+    "dnssec": true
+  },
+  {
+    "domain": "alibaba",
+    "dnssec": true
+  },
+  {
+    "domain": "alipay",
+    "dnssec": true
+  },
+  {
+    "domain": "allfinanz",
+    "dnssec": true
+  },
+  {
+    "domain": "allstate",
+    "dnssec": true
+  },
+  {
+    "domain": "ally",
+    "dnssec": true
+  },
+  {
+    "domain": "alsace",
+    "dnssec": true
+  },
+  {
+    "domain": "alstom",
+    "dnssec": true
+  },
+  {
+    "domain": "am",
+    "dnssec": true
+  },
+  {
+    "domain": "amazon",
+    "dnssec": true
+  },
+  {
+    "domain": "americanexpress",
+    "dnssec": true
+  },
+  {
+    "domain": "americanfamily",
+    "dnssec": true
+  },
+  {
+    "domain": "amex",
+    "dnssec": true
+  },
+  {
+    "domain": "amfam",
+    "dnssec": true
+  },
+  {
+    "domain": "amica",
+    "dnssec": true
+  },
+  {
+    "domain": "amsterdam",
+    "dnssec": true
+  },
+  {
+    "domain": "analytics",
+    "dnssec": true
+  },
+  {
+    "domain": "android",
+    "dnssec": true
+  },
+  {
+    "domain": "anquan",
+    "dnssec": true
+  },
+  {
+    "domain": "anz",
+    "dnssec": true
+  },
+  {
+    "domain": "aol",
+    "dnssec": true
+  },
+  {
+    "domain": "apartments",
+    "dnssec": true
+  },
+  {
+    "domain": "app",
+    "dnssec": true
+  },
+  {
+    "domain": "apple",
+    "dnssec": true
+  },
+  {
+    "domain": "aquarelle",
+    "dnssec": true
+  },
+  {
+    "domain": "ar",
+    "dnssec": true
+  },
+  {
+    "domain": "arab",
+    "dnssec": true
+  },
+  {
+    "domain": "aramco",
+    "dnssec": true
+  },
+  {
+    "domain": "archi",
+    "dnssec": true
+  },
+  {
+    "domain": "army",
+    "dnssec": true
+  },
+  {
+    "domain": "arpa",
+    "dnssec": true
+  },
+  {
+    "domain": "art",
+    "dnssec": true
+  },
+  {
+    "domain": "arte",
+    "dnssec": true
+  },
+  {
+    "domain": "asda",
+    "dnssec": true
+  },
+  {
+    "domain": "asia",
+    "dnssec": true
+  },
+  {
+    "domain": "associates",
+    "dnssec": true
+  },
+  {
+    "domain": "at",
+    "dnssec": true
+  },
+  {
+    "domain": "athleta",
+    "dnssec": true
+  },
+  {
+    "domain": "attorney",
+    "dnssec": true
+  },
+  {
+    "domain": "au",
+    "dnssec": true
+  },
+  {
+    "domain": "auction",
+    "dnssec": true
+  },
+  {
+    "domain": "audi",
+    "dnssec": true
+  },
+  {
+    "domain": "audible",
+    "dnssec": true
+  },
+  {
+    "domain": "audio",
+    "dnssec": true
+  },
+  {
+    "domain": "auspost",
+    "dnssec": true
+  },
+  {
+    "domain": "author",
+    "dnssec": true
+  },
+  {
+    "domain": "auto",
+    "dnssec": true
+  },
+  {
+    "domain": "autos",
+    "dnssec": true
+  },
+  {
+    "domain": "aw",
+    "dnssec": true
+  },
+  {
+    "domain": "aws",
+    "dnssec": true
+  },
+  {
+    "domain": "ax",
+    "dnssec": true
+  },
+  {
+    "domain": "axa",
+    "dnssec": true
+  },
+  {
+    "domain": "az",
+    "dnssec": true
+  },
+  {
+    "domain": "azure",
+    "dnssec": true
+  },
+  {
+    "domain": "baby",
+    "dnssec": true
+  },
+  {
+    "domain": "baidu",
+    "dnssec": true
+  },
+  {
+    "domain": "banamex",
+    "dnssec": true
+  },
+  {
+    "domain": "band",
+    "dnssec": true
+  },
+  {
+    "domain": "bank",
+    "dnssec": true
+  },
+  {
+    "domain": "bar",
+    "dnssec": true
+  },
+  {
+    "domain": "barcelona",
+    "dnssec": true
+  },
+  {
+    "domain": "barclaycard",
+    "dnssec": true
+  },
+  {
+    "domain": "barclays",
+    "dnssec": true
+  },
+  {
+    "domain": "barefoot",
+    "dnssec": true
+  },
+  {
+    "domain": "bargains",
+    "dnssec": true
+  },
+  {
+    "domain": "baseball",
+    "dnssec": true
+  },
+  {
+    "domain": "basketball",
+    "dnssec": true
+  },
+  {
+    "domain": "bauhaus",
+    "dnssec": true
+  },
+  {
+    "domain": "bayern",
+    "dnssec": true
+  },
+  {
+    "domain": "bbc",
+    "dnssec": true
+  },
+  {
+    "domain": "bbt",
+    "dnssec": true
+  },
+  {
+    "domain": "bbva",
+    "dnssec": true
+  },
+  {
+    "domain": "bcg",
+    "dnssec": true
+  },
+  {
+    "domain": "bcn",
+    "dnssec": true
+  },
+  {
+    "domain": "bd",
+    "dnssec": true
+  },
+  {
+    "domain": "be",
+    "dnssec": true
+  },
+  {
+    "domain": "beats",
+    "dnssec": true
+  },
+  {
+    "domain": "beauty",
+    "dnssec": true
+  },
+  {
+    "domain": "beer",
+    "dnssec": true
+  },
+  {
+    "domain": "berlin",
+    "dnssec": true
+  },
+  {
+    "domain": "best",
+    "dnssec": true
+  },
+  {
+    "domain": "bestbuy",
+    "dnssec": true
+  },
+  {
+    "domain": "bet",
+    "dnssec": true
+  },
+  {
+    "domain": "bf",
+    "dnssec": true
+  },
+  {
+    "domain": "bg",
+    "dnssec": true
+  },
+  {
+    "domain": "bh",
+    "dnssec": true
+  },
+  {
+    "domain": "bharti",
+    "dnssec": true
+  },
+  {
+    "domain": "bible",
+    "dnssec": true
+  },
+  {
+    "domain": "bid",
+    "dnssec": true
+  },
+  {
+    "domain": "bike",
+    "dnssec": true
+  },
+  {
+    "domain": "bing",
+    "dnssec": true
+  },
+  {
+    "domain": "bingo",
+    "dnssec": true
+  },
+  {
+    "domain": "bio",
+    "dnssec": true
+  },
+  {
+    "domain": "biz",
+    "dnssec": true
+  },
+  {
+    "domain": "bj",
+    "dnssec": true
+  },
+  {
+    "domain": "black",
+    "dnssec": true
+  },
+  {
+    "domain": "blackfriday",
+    "dnssec": true
+  },
+  {
+    "domain": "blockbuster",
+    "dnssec": true
+  },
+  {
+    "domain": "blog",
+    "dnssec": true
+  },
+  {
+    "domain": "bloomberg",
+    "dnssec": true
+  },
+  {
+    "domain": "blue",
+    "dnssec": true
+  },
+  {
+    "domain": "bm",
+    "dnssec": true
+  },
+  {
+    "domain": "bms",
+    "dnssec": true
+  },
+  {
+    "domain": "bmw",
+    "dnssec": true
+  },
+  {
+    "domain": "bn",
+    "dnssec": true
+  },
+  {
+    "domain": "bnpparibas",
+    "dnssec": true
+  },
+  {
+    "domain": "boats",
+    "dnssec": true
+  },
+  {
+    "domain": "boehringer",
+    "dnssec": true
+  },
+  {
+    "domain": "bofa",
+    "dnssec": true
+  },
+  {
+    "domain": "bom",
+    "dnssec": true
+  },
+  {
+    "domain": "bond",
+    "dnssec": true
+  },
+  {
+    "domain": "boo",
+    "dnssec": true
+  },
+  {
+    "domain": "book",
+    "dnssec": true
+  },
+  {
+    "domain": "booking",
+    "dnssec": true
+  },
+  {
+    "domain": "bosch",
+    "dnssec": true
+  },
+  {
+    "domain": "bostik",
+    "dnssec": true
+  },
+  {
+    "domain": "boston",
+    "dnssec": true
+  },
+  {
+    "domain": "bot",
+    "dnssec": true
+  },
+  {
+    "domain": "boutique",
+    "dnssec": true
+  },
+  {
+    "domain": "box",
+    "dnssec": true
+  },
+  {
+    "domain": "br",
+    "dnssec": true
+  },
+  {
+    "domain": "bradesco",
+    "dnssec": true
+  },
+  {
+    "domain": "bridgestone",
+    "dnssec": true
+  },
+  {
+    "domain": "broadway",
+    "dnssec": true
+  },
+  {
+    "domain": "broker",
+    "dnssec": true
+  },
+  {
+    "domain": "brother",
+    "dnssec": true
+  },
+  {
+    "domain": "brussels",
+    "dnssec": true
+  },
+  {
+    "domain": "bt",
+    "dnssec": true
+  },
+  {
+    "domain": "build",
+    "dnssec": true
+  },
+  {
+    "domain": "builders",
+    "dnssec": true
+  },
+  {
+    "domain": "business",
+    "dnssec": true
+  },
+  {
+    "domain": "buy",
+    "dnssec": true
+  },
+  {
+    "domain": "buzz",
+    "dnssec": true
+  },
+  {
+    "domain": "bv",
+    "dnssec": true
+  },
+  {
+    "domain": "bw",
+    "dnssec": true
+  },
+  {
+    "domain": "by",
+    "dnssec": true
+  },
+  {
+    "domain": "bz",
+    "dnssec": true
+  },
+  {
+    "domain": "bzh",
+    "dnssec": true
+  },
+  {
+    "domain": "ca",
+    "dnssec": true
+  },
+  {
+    "domain": "cab",
+    "dnssec": true
+  },
+  {
+    "domain": "cafe",
+    "dnssec": true
+  },
+  {
+    "domain": "cal",
+    "dnssec": true
+  },
+  {
+    "domain": "call",
+    "dnssec": true
+  },
+  {
+    "domain": "calvinklein",
+    "dnssec": true
+  },
+  {
+    "domain": "cam",
+    "dnssec": true
+  },
+  {
+    "domain": "camera",
+    "dnssec": true
+  },
+  {
+    "domain": "camp",
+    "dnssec": true
+  },
+  {
+    "domain": "canon",
+    "dnssec": true
+  },
+  {
+    "domain": "capetown",
+    "dnssec": true
+  },
+  {
+    "domain": "capital",
+    "dnssec": true
+  },
+  {
+    "domain": "capitalone",
+    "dnssec": true
+  },
+  {
+    "domain": "car",
+    "dnssec": true
+  },
+  {
+    "domain": "caravan",
+    "dnssec": true
+  },
+  {
+    "domain": "cards",
+    "dnssec": true
+  },
+  {
+    "domain": "care",
+    "dnssec": true
+  },
+  {
+    "domain": "career",
+    "dnssec": true
+  },
+  {
+    "domain": "careers",
+    "dnssec": true
+  },
+  {
+    "domain": "cars",
+    "dnssec": true
+  },
+  {
+    "domain": "casa",
+    "dnssec": true
+  },
+  {
+    "domain": "case",
+    "dnssec": true
+  },
+  {
+    "domain": "cash",
+    "dnssec": true
+  },
+  {
+    "domain": "casino",
+    "dnssec": true
+  },
+  {
+    "domain": "cat",
+    "dnssec": true
+  },
+  {
+    "domain": "catering",
+    "dnssec": true
+  },
+  {
+    "domain": "catholic",
+    "dnssec": true
+  },
+  {
+    "domain": "cba",
+    "dnssec": true
+  },
+  {
+    "domain": "cbn",
+    "dnssec": true
+  },
+  {
+    "domain": "cbre",
+    "dnssec": true
+  },
+  {
+    "domain": "cc",
+    "dnssec": true
+  },
+  {
+    "domain": "center",
+    "dnssec": true
+  },
+  {
+    "domain": "ceo",
+    "dnssec": true
+  },
+  {
+    "domain": "cern",
+    "dnssec": true
+  },
+  {
+    "domain": "cfa",
+    "dnssec": true
+  },
+  {
+    "domain": "cfd",
+    "dnssec": true
+  },
+  {
+    "domain": "ch",
+    "dnssec": true
+  },
+  {
+    "domain": "chanel",
+    "dnssec": true
+  },
+  {
+    "domain": "channel",
+    "dnssec": true
+  },
+  {
+    "domain": "charity",
+    "dnssec": true
+  },
+  {
+    "domain": "chase",
+    "dnssec": true
+  },
+  {
+    "domain": "chat",
+    "dnssec": true
+  },
+  {
+    "domain": "cheap",
+    "dnssec": true
+  },
+  {
+    "domain": "chintai",
+    "dnssec": true
+  },
+  {
+    "domain": "christmas",
+    "dnssec": true
+  },
+  {
+    "domain": "chrome",
+    "dnssec": true
+  },
+  {
+    "domain": "church",
+    "dnssec": true
+  },
+  {
+    "domain": "ci",
+    "dnssec": true
+  },
+  {
+    "domain": "cipriani",
+    "dnssec": true
+  },
+  {
+    "domain": "circle",
+    "dnssec": true
+  },
+  {
+    "domain": "cisco",
+    "dnssec": true
+  },
+  {
+    "domain": "citadel",
+    "dnssec": true
+  },
+  {
+    "domain": "citi",
+    "dnssec": true
+  },
+  {
+    "domain": "citic",
+    "dnssec": true
+  },
+  {
+    "domain": "city",
+    "dnssec": true
+  },
+  {
+    "domain": "cl",
+    "dnssec": true
+  },
+  {
+    "domain": "claims",
+    "dnssec": true
+  },
+  {
+    "domain": "cleaning",
+    "dnssec": true
+  },
+  {
+    "domain": "click",
+    "dnssec": true
+  },
+  {
+    "domain": "clinic",
+    "dnssec": true
+  },
+  {
+    "domain": "clinique",
+    "dnssec": true
+  },
+  {
+    "domain": "clothing",
+    "dnssec": true
+  },
+  {
+    "domain": "cloud",
+    "dnssec": true
+  },
+  {
+    "domain": "club",
+    "dnssec": true
+  },
+  {
+    "domain": "clubmed",
+    "dnssec": true
+  },
+  {
+    "domain": "cm",
+    "dnssec": true
+  },
+  {
+    "domain": "cn",
+    "dnssec": true
+  },
+  {
+    "domain": "co",
+    "dnssec": true
+  },
+  {
+    "domain": "coach",
+    "dnssec": true
+  },
+  {
+    "domain": "codes",
+    "dnssec": true
+  },
+  {
+    "domain": "coffee",
+    "dnssec": true
+  },
+  {
+    "domain": "college",
+    "dnssec": true
+  },
+  {
+    "domain": "cologne",
+    "dnssec": true
+  },
+  {
+    "domain": "com",
+    "dnssec": true
+  },
+  {
+    "domain": "commbank",
+    "dnssec": true
+  },
+  {
+    "domain": "community",
+    "dnssec": true
+  },
+  {
+    "domain": "company",
+    "dnssec": true
+  },
+  {
+    "domain": "compare",
+    "dnssec": true
+  },
+  {
+    "domain": "computer",
+    "dnssec": true
+  },
+  {
+    "domain": "comsec",
+    "dnssec": true
+  },
+  {
+    "domain": "condos",
+    "dnssec": true
+  },
+  {
+    "domain": "construction",
+    "dnssec": true
+  },
+  {
+    "domain": "consulting",
+    "dnssec": true
+  },
+  {
+    "domain": "contact",
+    "dnssec": true
+  },
+  {
+    "domain": "contractors",
+    "dnssec": true
+  },
+  {
+    "domain": "cooking",
+    "dnssec": true
+  },
+  {
+    "domain": "cool",
+    "dnssec": true
+  },
+  {
+    "domain": "coop",
+    "dnssec": true
+  },
+  {
+    "domain": "corsica",
+    "dnssec": true
+  },
+  {
+    "domain": "country",
+    "dnssec": true
+  },
+  {
+    "domain": "coupon",
+    "dnssec": true
+  },
+  {
+    "domain": "coupons",
+    "dnssec": true
+  },
+  {
+    "domain": "courses",
+    "dnssec": true
+  },
+  {
+    "domain": "cpa",
+    "dnssec": true
+  },
+  {
+    "domain": "cr",
+    "dnssec": true
+  },
+  {
+    "domain": "credit",
+    "dnssec": true
+  },
+  {
+    "domain": "creditcard",
+    "dnssec": true
+  },
+  {
+    "domain": "creditunion",
+    "dnssec": true
+  },
+  {
+    "domain": "cricket",
+    "dnssec": true
+  },
+  {
+    "domain": "crown",
+    "dnssec": true
+  },
+  {
+    "domain": "crs",
+    "dnssec": true
+  },
+  {
+    "domain": "cruise",
+    "dnssec": true
+  },
+  {
+    "domain": "cruises",
+    "dnssec": true
+  },
+  {
+    "domain": "cuisinella",
+    "dnssec": true
+  },
+  {
+    "domain": "cx",
+    "dnssec": true
+  },
+  {
+    "domain": "cy",
+    "dnssec": true
+  },
+  {
+    "domain": "cymru",
+    "dnssec": true
+  },
+  {
+    "domain": "cyou",
+    "dnssec": true
+  },
+  {
+    "domain": "cz",
+    "dnssec": true
+  },
+  {
+    "domain": "dad",
+    "dnssec": true
+  },
+  {
+    "domain": "dance",
+    "dnssec": true
+  },
+  {
+    "domain": "data",
+    "dnssec": true
+  },
+  {
+    "domain": "date",
+    "dnssec": true
+  },
+  {
+    "domain": "dating",
+    "dnssec": true
+  },
+  {
+    "domain": "datsun",
+    "dnssec": true
+  },
+  {
+    "domain": "day",
+    "dnssec": true
+  },
+  {
+    "domain": "dclk",
+    "dnssec": true
+  },
+  {
+    "domain": "dds",
+    "dnssec": true
+  },
+  {
+    "domain": "de",
+    "dnssec": true
+  },
+  {
+    "domain": "deal",
+    "dnssec": true
+  },
+  {
+    "domain": "dealer",
+    "dnssec": true
+  },
+  {
+    "domain": "deals",
+    "dnssec": true
+  },
+  {
+    "domain": "degree",
+    "dnssec": true
+  },
+  {
+    "domain": "delivery",
+    "dnssec": true
+  },
+  {
+    "domain": "dell",
+    "dnssec": true
+  },
+  {
+    "domain": "deloitte",
+    "dnssec": true
+  },
+  {
+    "domain": "delta",
+    "dnssec": true
+  },
+  {
+    "domain": "democrat",
+    "dnssec": true
+  },
+  {
+    "domain": "dental",
+    "dnssec": true
+  },
+  {
+    "domain": "dentist",
+    "dnssec": true
+  },
+  {
+    "domain": "desi",
+    "dnssec": true
+  },
+  {
+    "domain": "design",
+    "dnssec": true
+  },
+  {
+    "domain": "dev",
+    "dnssec": true
+  },
+  {
+    "domain": "dhl",
+    "dnssec": true
+  },
+  {
+    "domain": "diamonds",
+    "dnssec": true
+  },
+  {
+    "domain": "diet",
+    "dnssec": true
+  },
+  {
+    "domain": "digital",
+    "dnssec": true
+  },
+  {
+    "domain": "direct",
+    "dnssec": true
+  },
+  {
+    "domain": "directory",
+    "dnssec": true
+  },
+  {
+    "domain": "discount",
+    "dnssec": true
+  },
+  {
+    "domain": "discover",
+    "dnssec": true
+  },
+  {
+    "domain": "dish",
+    "dnssec": true
+  },
+  {
+    "domain": "diy",
+    "dnssec": true
+  },
+  {
+    "domain": "dk",
+    "dnssec": true
+  },
+  {
+    "domain": "dm",
+    "dnssec": true
+  },
+  {
+    "domain": "dnp",
+    "dnssec": true
+  },
+  {
+    "domain": "docs",
+    "dnssec": true
+  },
+  {
+    "domain": "doctor",
+    "dnssec": true
+  },
+  {
+    "domain": "dog",
+    "dnssec": true
+  },
+  {
+    "domain": "domains",
+    "dnssec": true
+  },
+  {
+    "domain": "dot",
+    "dnssec": true
+  },
+  {
+    "domain": "download",
+    "dnssec": true
+  },
+  {
+    "domain": "drive",
+    "dnssec": true
+  },
+  {
+    "domain": "dtv",
+    "dnssec": true
+  },
+  {
+    "domain": "dubai",
+    "dnssec": true
+  },
+  {
+    "domain": "dunlop",
+    "dnssec": true
+  },
+  {
+    "domain": "dupont",
+    "dnssec": true
+  },
+  {
+    "domain": "durban",
+    "dnssec": true
+  },
+  {
+    "domain": "dvag",
+    "dnssec": true
+  },
+  {
+    "domain": "dvr",
+    "dnssec": true
+  },
+  {
+    "domain": "dz",
+    "dnssec": true
+  },
+  {
+    "domain": "earth",
+    "dnssec": true
+  },
+  {
+    "domain": "eat",
+    "dnssec": true
+  },
+  {
+    "domain": "ec",
+    "dnssec": true
+  },
+  {
+    "domain": "eco",
+    "dnssec": true
+  },
+  {
+    "domain": "edeka",
+    "dnssec": true
+  },
+  {
+    "domain": "edu",
+    "dnssec": true
+  },
+  {
+    "domain": "education",
+    "dnssec": true
+  },
+  {
+    "domain": "ee",
+    "dnssec": true
+  },
+  {
+    "domain": "email",
+    "dnssec": true
+  },
+  {
+    "domain": "emerck",
+    "dnssec": true
+  },
+  {
+    "domain": "energy",
+    "dnssec": true
+  },
+  {
+    "domain": "engineer",
+    "dnssec": true
+  },
+  {
+    "domain": "engineering",
+    "dnssec": true
+  },
+  {
+    "domain": "enterprises",
+    "dnssec": true
+  },
+  {
+    "domain": "epson",
+    "dnssec": true
+  },
+  {
+    "domain": "equipment",
+    "dnssec": true
+  },
+  {
+    "domain": "er",
+    "dnssec": true
+  },
+  {
+    "domain": "ericsson",
+    "dnssec": true
+  },
+  {
+    "domain": "erni",
+    "dnssec": true
+  },
+  {
+    "domain": "es",
+    "dnssec": true
+  },
+  {
+    "domain": "esq",
+    "dnssec": true
+  },
+  {
+    "domain": "estate",
+    "dnssec": true
+  },
+  {
+    "domain": "eu",
+    "dnssec": true
+  },
+  {
+    "domain": "eurovision",
+    "dnssec": true
+  },
+  {
+    "domain": "eus",
+    "dnssec": true
+  },
+  {
+    "domain": "events",
+    "dnssec": true
+  },
+  {
+    "domain": "exchange",
+    "dnssec": true
+  },
+  {
+    "domain": "expert",
+    "dnssec": true
+  },
+  {
+    "domain": "exposed",
+    "dnssec": true
+  },
+  {
+    "domain": "express",
+    "dnssec": true
+  },
+  {
+    "domain": "extraspace",
+    "dnssec": true
+  },
+  {
+    "domain": "fage",
+    "dnssec": true
+  },
+  {
+    "domain": "fail",
+    "dnssec": true
+  },
+  {
+    "domain": "fairwinds",
+    "dnssec": true
+  },
+  {
+    "domain": "faith",
+    "dnssec": true
+  },
+  {
+    "domain": "family",
+    "dnssec": true
+  },
+  {
+    "domain": "fan",
+    "dnssec": true
+  },
+  {
+    "domain": "fans",
+    "dnssec": true
+  },
+  {
+    "domain": "farm",
+    "dnssec": true
+  },
+  {
+    "domain": "farmers",
+    "dnssec": true
+  },
+  {
+    "domain": "fashion",
+    "dnssec": true
+  },
+  {
+    "domain": "fast",
+    "dnssec": true
+  },
+  {
+    "domain": "fedex",
+    "dnssec": true
+  },
+  {
+    "domain": "feedback",
+    "dnssec": true
+  },
+  {
+    "domain": "ferrari",
+    "dnssec": true
+  },
+  {
+    "domain": "ferrero",
+    "dnssec": true
+  },
+  {
+    "domain": "fi",
+    "dnssec": true
+  },
+  {
+    "domain": "fidelity",
+    "dnssec": true
+  },
+  {
+    "domain": "fido",
+    "dnssec": true
+  },
+  {
+    "domain": "film",
+    "dnssec": true
+  },
+  {
+    "domain": "final",
+    "dnssec": true
+  },
+  {
+    "domain": "finance",
+    "dnssec": true
+  },
+  {
+    "domain": "financial",
+    "dnssec": true
+  },
+  {
+    "domain": "fire",
+    "dnssec": true
+  },
+  {
+    "domain": "firestone",
+    "dnssec": true
+  },
+  {
+    "domain": "firmdale",
+    "dnssec": true
+  },
+  {
+    "domain": "fish",
+    "dnssec": true
+  },
+  {
+    "domain": "fishing",
+    "dnssec": true
+  },
+  {
+    "domain": "fit",
+    "dnssec": true
+  },
+  {
+    "domain": "fitness",
+    "dnssec": true
+  },
+  {
+    "domain": "fj",
+    "dnssec": true
+  },
+  {
+    "domain": "flickr",
+    "dnssec": true
+  },
+  {
+    "domain": "flights",
+    "dnssec": true
+  },
+  {
+    "domain": "flir",
+    "dnssec": true
+  },
+  {
+    "domain": "florist",
+    "dnssec": true
+  },
+  {
+    "domain": "flowers",
+    "dnssec": true
+  },
+  {
+    "domain": "fly",
+    "dnssec": true
+  },
+  {
+    "domain": "fm",
+    "dnssec": true
+  },
+  {
+    "domain": "fo",
+    "dnssec": true
+  },
+  {
+    "domain": "foo",
+    "dnssec": true
+  },
+  {
+    "domain": "food",
+    "dnssec": true
+  },
+  {
+    "domain": "football",
+    "dnssec": true
+  },
+  {
+    "domain": "ford",
+    "dnssec": true
+  },
+  {
+    "domain": "forex",
+    "dnssec": true
+  },
+  {
+    "domain": "forsale",
+    "dnssec": true
+  },
+  {
+    "domain": "forum",
+    "dnssec": true
+  },
+  {
+    "domain": "foundation",
+    "dnssec": true
+  },
+  {
+    "domain": "fox",
+    "dnssec": true
+  },
+  {
+    "domain": "fr",
+    "dnssec": true
+  },
+  {
+    "domain": "free",
+    "dnssec": true
+  },
+  {
+    "domain": "fresenius",
+    "dnssec": true
+  },
+  {
+    "domain": "frl",
+    "dnssec": true
+  },
+  {
+    "domain": "frogans",
+    "dnssec": true
+  },
+  {
+    "domain": "frontier",
+    "dnssec": true
+  },
+  {
+    "domain": "ftr",
+    "dnssec": true
+  },
+  {
+    "domain": "fujitsu",
+    "dnssec": true
+  },
+  {
+    "domain": "fun",
+    "dnssec": true
+  },
+  {
+    "domain": "fund",
+    "dnssec": true
+  },
+  {
+    "domain": "furniture",
+    "dnssec": true
+  },
+  {
+    "domain": "futbol",
+    "dnssec": true
+  },
+  {
+    "domain": "fyi",
+    "dnssec": true
+  },
+  {
+    "domain": "ga",
+    "dnssec": true
+  },
+  {
+    "domain": "gal",
+    "dnssec": true
+  },
+  {
+    "domain": "gallery",
+    "dnssec": true
+  },
+  {
+    "domain": "gallo",
+    "dnssec": true
+  },
+  {
+    "domain": "gallup",
+    "dnssec": true
+  },
+  {
+    "domain": "game",
+    "dnssec": true
+  },
+  {
+    "domain": "games",
+    "dnssec": true
+  },
+  {
+    "domain": "gap",
+    "dnssec": true
+  },
+  {
+    "domain": "garden",
+    "dnssec": true
+  },
+  {
+    "domain": "gay",
+    "dnssec": true
+  },
+  {
+    "domain": "gbiz",
+    "dnssec": true
+  },
+  {
+    "domain": "gd",
+    "dnssec": true
+  },
+  {
+    "domain": "gdn",
+    "dnssec": true
+  },
+  {
+    "domain": "ge",
+    "dnssec": true
+  },
+  {
+    "domain": "gea",
+    "dnssec": true
+  },
+  {
+    "domain": "gent",
+    "dnssec": true
+  },
+  {
+    "domain": "genting",
+    "dnssec": true
+  },
+  {
+    "domain": "george",
+    "dnssec": true
+  },
+  {
+    "domain": "gg",
+    "dnssec": true
+  },
+  {
+    "domain": "ggee",
+    "dnssec": true
+  },
+  {
+    "domain": "gi",
+    "dnssec": true
+  },
+  {
+    "domain": "gift",
+    "dnssec": true
+  },
+  {
+    "domain": "gifts",
+    "dnssec": true
+  },
+  {
+    "domain": "gives",
+    "dnssec": true
+  },
+  {
+    "domain": "giving",
+    "dnssec": true
+  },
+  {
+    "domain": "gl",
+    "dnssec": true
+  },
+  {
+    "domain": "glass",
+    "dnssec": true
+  },
+  {
+    "domain": "gle",
+    "dnssec": true
+  },
+  {
+    "domain": "global",
+    "dnssec": true
+  },
+  {
+    "domain": "globo",
+    "dnssec": true
+  },
+  {
+    "domain": "gmail",
+    "dnssec": true
+  },
+  {
+    "domain": "gmbh",
+    "dnssec": true
+  },
+  {
+    "domain": "gmo",
+    "dnssec": true
+  },
+  {
+    "domain": "gmx",
+    "dnssec": true
+  },
+  {
+    "domain": "gn",
+    "dnssec": true
+  },
+  {
+    "domain": "godaddy",
+    "dnssec": true
+  },
+  {
+    "domain": "gold",
+    "dnssec": true
+  },
+  {
+    "domain": "goldpoint",
+    "dnssec": true
+  },
+  {
+    "domain": "golf",
+    "dnssec": true
+  },
+  {
+    "domain": "goo",
+    "dnssec": true
+  },
+  {
+    "domain": "goodyear",
+    "dnssec": true
+  },
+  {
+    "domain": "goog",
+    "dnssec": true
+  },
+  {
+    "domain": "google",
+    "dnssec": true
+  },
+  {
+    "domain": "gop",
+    "dnssec": true
+  },
+  {
+    "domain": "got",
+    "dnssec": true
+  },
+  {
+    "domain": "gov",
+    "dnssec": true
+  },
+  {
+    "domain": "gr",
+    "dnssec": true
+  },
+  {
+    "domain": "grainger",
+    "dnssec": true
+  },
+  {
+    "domain": "graphics",
+    "dnssec": true
+  },
+  {
+    "domain": "gratis",
+    "dnssec": true
+  },
+  {
+    "domain": "green",
+    "dnssec": true
+  },
+  {
+    "domain": "gripe",
+    "dnssec": true
+  },
+  {
+    "domain": "grocery",
+    "dnssec": true
+  },
+  {
+    "domain": "group",
+    "dnssec": true
+  },
+  {
+    "domain": "gs",
+    "dnssec": true
+  },
+  {
+    "domain": "gucci",
+    "dnssec": true
+  },
+  {
+    "domain": "guge",
+    "dnssec": true
+  },
+  {
+    "domain": "guide",
+    "dnssec": true
+  },
+  {
+    "domain": "guitars",
+    "dnssec": true
+  },
+  {
+    "domain": "guru",
+    "dnssec": true
+  },
+  {
+    "domain": "gw",
+    "dnssec": true
+  },
+  {
+    "domain": "gy",
+    "dnssec": true
+  },
+  {
+    "domain": "hair",
+    "dnssec": true
+  },
+  {
+    "domain": "hamburg",
+    "dnssec": true
+  },
+  {
+    "domain": "hangout",
+    "dnssec": true
+  },
+  {
+    "domain": "haus",
+    "dnssec": true
+  },
+  {
+    "domain": "hbo",
+    "dnssec": true
+  },
+  {
+    "domain": "hdfc",
+    "dnssec": true
+  },
+  {
+    "domain": "hdfcbank",
+    "dnssec": true
+  },
+  {
+    "domain": "health",
+    "dnssec": true
+  },
+  {
+    "domain": "healthcare",
+    "dnssec": true
+  },
+  {
+    "domain": "help",
+    "dnssec": true
+  },
+  {
+    "domain": "helsinki",
+    "dnssec": true
+  },
+  {
+    "domain": "here",
+    "dnssec": true
+  },
+  {
+    "domain": "hermes",
+    "dnssec": true
+  },
+  {
+    "domain": "hiphop",
+    "dnssec": true
+  },
+  {
+    "domain": "hisamitsu",
+    "dnssec": true
+  },
+  {
+    "domain": "hitachi",
+    "dnssec": true
+  },
+  {
+    "domain": "hiv",
+    "dnssec": true
+  },
+  {
+    "domain": "hk",
+    "dnssec": true
+  },
+  {
+    "domain": "hkt",
+    "dnssec": true
+  },
+  {
+    "domain": "hn",
+    "dnssec": true
+  },
+  {
+    "domain": "hockey",
+    "dnssec": true
+  },
+  {
+    "domain": "holdings",
+    "dnssec": true
+  },
+  {
+    "domain": "holiday",
+    "dnssec": true
+  },
+  {
+    "domain": "homedepot",
+    "dnssec": true
+  },
+  {
+    "domain": "homegoods",
+    "dnssec": true
+  },
+  {
+    "domain": "homes",
+    "dnssec": true
+  },
+  {
+    "domain": "homesense",
+    "dnssec": true
+  },
+  {
+    "domain": "honda",
+    "dnssec": true
+  },
+  {
+    "domain": "horse",
+    "dnssec": true
+  },
+  {
+    "domain": "hospital",
+    "dnssec": true
+  },
+  {
+    "domain": "host",
+    "dnssec": true
+  },
+  {
+    "domain": "hosting",
+    "dnssec": true
+  },
+  {
+    "domain": "hot",
+    "dnssec": true
+  },
+  {
+    "domain": "hotels",
+    "dnssec": true
+  },
+  {
+    "domain": "hotmail",
+    "dnssec": true
+  },
+  {
+    "domain": "house",
+    "dnssec": true
+  },
+  {
+    "domain": "how",
+    "dnssec": true
+  },
+  {
+    "domain": "hr",
+    "dnssec": true
+  },
+  {
+    "domain": "hsbc",
+    "dnssec": true
+  },
+  {
+    "domain": "ht",
+    "dnssec": true
+  },
+  {
+    "domain": "hu",
+    "dnssec": true
+  },
+  {
+    "domain": "hughes",
+    "dnssec": true
+  },
+  {
+    "domain": "hyatt",
+    "dnssec": true
+  },
+  {
+    "domain": "hyundai",
+    "dnssec": true
+  },
+  {
+    "domain": "ibm",
+    "dnssec": true
+  },
+  {
+    "domain": "icbc",
+    "dnssec": true
+  },
+  {
+    "domain": "ice",
+    "dnssec": true
+  },
+  {
+    "domain": "icu",
+    "dnssec": true
+  },
+  {
+    "domain": "id",
+    "dnssec": true
+  },
+  {
+    "domain": "ie",
+    "dnssec": true
+  },
+  {
+    "domain": "ieee",
+    "dnssec": true
+  },
+  {
+    "domain": "ifm",
+    "dnssec": true
+  },
+  {
+    "domain": "ikano",
+    "dnssec": true
+  },
+  {
+    "domain": "il",
+    "dnssec": true
+  },
+  {
+    "domain": "imamat",
+    "dnssec": true
+  },
+  {
+    "domain": "imdb",
+    "dnssec": true
+  },
+  {
+    "domain": "immo",
+    "dnssec": true
+  },
+  {
+    "domain": "immobilien",
+    "dnssec": true
+  },
+  {
+    "domain": "in",
+    "dnssec": true
+  },
+  {
+    "domain": "inc",
+    "dnssec": true
+  },
+  {
+    "domain": "industries",
+    "dnssec": true
+  },
+  {
+    "domain": "infiniti",
+    "dnssec": true
+  },
+  {
+    "domain": "info",
+    "dnssec": true
+  },
+  {
+    "domain": "ing",
+    "dnssec": true
+  },
+  {
+    "domain": "ink",
+    "dnssec": true
+  },
+  {
+    "domain": "institute",
+    "dnssec": true
+  },
+  {
+    "domain": "insurance",
+    "dnssec": true
+  },
+  {
+    "domain": "insure",
+    "dnssec": true
+  },
+  {
+    "domain": "int",
+    "dnssec": true
+  },
+  {
+    "domain": "international",
+    "dnssec": true
+  },
+  {
+    "domain": "intuit",
+    "dnssec": true
+  },
+  {
+    "domain": "investments",
+    "dnssec": true
+  },
+  {
+    "domain": "io",
+    "dnssec": true
+  },
+  {
+    "domain": "ipiranga",
+    "dnssec": true
+  },
+  {
+    "domain": "ir",
+    "dnssec": true
+  },
+  {
+    "domain": "irish",
+    "dnssec": true
+  },
+  {
+    "domain": "is",
+    "dnssec": true
+  },
+  {
+    "domain": "ismaili",
+    "dnssec": true
+  },
+  {
+    "domain": "ist",
+    "dnssec": true
+  },
+  {
+    "domain": "istanbul",
+    "dnssec": true
+  },
+  {
+    "domain": "it",
+    "dnssec": true
+  },
+  {
+    "domain": "itau",
+    "dnssec": true
+  },
+  {
+    "domain": "itv",
+    "dnssec": true
+  },
+  {
+    "domain": "jaguar",
+    "dnssec": true
+  },
+  {
+    "domain": "java",
+    "dnssec": true
+  },
+  {
+    "domain": "jcb",
+    "dnssec": true
+  },
+  {
+    "domain": "je",
+    "dnssec": true
+  },
+  {
+    "domain": "jeep",
+    "dnssec": true
+  },
+  {
+    "domain": "jetzt",
+    "dnssec": true
+  },
+  {
+    "domain": "jewelry",
+    "dnssec": true
+  },
+  {
+    "domain": "jio",
+    "dnssec": true
+  },
+  {
+    "domain": "jll",
+    "dnssec": true
+  },
+  {
+    "domain": "jmp",
+    "dnssec": true
+  },
+  {
+    "domain": "jnj",
+    "dnssec": true
+  },
+  {
+    "domain": "jobs",
+    "dnssec": true
+  },
+  {
+    "domain": "joburg",
+    "dnssec": true
+  },
+  {
+    "domain": "jot",
+    "dnssec": true
+  },
+  {
+    "domain": "joy",
+    "dnssec": true
+  },
+  {
+    "domain": "jp",
+    "dnssec": true
+  },
+  {
+    "domain": "jpmorgan",
+    "dnssec": true
+  },
+  {
+    "domain": "jprs",
+    "dnssec": true
+  },
+  {
+    "domain": "juegos",
+    "dnssec": true
+  },
+  {
+    "domain": "juniper",
+    "dnssec": true
+  },
+  {
+    "domain": "kaufen",
+    "dnssec": true
+  },
+  {
+    "domain": "kddi",
+    "dnssec": true
+  },
+  {
+    "domain": "ke",
+    "dnssec": true
+  },
+  {
+    "domain": "kerryhotels",
+    "dnssec": true
+  },
+  {
+    "domain": "kerryproperties",
+    "dnssec": true
+  },
+  {
+    "domain": "kfh",
+    "dnssec": true
+  },
+  {
+    "domain": "kg",
+    "dnssec": true
+  },
+  {
+    "domain": "ki",
+    "dnssec": true
+  },
+  {
+    "domain": "kia",
+    "dnssec": true
+  },
+  {
+    "domain": "kids",
+    "dnssec": true
+  },
+  {
+    "domain": "kim",
+    "dnssec": true
+  },
+  {
+    "domain": "kindle",
+    "dnssec": true
+  },
+  {
+    "domain": "kitchen",
+    "dnssec": true
+  },
+  {
+    "domain": "kiwi",
+    "dnssec": true
+  },
+  {
+    "domain": "koeln",
+    "dnssec": true
+  },
+  {
+    "domain": "komatsu",
+    "dnssec": true
+  },
+  {
+    "domain": "kosher",
+    "dnssec": true
+  },
+  {
+    "domain": "kpmg",
+    "dnssec": true
+  },
+  {
+    "domain": "kpn",
+    "dnssec": true
+  },
+  {
+    "domain": "kr",
+    "dnssec": true
+  },
+  {
+    "domain": "krd",
+    "dnssec": true
+  },
+  {
+    "domain": "kred",
+    "dnssec": true
+  },
+  {
+    "domain": "kuokgroup",
+    "dnssec": true
+  },
+  {
+    "domain": "kw",
+    "dnssec": true
+  },
+  {
+    "domain": "ky",
+    "dnssec": true
+  },
+  {
+    "domain": "kyoto",
+    "dnssec": true
+  },
+  {
+    "domain": "kz",
+    "dnssec": true
+  },
+  {
+    "domain": "la",
+    "dnssec": true
+  },
+  {
+    "domain": "lacaixa",
+    "dnssec": true
+  },
+  {
+    "domain": "lamborghini",
+    "dnssec": true
+  },
+  {
+    "domain": "lamer",
+    "dnssec": true
+  },
+  {
+    "domain": "land",
+    "dnssec": true
+  },
+  {
+    "domain": "landrover",
+    "dnssec": true
+  },
+  {
+    "domain": "lanxess",
+    "dnssec": true
+  },
+  {
+    "domain": "lasalle",
+    "dnssec": true
+  },
+  {
+    "domain": "lat",
+    "dnssec": true
+  },
+  {
+    "domain": "latino",
+    "dnssec": true
+  },
+  {
+    "domain": "latrobe",
+    "dnssec": true
+  },
+  {
+    "domain": "law",
+    "dnssec": true
+  },
+  {
+    "domain": "lawyer",
+    "dnssec": true
+  },
+  {
+    "domain": "lb",
+    "dnssec": true
+  },
+  {
+    "domain": "lc",
+    "dnssec": true
+  },
+  {
+    "domain": "lds",
+    "dnssec": true
+  },
+  {
+    "domain": "lease",
+    "dnssec": true
+  },
+  {
+    "domain": "leclerc",
+    "dnssec": true
+  },
+  {
+    "domain": "lefrak",
+    "dnssec": true
+  },
+  {
+    "domain": "legal",
+    "dnssec": true
+  },
+  {
+    "domain": "lego",
+    "dnssec": true
+  },
+  {
+    "domain": "lexus",
+    "dnssec": true
+  },
+  {
+    "domain": "lgbt",
+    "dnssec": true
+  },
+  {
+    "domain": "li",
+    "dnssec": true
+  },
+  {
+    "domain": "lidl",
+    "dnssec": true
+  },
+  {
+    "domain": "life",
+    "dnssec": true
+  },
+  {
+    "domain": "lifeinsurance",
+    "dnssec": true
+  },
+  {
+    "domain": "lifestyle",
+    "dnssec": true
+  },
+  {
+    "domain": "lighting",
+    "dnssec": true
+  },
+  {
+    "domain": "like",
+    "dnssec": true
+  },
+  {
+    "domain": "lilly",
+    "dnssec": true
+  },
+  {
+    "domain": "limited",
+    "dnssec": true
+  },
+  {
+    "domain": "limo",
+    "dnssec": true
+  },
+  {
+    "domain": "lincoln",
+    "dnssec": true
+  },
+  {
+    "domain": "link",
+    "dnssec": true
+  },
+  {
+    "domain": "live",
+    "dnssec": true
+  },
+  {
+    "domain": "living",
+    "dnssec": true
+  },
+  {
+    "domain": "lk",
+    "dnssec": true
+  },
+  {
+    "domain": "llc",
+    "dnssec": true
+  },
+  {
+    "domain": "llp",
+    "dnssec": true
+  },
+  {
+    "domain": "loan",
+    "dnssec": true
+  },
+  {
+    "domain": "loans",
+    "dnssec": true
+  },
+  {
+    "domain": "locker",
+    "dnssec": true
+  },
+  {
+    "domain": "locus",
+    "dnssec": true
+  },
+  {
+    "domain": "lol",
+    "dnssec": true
+  },
+  {
+    "domain": "london",
+    "dnssec": true
+  },
+  {
+    "domain": "lotte",
+    "dnssec": true
+  },
+  {
+    "domain": "lotto",
+    "dnssec": true
+  },
+  {
+    "domain": "love",
+    "dnssec": true
+  },
+  {
+    "domain": "lpl",
+    "dnssec": true
+  },
+  {
+    "domain": "lplfinancial",
+    "dnssec": true
+  },
+  {
+    "domain": "lr",
+    "dnssec": true
+  },
+  {
+    "domain": "ls",
+    "dnssec": true
+  },
+  {
+    "domain": "lt",
+    "dnssec": true
+  },
+  {
+    "domain": "ltd",
+    "dnssec": true
+  },
+  {
+    "domain": "ltda",
+    "dnssec": true
+  },
+  {
+    "domain": "lu",
+    "dnssec": true
+  },
+  {
+    "domain": "lundbeck",
+    "dnssec": true
+  },
+  {
+    "domain": "luxe",
+    "dnssec": true
+  },
+  {
+    "domain": "luxury",
+    "dnssec": true
+  },
+  {
+    "domain": "lv",
+    "dnssec": true
+  },
+  {
+    "domain": "ly",
+    "dnssec": true
+  },
+  {
+    "domain": "ma",
+    "dnssec": true
+  },
+  {
+    "domain": "madrid",
+    "dnssec": true
+  },
+  {
+    "domain": "maif",
+    "dnssec": true
+  },
+  {
+    "domain": "maison",
+    "dnssec": true
+  },
+  {
+    "domain": "makeup",
+    "dnssec": true
+  },
+  {
+    "domain": "man",
+    "dnssec": true
+  },
+  {
+    "domain": "management",
+    "dnssec": true
+  },
+  {
+    "domain": "mango",
+    "dnssec": true
+  },
+  {
+    "domain": "map",
+    "dnssec": true
+  },
+  {
+    "domain": "market",
+    "dnssec": true
+  },
+  {
+    "domain": "marketing",
+    "dnssec": true
+  },
+  {
+    "domain": "markets",
+    "dnssec": true
+  },
+  {
+    "domain": "marriott",
+    "dnssec": true
+  },
+  {
+    "domain": "marshalls",
+    "dnssec": true
+  },
+  {
+    "domain": "mattel",
+    "dnssec": true
+  },
+  {
+    "domain": "mba",
+    "dnssec": true
+  },
+  {
+    "domain": "mc",
+    "dnssec": true
+  },
+  {
+    "domain": "mckinsey",
+    "dnssec": true
+  },
+  {
+    "domain": "md",
+    "dnssec": true
+  },
+  {
+    "domain": "me",
+    "dnssec": true
+  },
+  {
+    "domain": "med",
+    "dnssec": true
+  },
+  {
+    "domain": "media",
+    "dnssec": true
+  },
+  {
+    "domain": "meet",
+    "dnssec": true
+  },
+  {
+    "domain": "melbourne",
+    "dnssec": true
+  },
+  {
+    "domain": "meme",
+    "dnssec": true
+  },
+  {
+    "domain": "memorial",
+    "dnssec": true
+  },
+  {
+    "domain": "men",
+    "dnssec": true
+  },
+  {
+    "domain": "menu",
+    "dnssec": true
+  },
+  {
+    "domain": "merckmsd",
+    "dnssec": true
+  },
+  {
+    "domain": "mg",
+    "dnssec": true
+  },
+  {
+    "domain": "miami",
+    "dnssec": true
+  },
+  {
+    "domain": "microsoft",
+    "dnssec": true
+  },
+  {
+    "domain": "mil",
+    "dnssec": true
+  },
+  {
+    "domain": "mini",
+    "dnssec": true
+  },
+  {
+    "domain": "mint",
+    "dnssec": true
+  },
+  {
+    "domain": "mit",
+    "dnssec": true
+  },
+  {
+    "domain": "mitsubishi",
+    "dnssec": true
+  },
+  {
+    "domain": "mlb",
+    "dnssec": true
+  },
+  {
+    "domain": "mls",
+    "dnssec": true
+  },
+  {
+    "domain": "mm",
+    "dnssec": true
+  },
+  {
+    "domain": "mma",
+    "dnssec": true
+  },
+  {
+    "domain": "mn",
+    "dnssec": true
+  },
+  {
+    "domain": "mobi",
+    "dnssec": true
+  },
+  {
+    "domain": "mobile",
+    "dnssec": true
+  },
+  {
+    "domain": "moda",
+    "dnssec": true
+  },
+  {
+    "domain": "moe",
+    "dnssec": true
+  },
+  {
+    "domain": "moi",
+    "dnssec": true
+  },
+  {
+    "domain": "mom",
+    "dnssec": true
+  },
+  {
+    "domain": "monash",
+    "dnssec": true
+  },
+  {
+    "domain": "money",
+    "dnssec": true
+  },
+  {
+    "domain": "monster",
+    "dnssec": true
+  },
+  {
+    "domain": "mormon",
+    "dnssec": true
+  },
+  {
+    "domain": "mortgage",
+    "dnssec": true
+  },
+  {
+    "domain": "moscow",
+    "dnssec": true
+  },
+  {
+    "domain": "moto",
+    "dnssec": true
+  },
+  {
+    "domain": "motorcycles",
+    "dnssec": true
+  },
+  {
+    "domain": "mov",
+    "dnssec": true
+  },
+  {
+    "domain": "movie",
+    "dnssec": true
+  },
+  {
+    "domain": "mr",
+    "dnssec": true
+  },
+  {
+    "domain": "ms",
+    "dnssec": true
+  },
+  {
+    "domain": "msd",
+    "dnssec": true
+  },
+  {
+    "domain": "mtn",
+    "dnssec": true
+  },
+  {
+    "domain": "mtr",
+    "dnssec": true
+  },
+  {
+    "domain": "mu",
+    "dnssec": true
+  },
+  {
+    "domain": "museum",
+    "dnssec": true
+  },
+  {
+    "domain": "music",
+    "dnssec": true
+  },
+  {
+    "domain": "mx",
+    "dnssec": true
+  },
+  {
+    "domain": "my",
+    "dnssec": true
+  },
+  {
+    "domain": "na",
+    "dnssec": true
+  },
+  {
+    "domain": "nab",
+    "dnssec": true
+  },
+  {
+    "domain": "nagoya",
+    "dnssec": true
+  },
+  {
+    "domain": "name",
+    "dnssec": true
+  },
+  {
+    "domain": "navy",
+    "dnssec": true
+  },
+  {
+    "domain": "nba",
+    "dnssec": true
+  },
+  {
+    "domain": "nc",
+    "dnssec": true
+  },
+  {
+    "domain": "nec",
+    "dnssec": true
+  },
+  {
+    "domain": "net",
+    "dnssec": true
+  },
+  {
+    "domain": "netbank",
+    "dnssec": true
+  },
+  {
+    "domain": "netflix",
+    "dnssec": true
+  },
+  {
+    "domain": "network",
+    "dnssec": true
+  },
+  {
+    "domain": "neustar",
+    "dnssec": true
+  },
+  {
+    "domain": "new",
+    "dnssec": true
+  },
+  {
+    "domain": "news",
+    "dnssec": true
+  },
+  {
+    "domain": "next",
+    "dnssec": true
+  },
+  {
+    "domain": "nextdirect",
+    "dnssec": true
+  },
+  {
+    "domain": "nexus",
+    "dnssec": true
+  },
+  {
+    "domain": "nf",
+    "dnssec": true
+  },
+  {
+    "domain": "nfl",
+    "dnssec": true
+  },
+  {
+    "domain": "ngo",
+    "dnssec": true
+  },
+  {
+    "domain": "nhk",
+    "dnssec": true
+  },
+  {
+    "domain": "nico",
+    "dnssec": true
+  },
+  {
+    "domain": "nike",
+    "dnssec": true
+  },
+  {
+    "domain": "nikon",
+    "dnssec": true
+  },
+  {
+    "domain": "ninja",
+    "dnssec": true
+  },
+  {
+    "domain": "nissan",
+    "dnssec": true
+  },
+  {
+    "domain": "nissay",
+    "dnssec": true
+  },
+  {
+    "domain": "nl",
+    "dnssec": true
+  },
+  {
+    "domain": "no",
+    "dnssec": true
+  },
+  {
+    "domain": "nokia",
+    "dnssec": true
+  },
+  {
+    "domain": "norton",
+    "dnssec": true
+  },
+  {
+    "domain": "now",
+    "dnssec": true
+  },
+  {
+    "domain": "nowruz",
+    "dnssec": true
+  },
+  {
+    "domain": "nowtv",
+    "dnssec": true
+  },
+  {
+    "domain": "nra",
+    "dnssec": true
+  },
+  {
+    "domain": "nrw",
+    "dnssec": true
+  },
+  {
+    "domain": "ntt",
+    "dnssec": true
+  },
+  {
+    "domain": "nu",
+    "dnssec": true
+  },
+  {
+    "domain": "nyc",
+    "dnssec": true
+  },
+  {
+    "domain": "nz",
+    "dnssec": true
+  },
+  {
+    "domain": "obi",
+    "dnssec": true
+  },
+  {
+    "domain": "observer",
+    "dnssec": true
+  },
+  {
+    "domain": "office",
+    "dnssec": true
+  },
+  {
+    "domain": "okinawa",
+    "dnssec": true
+  },
+  {
+    "domain": "olayan",
+    "dnssec": true
+  },
+  {
+    "domain": "olayangroup",
+    "dnssec": true
+  },
+  {
+    "domain": "ollo",
+    "dnssec": true
+  },
+  {
+    "domain": "omega",
+    "dnssec": true
+  },
+  {
+    "domain": "one",
+    "dnssec": true
+  },
+  {
+    "domain": "ong",
+    "dnssec": true
+  },
+  {
+    "domain": "onl",
+    "dnssec": true
+  },
+  {
+    "domain": "online",
+    "dnssec": true
+  },
+  {
+    "domain": "ooo",
+    "dnssec": true
+  },
+  {
+    "domain": "open",
+    "dnssec": true
+  },
+  {
+    "domain": "oracle",
+    "dnssec": true
+  },
+  {
+    "domain": "orange",
+    "dnssec": true
+  },
+  {
+    "domain": "org",
+    "dnssec": true
+  },
+  {
+    "domain": "organic",
+    "dnssec": true
+  },
+  {
+    "domain": "origins",
+    "dnssec": true
+  },
+  {
+    "domain": "osaka",
+    "dnssec": true
+  },
+  {
+    "domain": "otsuka",
+    "dnssec": true
+  },
+  {
+    "domain": "ott",
+    "dnssec": true
+  },
+  {
+    "domain": "ovh",
+    "dnssec": true
+  },
+  {
+    "domain": "page",
+    "dnssec": true
+  },
+  {
+    "domain": "panasonic",
+    "dnssec": true
+  },
+  {
+    "domain": "paris",
+    "dnssec": true
+  },
+  {
+    "domain": "pars",
+    "dnssec": true
+  },
+  {
+    "domain": "partners",
+    "dnssec": true
+  },
+  {
+    "domain": "parts",
+    "dnssec": true
+  },
+  {
+    "domain": "party",
+    "dnssec": true
+  },
+  {
+    "domain": "pay",
+    "dnssec": true
+  },
+  {
+    "domain": "pccw",
+    "dnssec": true
+  },
+  {
+    "domain": "pe",
+    "dnssec": true
+  },
+  {
+    "domain": "pet",
+    "dnssec": true
+  },
+  {
+    "domain": "pfizer",
+    "dnssec": true
+  },
+  {
+    "domain": "pg",
+    "dnssec": true
+  },
+  {
+    "domain": "ph",
+    "dnssec": true
+  },
+  {
+    "domain": "pharmacy",
+    "dnssec": true
+  },
+  {
+    "domain": "phd",
+    "dnssec": true
+  },
+  {
+    "domain": "philips",
+    "dnssec": true
+  },
+  {
+    "domain": "phone",
+    "dnssec": true
+  },
+  {
+    "domain": "photo",
+    "dnssec": true
+  },
+  {
+    "domain": "photography",
+    "dnssec": true
+  },
+  {
+    "domain": "photos",
+    "dnssec": true
+  },
+  {
+    "domain": "physio",
+    "dnssec": true
+  },
+  {
+    "domain": "pics",
+    "dnssec": true
+  },
+  {
+    "domain": "pictet",
+    "dnssec": true
+  },
+  {
+    "domain": "pictures",
+    "dnssec": true
+  },
+  {
+    "domain": "pid",
+    "dnssec": true
+  },
+  {
+    "domain": "pin",
+    "dnssec": true
+  },
+  {
+    "domain": "ping",
+    "dnssec": true
+  },
+  {
+    "domain": "pink",
+    "dnssec": true
+  },
+  {
+    "domain": "pioneer",
+    "dnssec": true
+  },
+  {
+    "domain": "pizza",
+    "dnssec": true
+  },
+  {
+    "domain": "pl",
+    "dnssec": true
+  },
+  {
+    "domain": "place",
+    "dnssec": true
+  },
+  {
+    "domain": "play",
+    "dnssec": true
+  },
+  {
+    "domain": "playstation",
+    "dnssec": true
+  },
+  {
+    "domain": "plumbing",
+    "dnssec": true
+  },
+  {
+    "domain": "plus",
+    "dnssec": true
+  },
+  {
+    "domain": "pm",
+    "dnssec": true
+  },
+  {
+    "domain": "pnc",
+    "dnssec": true
+  },
+  {
+    "domain": "pohl",
+    "dnssec": true
+  },
+  {
+    "domain": "poker",
+    "dnssec": true
+  },
+  {
+    "domain": "politie",
+    "dnssec": true
+  },
+  {
+    "domain": "porn",
+    "dnssec": true
+  },
+  {
+    "domain": "post",
+    "dnssec": true
+  },
+  {
+    "domain": "pr",
+    "dnssec": true
+  },
+  {
+    "domain": "praxi",
+    "dnssec": true
+  },
+  {
+    "domain": "press",
+    "dnssec": true
+  },
+  {
+    "domain": "prime",
+    "dnssec": true
+  },
+  {
+    "domain": "pro",
+    "dnssec": true
+  },
+  {
+    "domain": "prod",
+    "dnssec": true
+  },
+  {
+    "domain": "productions",
+    "dnssec": true
+  },
+  {
+    "domain": "prof",
+    "dnssec": true
+  },
+  {
+    "domain": "progressive",
+    "dnssec": true
+  },
+  {
+    "domain": "promo",
+    "dnssec": true
+  },
+  {
+    "domain": "properties",
+    "dnssec": true
+  },
+  {
+    "domain": "property",
+    "dnssec": true
+  },
+  {
+    "domain": "protection",
+    "dnssec": true
+  },
+  {
+    "domain": "pru",
+    "dnssec": true
+  },
+  {
+    "domain": "prudential",
+    "dnssec": true
+  },
+  {
+    "domain": "pt",
+    "dnssec": true
+  },
+  {
+    "domain": "pub",
+    "dnssec": true
+  },
+  {
+    "domain": "pw",
+    "dnssec": true
+  },
+  {
+    "domain": "pwc",
+    "dnssec": true
+  },
+  {
+    "domain": "py",
+    "dnssec": true
+  },
+  {
+    "domain": "qpon",
+    "dnssec": true
+  },
+  {
+    "domain": "quebec",
+    "dnssec": true
+  },
+  {
+    "domain": "quest",
+    "dnssec": true
+  },
+  {
+    "domain": "racing",
+    "dnssec": true
+  },
+  {
+    "domain": "radio",
+    "dnssec": true
+  },
+  {
+    "domain": "re",
+    "dnssec": true
+  },
+  {
+    "domain": "read",
+    "dnssec": true
+  },
+  {
+    "domain": "realestate",
+    "dnssec": true
+  },
+  {
+    "domain": "realtor",
+    "dnssec": true
+  },
+  {
+    "domain": "realty",
+    "dnssec": true
+  },
+  {
+    "domain": "recipes",
+    "dnssec": true
+  },
+  {
+    "domain": "red",
+    "dnssec": true
+  },
+  {
+    "domain": "redumbrella",
+    "dnssec": true
+  },
+  {
+    "domain": "rehab",
+    "dnssec": true
+  },
+  {
+    "domain": "reise",
+    "dnssec": true
+  },
+  {
+    "domain": "reisen",
+    "dnssec": true
+  },
+  {
+    "domain": "reit",
+    "dnssec": true
+  },
+  {
+    "domain": "reliance",
+    "dnssec": true
+  },
+  {
+    "domain": "ren",
+    "dnssec": true
+  },
+  {
+    "domain": "rent",
+    "dnssec": true
+  },
+  {
+    "domain": "rentals",
+    "dnssec": true
+  },
+  {
+    "domain": "repair",
+    "dnssec": true
+  },
+  {
+    "domain": "report",
+    "dnssec": true
+  },
+  {
+    "domain": "republican",
+    "dnssec": true
+  },
+  {
+    "domain": "rest",
+    "dnssec": true
+  },
+  {
+    "domain": "restaurant",
+    "dnssec": true
+  },
+  {
+    "domain": "review",
+    "dnssec": true
+  },
+  {
+    "domain": "reviews",
+    "dnssec": true
+  },
+  {
+    "domain": "rexroth",
+    "dnssec": true
+  },
+  {
+    "domain": "rich",
+    "dnssec": true
+  },
+  {
+    "domain": "richardli",
+    "dnssec": true
+  },
+  {
+    "domain": "ricoh",
+    "dnssec": true
+  },
+  {
+    "domain": "ril",
+    "dnssec": true
+  },
+  {
+    "domain": "rio",
+    "dnssec": true
+  },
+  {
+    "domain": "rip",
+    "dnssec": true
+  },
+  {
+    "domain": "ro",
+    "dnssec": true
+  },
+  {
+    "domain": "rocks",
+    "dnssec": true
+  },
+  {
+    "domain": "rodeo",
+    "dnssec": true
+  },
+  {
+    "domain": "rogers",
+    "dnssec": true
+  },
+  {
+    "domain": "room",
+    "dnssec": true
+  },
+  {
+    "domain": "rs",
+    "dnssec": true
+  },
+  {
+    "domain": "rsvp",
+    "dnssec": true
+  },
+  {
+    "domain": "ru",
+    "dnssec": true
+  },
+  {
+    "domain": "rugby",
+    "dnssec": true
+  },
+  {
+    "domain": "ruhr",
+    "dnssec": true
+  },
+  {
+    "domain": "run",
+    "dnssec": true
+  },
+  {
+    "domain": "rw",
+    "dnssec": true
+  },
+  {
+    "domain": "rwe",
+    "dnssec": true
+  },
+  {
+    "domain": "ryukyu",
+    "dnssec": true
+  },
+  {
+    "domain": "sa",
+    "dnssec": true
+  },
+  {
+    "domain": "saarland",
+    "dnssec": true
+  },
+  {
+    "domain": "safe",
+    "dnssec": true
+  },
+  {
+    "domain": "safety",
+    "dnssec": true
+  },
+  {
+    "domain": "sakura",
+    "dnssec": true
+  },
+  {
+    "domain": "sale",
+    "dnssec": true
+  },
+  {
+    "domain": "salon",
+    "dnssec": true
+  },
+  {
+    "domain": "samsclub",
+    "dnssec": true
+  },
+  {
+    "domain": "samsung",
+    "dnssec": true
+  },
+  {
+    "domain": "sandvik",
+    "dnssec": true
+  },
+  {
+    "domain": "sandvikcoromant",
+    "dnssec": true
+  },
+  {
+    "domain": "sanofi",
+    "dnssec": true
+  },
+  {
+    "domain": "sap",
+    "dnssec": true
+  },
+  {
+    "domain": "sarl",
+    "dnssec": true
+  },
+  {
+    "domain": "sas",
+    "dnssec": true
+  },
+  {
+    "domain": "save",
+    "dnssec": true
+  },
+  {
+    "domain": "saxo",
+    "dnssec": true
+  },
+  {
+    "domain": "sb",
+    "dnssec": true
+  },
+  {
+    "domain": "sbi",
+    "dnssec": true
+  },
+  {
+    "domain": "sbs",
+    "dnssec": true
+  },
+  {
+    "domain": "sc",
+    "dnssec": true
+  },
+  {
+    "domain": "scb",
+    "dnssec": true
+  },
+  {
+    "domain": "schaeffler",
+    "dnssec": true
+  },
+  {
+    "domain": "schmidt",
+    "dnssec": true
+  },
+  {
+    "domain": "scholarships",
+    "dnssec": true
+  },
+  {
+    "domain": "school",
+    "dnssec": true
+  },
+  {
+    "domain": "schule",
+    "dnssec": true
+  },
+  {
+    "domain": "schwarz",
+    "dnssec": true
+  },
+  {
+    "domain": "science",
+    "dnssec": true
+  },
+  {
+    "domain": "scot",
+    "dnssec": true
+  },
+  {
+    "domain": "se",
+    "dnssec": true
+  },
+  {
+    "domain": "search",
+    "dnssec": true
+  },
+  {
+    "domain": "seat",
+    "dnssec": true
+  },
+  {
+    "domain": "secure",
+    "dnssec": true
+  },
+  {
+    "domain": "security",
+    "dnssec": true
+  },
+  {
+    "domain": "seek",
+    "dnssec": true
+  },
+  {
+    "domain": "select",
+    "dnssec": true
+  },
+  {
+    "domain": "sener",
+    "dnssec": true
+  },
+  {
+    "domain": "services",
+    "dnssec": true
+  },
+  {
+    "domain": "seven",
+    "dnssec": true
+  },
+  {
+    "domain": "sew",
+    "dnssec": true
+  },
+  {
+    "domain": "sex",
+    "dnssec": true
+  },
+  {
+    "domain": "sexy",
+    "dnssec": true
+  },
+  {
+    "domain": "sfr",
+    "dnssec": true
+  },
+  {
+    "domain": "sg",
+    "dnssec": true
+  },
+  {
+    "domain": "sh",
+    "dnssec": true
+  },
+  {
+    "domain": "shangrila",
+    "dnssec": true
+  },
+  {
+    "domain": "sharp",
+    "dnssec": true
+  },
+  {
+    "domain": "shell",
+    "dnssec": true
+  },
+  {
+    "domain": "shia",
+    "dnssec": true
+  },
+  {
+    "domain": "shiksha",
+    "dnssec": true
+  },
+  {
+    "domain": "shoes",
+    "dnssec": true
+  },
+  {
+    "domain": "shop",
+    "dnssec": true
+  },
+  {
+    "domain": "shopping",
+    "dnssec": true
+  },
+  {
+    "domain": "shouji",
+    "dnssec": true
+  },
+  {
+    "domain": "show",
+    "dnssec": true
+  },
+  {
+    "domain": "si",
+    "dnssec": true
+  },
+  {
+    "domain": "silk",
+    "dnssec": true
+  },
+  {
+    "domain": "sina",
+    "dnssec": true
+  },
+  {
+    "domain": "singles",
+    "dnssec": true
+  },
+  {
+    "domain": "site",
+    "dnssec": true
+  },
+  {
+    "domain": "sj",
+    "dnssec": true
+  },
+  {
+    "domain": "sk",
+    "dnssec": true
+  },
+  {
+    "domain": "ski",
+    "dnssec": true
+  },
+  {
+    "domain": "skin",
+    "dnssec": true
+  },
+  {
+    "domain": "sky",
+    "dnssec": true
+  },
+  {
+    "domain": "skype",
+    "dnssec": true
+  },
+  {
+    "domain": "sling",
+    "dnssec": true
+  },
+  {
+    "domain": "smart",
+    "dnssec": true
+  },
+  {
+    "domain": "smile",
+    "dnssec": true
+  },
+  {
+    "domain": "sn",
+    "dnssec": true
+  },
+  {
+    "domain": "sncf",
+    "dnssec": true
+  },
+  {
+    "domain": "soccer",
+    "dnssec": true
+  },
+  {
+    "domain": "social",
+    "dnssec": true
+  },
+  {
+    "domain": "softbank",
+    "dnssec": true
+  },
+  {
+    "domain": "software",
+    "dnssec": true
+  },
+  {
+    "domain": "sohu",
+    "dnssec": true
+  },
+  {
+    "domain": "solar",
+    "dnssec": true
+  },
+  {
+    "domain": "solutions",
+    "dnssec": true
+  },
+  {
+    "domain": "song",
+    "dnssec": true
+  },
+  {
+    "domain": "sony",
+    "dnssec": true
+  },
+  {
+    "domain": "soy",
+    "dnssec": true
+  },
+  {
+    "domain": "spa",
+    "dnssec": true
+  },
+  {
+    "domain": "space",
+    "dnssec": true
+  },
+  {
+    "domain": "sport",
+    "dnssec": true
+  },
+  {
+    "domain": "spot",
+    "dnssec": true
+  },
+  {
+    "domain": "sr",
+    "dnssec": true
+  },
+  {
+    "domain": "srl",
+    "dnssec": true
+  },
+  {
+    "domain": "ss",
+    "dnssec": true
+  },
+  {
+    "domain": "stada",
+    "dnssec": true
+  },
+  {
+    "domain": "staples",
+    "dnssec": true
+  },
+  {
+    "domain": "star",
+    "dnssec": true
+  },
+  {
+    "domain": "statebank",
+    "dnssec": true
+  },
+  {
+    "domain": "statefarm",
+    "dnssec": true
+  },
+  {
+    "domain": "stc",
+    "dnssec": true
+  },
+  {
+    "domain": "stcgroup",
+    "dnssec": true
+  },
+  {
+    "domain": "stockholm",
+    "dnssec": true
+  },
+  {
+    "domain": "storage",
+    "dnssec": true
+  },
+  {
+    "domain": "store",
+    "dnssec": true
+  },
+  {
+    "domain": "stream",
+    "dnssec": true
+  },
+  {
+    "domain": "studio",
+    "dnssec": true
+  },
+  {
+    "domain": "study",
+    "dnssec": true
+  },
+  {
+    "domain": "style",
+    "dnssec": true
+  },
+  {
+    "domain": "su",
+    "dnssec": true
+  },
+  {
+    "domain": "sucks",
+    "dnssec": true
+  },
+  {
+    "domain": "supplies",
+    "dnssec": true
+  },
+  {
+    "domain": "supply",
+    "dnssec": true
+  },
+  {
+    "domain": "support",
+    "dnssec": true
+  },
+  {
+    "domain": "surf",
+    "dnssec": true
+  },
+  {
+    "domain": "surgery",
+    "dnssec": true
+  },
+  {
+    "domain": "suzuki",
+    "dnssec": true
+  },
+  {
+    "domain": "swatch",
+    "dnssec": true
+  },
+  {
+    "domain": "swiss",
+    "dnssec": true
+  },
+  {
+    "domain": "sx",
+    "dnssec": true
+  },
+  {
+    "domain": "sydney",
+    "dnssec": true
+  },
+  {
+    "domain": "systems",
+    "dnssec": true
+  },
+  {
+    "domain": "tab",
+    "dnssec": true
+  },
+  {
+    "domain": "taipei",
+    "dnssec": true
+  },
+  {
+    "domain": "talk",
+    "dnssec": true
+  },
+  {
+    "domain": "taobao",
+    "dnssec": true
+  },
+  {
+    "domain": "target",
+    "dnssec": true
+  },
+  {
+    "domain": "tatamotors",
+    "dnssec": true
+  },
+  {
+    "domain": "tatar",
+    "dnssec": true
+  },
+  {
+    "domain": "tattoo",
+    "dnssec": true
+  },
+  {
+    "domain": "tax",
+    "dnssec": true
+  },
+  {
+    "domain": "taxi",
+    "dnssec": true
+  },
+  {
+    "domain": "tci",
+    "dnssec": true
+  },
+  {
+    "domain": "tdk",
+    "dnssec": true
+  },
+  {
+    "domain": "team",
+    "dnssec": true
+  },
+  {
+    "domain": "tech",
+    "dnssec": true
+  },
+  {
+    "domain": "technology",
+    "dnssec": true
+  },
+  {
+    "domain": "tel",
+    "dnssec": true
+  },
+  {
+    "domain": "temasek",
+    "dnssec": true
+  },
+  {
+    "domain": "tennis",
+    "dnssec": true
+  },
+  {
+    "domain": "teva",
+    "dnssec": true
+  },
+  {
+    "domain": "tf",
+    "dnssec": true
+  },
+  {
+    "domain": "th",
+    "dnssec": true
+  },
+  {
+    "domain": "thd",
+    "dnssec": true
+  },
+  {
+    "domain": "theater",
+    "dnssec": true
+  },
+  {
+    "domain": "theatre",
+    "dnssec": true
+  },
+  {
+    "domain": "tiaa",
+    "dnssec": true
+  },
+  {
+    "domain": "tickets",
+    "dnssec": true
+  },
+  {
+    "domain": "tienda",
+    "dnssec": true
+  },
+  {
+    "domain": "tips",
+    "dnssec": true
+  },
+  {
+    "domain": "tires",
+    "dnssec": true
+  },
+  {
+    "domain": "tirol",
+    "dnssec": true
+  },
+  {
+    "domain": "tjmaxx",
+    "dnssec": true
+  },
+  {
+    "domain": "tjx",
+    "dnssec": true
+  },
+  {
+    "domain": "tkmaxx",
+    "dnssec": true
+  },
+  {
+    "domain": "tl",
+    "dnssec": true
+  },
+  {
+    "domain": "tm",
+    "dnssec": true
+  },
+  {
+    "domain": "tmall",
+    "dnssec": true
+  },
+  {
+    "domain": "tn",
+    "dnssec": true
+  },
+  {
+    "domain": "today",
+    "dnssec": true
+  },
+  {
+    "domain": "tokyo",
+    "dnssec": true
+  },
+  {
+    "domain": "tools",
+    "dnssec": true
+  },
+  {
+    "domain": "top",
+    "dnssec": true
+  },
+  {
+    "domain": "toray",
+    "dnssec": true
+  },
+  {
+    "domain": "toshiba",
+    "dnssec": true
+  },
+  {
+    "domain": "total",
+    "dnssec": true
+  },
+  {
+    "domain": "tours",
+    "dnssec": true
+  },
+  {
+    "domain": "town",
+    "dnssec": true
+  },
+  {
+    "domain": "toyota",
+    "dnssec": true
+  },
+  {
+    "domain": "toys",
+    "dnssec": true
+  },
+  {
+    "domain": "tr",
+    "dnssec": true
+  },
+  {
+    "domain": "trade",
+    "dnssec": true
+  },
+  {
+    "domain": "trading",
+    "dnssec": true
+  },
+  {
+    "domain": "training",
+    "dnssec": true
+  },
+  {
+    "domain": "travel",
+    "dnssec": true
+  },
+  {
+    "domain": "travelers",
+    "dnssec": true
+  },
+  {
+    "domain": "travelersinsurance",
+    "dnssec": true
+  },
+  {
+    "domain": "trust",
+    "dnssec": true
+  },
+  {
+    "domain": "trv",
+    "dnssec": true
+  },
+  {
+    "domain": "tt",
+    "dnssec": true
+  },
+  {
+    "domain": "tube",
+    "dnssec": true
+  },
+  {
+    "domain": "tui",
+    "dnssec": true
+  },
+  {
+    "domain": "tunes",
+    "dnssec": true
+  },
+  {
+    "domain": "tushu",
+    "dnssec": true
+  },
+  {
+    "domain": "tv",
+    "dnssec": true
+  },
+  {
+    "domain": "tvs",
+    "dnssec": true
+  },
+  {
+    "domain": "tw",
+    "dnssec": true
+  },
+  {
+    "domain": "tz",
+    "dnssec": true
+  },
+  {
+    "domain": "ua",
+    "dnssec": true
+  },
+  {
+    "domain": "ubank",
+    "dnssec": true
+  },
+  {
+    "domain": "ubs",
+    "dnssec": true
+  },
+  {
+    "domain": "ug",
+    "dnssec": true
+  },
+  {
+    "domain": "uk",
+    "dnssec": true
+  },
+  {
+    "domain": "unicom",
+    "dnssec": true
+  },
+  {
+    "domain": "university",
+    "dnssec": true
+  },
+  {
+    "domain": "uno",
+    "dnssec": true
+  },
+  {
+    "domain": "uol",
+    "dnssec": true
+  },
+  {
+    "domain": "ups",
+    "dnssec": true
+  },
+  {
+    "domain": "us",
+    "dnssec": true
+  },
+  {
+    "domain": "uy",
+    "dnssec": true
+  },
+  {
+    "domain": "uz",
+    "dnssec": true
+  },
+  {
+    "domain": "vacations",
+    "dnssec": true
+  },
+  {
+    "domain": "vana",
+    "dnssec": true
+  },
+  {
+    "domain": "vanguard",
+    "dnssec": true
+  },
+  {
+    "domain": "vc",
+    "dnssec": true
+  },
+  {
+    "domain": "ve",
+    "dnssec": true
+  },
+  {
+    "domain": "vegas",
+    "dnssec": true
+  },
+  {
+    "domain": "ventures",
+    "dnssec": true
+  },
+  {
+    "domain": "verisign",
+    "dnssec": true
+  },
+  {
+    "domain": "versicherung",
+    "dnssec": true
+  },
+  {
+    "domain": "vet",
+    "dnssec": true
+  },
+  {
+    "domain": "viajes",
+    "dnssec": true
+  },
+  {
+    "domain": "video",
+    "dnssec": true
+  },
+  {
+    "domain": "vig",
+    "dnssec": true
+  },
+  {
+    "domain": "viking",
+    "dnssec": true
+  },
+  {
+    "domain": "villas",
+    "dnssec": true
+  },
+  {
+    "domain": "vin",
+    "dnssec": true
+  },
+  {
+    "domain": "vip",
+    "dnssec": true
+  },
+  {
+    "domain": "virgin",
+    "dnssec": true
+  },
+  {
+    "domain": "visa",
+    "dnssec": true
+  },
+  {
+    "domain": "vision",
+    "dnssec": true
+  },
+  {
+    "domain": "viva",
+    "dnssec": true
+  },
+  {
+    "domain": "vivo",
+    "dnssec": true
+  },
+  {
+    "domain": "vlaanderen",
+    "dnssec": true
+  },
+  {
+    "domain": "vn",
+    "dnssec": true
+  },
+  {
+    "domain": "vodka",
+    "dnssec": true
+  },
+  {
+    "domain": "volvo",
+    "dnssec": true
+  },
+  {
+    "domain": "vote",
+    "dnssec": true
+  },
+  {
+    "domain": "voting",
+    "dnssec": true
+  },
+  {
+    "domain": "voto",
+    "dnssec": true
+  },
+  {
+    "domain": "voyage",
+    "dnssec": true
+  },
+  {
+    "domain": "vu",
+    "dnssec": true
+  },
+  {
+    "domain": "wales",
+    "dnssec": true
+  },
+  {
+    "domain": "walmart",
+    "dnssec": true
+  },
+  {
+    "domain": "walter",
+    "dnssec": true
+  },
+  {
+    "domain": "wang",
+    "dnssec": true
+  },
+  {
+    "domain": "wanggou",
+    "dnssec": true
+  },
+  {
+    "domain": "watch",
+    "dnssec": true
+  },
+  {
+    "domain": "watches",
+    "dnssec": true
+  },
+  {
+    "domain": "weather",
+    "dnssec": true
+  },
+  {
+    "domain": "weatherchannel",
+    "dnssec": true
+  },
+  {
+    "domain": "webcam",
+    "dnssec": true
+  },
+  {
+    "domain": "weber",
+    "dnssec": true
+  },
+  {
+    "domain": "website",
+    "dnssec": true
+  },
+  {
+    "domain": "wed",
+    "dnssec": true
+  },
+  {
+    "domain": "wedding",
+    "dnssec": true
+  },
+  {
+    "domain": "weibo",
+    "dnssec": true
+  },
+  {
+    "domain": "weir",
+    "dnssec": true
+  },
+  {
+    "domain": "wf",
+    "dnssec": true
+  },
+  {
+    "domain": "whoswho",
+    "dnssec": true
+  },
+  {
+    "domain": "wien",
+    "dnssec": true
+  },
+  {
+    "domain": "wiki",
+    "dnssec": true
+  },
+  {
+    "domain": "williamhill",
+    "dnssec": true
+  },
+  {
+    "domain": "win",
+    "dnssec": true
+  },
+  {
+    "domain": "windows",
+    "dnssec": true
+  },
+  {
+    "domain": "wine",
+    "dnssec": true
+  },
+  {
+    "domain": "winners",
+    "dnssec": true
+  },
+  {
+    "domain": "wme",
+    "dnssec": true
+  },
+  {
+    "domain": "wolterskluwer",
+    "dnssec": true
+  },
+  {
+    "domain": "woodside",
+    "dnssec": true
+  },
+  {
+    "domain": "work",
+    "dnssec": true
+  },
+  {
+    "domain": "works",
+    "dnssec": true
+  },
+  {
+    "domain": "world",
+    "dnssec": true
+  },
+  {
+    "domain": "wow",
+    "dnssec": true
+  },
+  {
+    "domain": "ws",
+    "dnssec": true
+  },
+  {
+    "domain": "wtc",
+    "dnssec": true
+  },
+  {
+    "domain": "wtf",
+    "dnssec": true
+  },
+  {
+    "domain": "xbox",
+    "dnssec": true
+  },
+  {
+    "domain": "xerox",
+    "dnssec": true
+  },
+  {
+    "domain": "xihuan",
+    "dnssec": true
+  },
+  {
+    "domain": "xin",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--11b4c3d",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--1ck2e1b",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--1qqw23a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--2scrj9c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--30rr7y",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--3bst00m",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--3ds443g",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--3e0b707e",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--3hcrj9c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--3pxu8k",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--42c2d9a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--45br5cyl",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--45brj9c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--45q11c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--4dbrk0ce",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--4gbrim",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--54b7fta0cc",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--55qw42g",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--55qx5d",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--5su34j936bgsg",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--5tzm5g",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--6frz82g",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--6qq986b3xl",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--80adxhks",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--80ao21a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--80aqecdr1a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--80asehdb",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--80aswg",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--8y0a063a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--90a3ac",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--90ae",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--90ais",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--9dbq2a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--9et52u",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--9krt00a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--b4w605ferd",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--bck1b9a5dre4c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--c1avg",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--c2br7g",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--cck2b3b",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--cckwcxetd",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--cg4bki",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--clchc0ea0b2g2a9gcd",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--czr694b",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--czrs0t",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--czru2d",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--d1acj3b",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--e1a4c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--eckvdtc9d",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--efvy88h",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--fct429k",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--fhbei",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--fiq228c5hs",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--fiq64b",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--fiqs8s",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--fiqz9s",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--fjq720a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--flw351e",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--fpcrj9c3d",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--fzys8d69uvgm",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--g2xx48c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--gckr3f0f",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--gecrj9c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--gk3at1e",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--h2breg3eve",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--h2brj9c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--h2brj9c8c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--hxt814e",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--i1b6b1a6a2e",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--imr513n",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--io0a7i",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--j1aef",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--j6w193g",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--jlq480n2rg",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--jvr189m",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--kcrx77d1x4a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--kprw13d",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--kpry57d",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--kput3i",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--l1acc",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgba3a3ejt",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgba7c0bbn0a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbab2bd",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbah1a3hjkrd",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbai9azgqp6j",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbayh7gpa",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbbh1a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbbh1a71e",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbca7dzdo",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbcpq6gpa1a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgberp4a5d4ar",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbgu82a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbi4ecexp",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbt3dhd",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mgbx4cd0ab",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mk1bu44c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--mxtq1m",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--ngbc5azd",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--ngbe9e0a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--ngbrx",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--nqv7f",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--nqv7fs00ema",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--nyqy26a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--o3cw4h",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--otu796d",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--p1acf",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--p1ai",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--pgbs0dh",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--pssy2u",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--q7ce6a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--q9jyb4c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--qcka1pmc",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--qxa6a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--qxam",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--rhqv96g",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--rovu88b",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--rvc1e0am3e",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--s9brj9c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--ses554g",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--t60b56a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--tckwe",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--tiq49xqyj",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--unup4y",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--vermgensberater-ctb",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--vermgensberatung-pwb",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--vhquv",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--vuq861b",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--w4r85el8fhu5dnra",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--w4rs40l",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--wgbh1c",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--xhq521b",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--xkc2al3hye2a",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--xkc2dl3a5ee0h",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--y9a3aq",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--yfro4i67o",
+    "dnssec": true
+  },
+  {
+    "domain": "xn--zfr164b",
+    "dnssec": true
+  },
+  {
+    "domain": "xxx",
+    "dnssec": true
+  },
+  {
+    "domain": "xyz",
+    "dnssec": true
+  },
+  {
+    "domain": "yachts",
+    "dnssec": true
+  },
+  {
+    "domain": "yahoo",
+    "dnssec": true
+  },
+  {
+    "domain": "yamaxun",
+    "dnssec": true
+  },
+  {
+    "domain": "yandex",
+    "dnssec": true
+  },
+  {
+    "domain": "yodobashi",
+    "dnssec": true
+  },
+  {
+    "domain": "yoga",
+    "dnssec": true
+  },
+  {
+    "domain": "yokohama",
+    "dnssec": true
+  },
+  {
+    "domain": "you",
+    "dnssec": true
+  },
+  {
+    "domain": "youtube",
+    "dnssec": true
+  },
+  {
+    "domain": "yt",
+    "dnssec": true
+  },
+  {
+    "domain": "yun",
+    "dnssec": true
+  },
+  {
+    "domain": "za",
+    "dnssec": true
+  },
+  {
+    "domain": "zappos",
+    "dnssec": true
+  },
+  {
+    "domain": "zara",
+    "dnssec": true
+  },
+  {
+    "domain": "zero",
+    "dnssec": true
+  },
+  {
+    "domain": "zip",
+    "dnssec": true
+  },
+  {
+    "domain": "zm",
+    "dnssec": true
+  },
+  {
+    "domain": "zone",
+    "dnssec": true
+  },
+  {
+    "domain": "zuerich",
+    "dnssec": true
+  }
+]
