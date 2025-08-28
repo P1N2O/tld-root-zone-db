@@ -1,0 +1,28 @@
+{
+  "name": "tld-root-zone-dump",
+  "description": "Dump of the IANA Root Zone Database",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "author": {
+    "name": "Manuel Pinto",
+    "email": "manuel@pinto.dev",
+    "url": "https://manuel.pinto.dev"
+  },
+  "homepage": "https://github.com/P1N2O/tld-root-zone-db",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "update": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "csv-stringify": "^6.6.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}

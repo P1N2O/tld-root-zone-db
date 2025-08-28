@@ -1,0 +1,69 @@
+name: Update TLD Data and Deploy
+
+on:
+  schedule:
+    - cron: "30 6 * * *" # run daily at 6:30 AM UTC
+  workflow_dispatch: # allow manual runs
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update TLD dataset
+        run: npm run update
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.name "Manuel Pinto"
+          git config --local user.email "manuel@pinto.dev"
+          git add data/tlds.csv data/tlds.json
+          git commit -m "chore: update TLD dataset" || echo "No changes"
+          git push
+
+  deploy-to-gh-pages:
+    runs-on: ubuntu-latest
+    needs: update
+    if: ${{ needs.update.result == 'success' }} # Always deploy if update succeeded
+    
+    # Permissions for GitHub Pages deployment
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    # Set an environment for the deployment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          ref: main # Explicitly checkout the latest main branch after push
+          fetch-depth: 0
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          # Upload the entire 'data' directory from the main branch
+          path: 'data/'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
