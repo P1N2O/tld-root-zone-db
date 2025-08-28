@@ -1,6 +1,6 @@
 # TLD Root Zone DB
 
-[![Update TLD Data and Deploy](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tld.yml/badge.svg)](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tlds.yml)
+[![Update TLD Data and Deploy](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tlds.yml/badge.svg)](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tlds.yml)
 
 **Updated Daily Dump of the IANA Root Zone Database**
 
@@ -12,7 +12,7 @@ This project provides a daily dump of the [IANA Root Zone Database](https://www.
 - Scheduled to update daily (at 6:30 UTC).
 - No commit is made to the repository if the data hasn't changed.
 
-## 📊 Data Endpoints
+## Data Endpoints
 
 | Dataset | JSON | CSV |
 |:--------|:-----|:----|
