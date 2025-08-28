@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "30 6 * * *" # run daily at 6:30 AM UTC
   workflow_dispatch: # allow manual runs
+  push:
+    branches:
+      - main # run on each push to main branch
 
 jobs:
   update:
