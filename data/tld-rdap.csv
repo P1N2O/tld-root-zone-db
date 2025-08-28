@@ -1,0 +1,1597 @@
+Domain,Type,TLD Manager,RDAP URLs
+.aaa,generic,"American Automobile Association, Inc.",https://rdap.nic.aaa/
+.aarp,generic,AARP,https://rdap.nic.aarp/
+.abarth,generic,Not assigned,
+.abb,generic,ABB Ltd,https://rdap.identitydigital.services/rdap/
+.abbott,generic,"Abbott Laboratories, Inc.",https://rdap.identitydigital.services/rdap/
+.abbvie,generic,AbbVie Inc.,https://rdap.nominet.uk/abbvie/
+.abc,generic,"Disney Enterprises, Inc.",https://rdap.identitydigital.services/rdap/
+.able,generic,Able Inc.,https://rdap.nic.able/
+.abogado,generic,"Registry Services, LLC",https://rdap.nic.abogado/
+.abudhabi,generic,Abu Dhabi Systems and Information Centre,https://rdap.nic.abudhabi/
+.ac,country-code,Internet Computer Bureau Limited,
+.academy,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.accenture,generic,Accenture plc,https://rdap.identitydigital.services/rdap/
+.accountant,generic,dot Accountant Limited,https://rdap.nic.accountant/
+.accountants,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.aco,generic,ACO Severin Ahlmann GmbH & Co. KG,https://rdap.nic.aco/
+.active,generic,Not assigned,
+.actor,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.ad,country-code,Andorra Telecom,https://rdap.nic.ad/
+.adac,generic,Not assigned,
+.ads,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.adult,generic,ICM Registry AD LLC,https://rdap.nic.adult/
+.ae,country-code,Telecommunications and Digital Government Regulatory Authority (TDRA),
+.aeg,generic,Aktiebolaget Electrolux,https://rdap.identitydigital.services/rdap/
+.aero,sponsored,Societe Internationale de Telecommunications Aeronautique (SITA INC USA),https://rdap.identitydigital.services/rdap/
+.aetna,generic,Aetna Life Insurance Company,https://rdap.nic.aetna/
+.af,country-code,Ministry of Communications and IT,
+.afamilycompany,generic,Not assigned,
+.afl,generic,Australian Football League,https://rdap.nic.afl/
+.africa,generic,ZA Central Registry NPC trading as Registry.Africa,https://rdap.nic.africa/rdap/
+.ag,country-code,UHSA School of Medicine,
+.agakhan,generic,Fondation Aga Khan (Aga Khan Foundation),https://rdap.identitydigital.services/rdap/
+.agency,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.ai,country-code,Government of Anguilla,https://rdap.identitydigital.services/rdap/
+.aig,generic,"American International Group, Inc.",https://rdap.nic.aig/
+.aigo,generic,Not assigned,
+.airbus,generic,Airbus S.A.S.,https://rdap.identitydigital.services/rdap/
+.airforce,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.airtel,generic,Bharti Airtel Limited,https://tld-rdap.verisign.com/airtel/v1/
+.akdn,generic,Fondation Aga Khan (Aga Khan Foundation),https://rdap.identitydigital.services/rdap/
+.al,country-code,Electronic and Postal Communications Authority - AKEP,
+.alfaromeo,generic,Not assigned,
+.alibaba,generic,Alibaba Group Holding Limited,https://rdap.identitydigital.services/rdap/
+.alipay,generic,Alibaba Group Holding Limited,https://rdap.identitydigital.services/rdap/
+.allfinanz,generic,Allfinanz Deutsche Vermögensberatung Aktiengesellschaft,https://rdap.centralnic.com/allfinanz/
+.allstate,generic,Allstate Fire and Casualty Insurance Company,https://rdap.identitydigital.services/rdap/
+.ally,generic,Ally Financial Inc.,https://rdap.nic.ally/
+.alsace,generic,REGION GRAND EST,https://rdap.nic.alsace/
+.alstom,generic,ALSTOM,https://rdap.nic.alstom/
+.am,country-code,"""Internet Society"" Non-governmental Organization",
+.amazon,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/amazon/
+.americanexpress,generic,"American Express Travel Related Services Company, Inc.",https://rdap.nic.americanexpress/
+.americanfamily,generic,"AmFam, Inc.",https://rdap.nic.americanfamily/
+.amex,generic,"American Express Travel Related Services Company, Inc.",https://rdap.nic.amex/
+.amfam,generic,"AmFam, Inc.",https://rdap.nic.amfam/
+.amica,generic,Amica Mutual Insurance Company,https://rdap.nic.amica/
+.amsterdam,generic,Gemeente Amsterdam,https://rdap.nic.amsterdam/
+.an,country-code,Not assigned,
+.analytics,generic,Campus IP LLC,https://rdap.nic.analytics/
+.android,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.anquan,generic,QIHOO 360 TECHNOLOGY CO. LTD.,https://rdap.teleinfo.cn/
+.anz,generic,Australia and New Zealand Banking Group Limited,https://rdap.nic.anz/
+.ao,country-code,Ministry of Telecommunications and Information Technologies (MTTI),
+.aol,generic,Yahoo Inc.,https://rdap.identitydigital.services/rdap/
+.apartments,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.app,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.apple,generic,Apple Inc.,https://rdap.identitydigital.services/rdap/
+.aq,country-code,Antarctica Network Information Centre Limited,
+.aquarelle,generic,Aquarelle.com,https://rdap.nic.aquarelle/
+.ar,country-code,"Presidencia de la Nación , Secretaría Legal y Técnica",https://rdap.nic.ar/
+.arab,generic,League of Arab States,https://rdap.nic.arab/
+.aramco,generic,Aramco Services Company,https://rdap.nic.aramco/
+.archi,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.army,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.arpa,infrastructure,Internet Architecture Board (IAB),
+.art,generic,UK Creative Ideas Limited,https://rdap.centralnic.com/art/
+.arte,generic,Association Relative à la Télévision Européenne G.E.I.E.,https://rdap.identitydigital.services/rdap/
+.as,country-code,AS Domain Registry,
+.asda,generic,Asda Stores Limited,https://rdap.identitydigital.services/rdap/
+.asia,sponsored,DotAsia Organisation Ltd.,https://rdap.identitydigital.services/rdap/
+.associates,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.at,country-code,nic.at GmbH,
+.athleta,generic,"The Gap, Inc.",https://rdap.nic.athleta/
+.attorney,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.au,country-code,.au Domain Administration (auDA),
+.auction,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.audi,generic,AUDI Aktiengesellschaft,https://rdap.identitydigital.services/rdap/
+.audible,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/audible/
+.audio,generic,XYZ.COM LLC,https://rdap.centralnic.com/audio/
+.auspost,generic,Australian Postal Corporation,https://rdap.nic.auspost/
+.author,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/author/
+.auto,generic,XYZ.COM LLC,https://rdap.centralnic.com/auto/
+.autos,generic,XYZ.COM LLC,https://rdap.centralnic.com/autos/
+.avianca,generic,Not assigned,
+.aw,country-code,SETAR,
+.aws,generic,AWS Registry LLC,https://rdap.nominet.uk/aws/
+.ax,country-code,Ålands landskapsregering,
+.axa,generic,AXA Group Operations SAS,https://rdap.nic.axa/
+.az,country-code,IntraNS,
+.azure,generic,Microsoft Corporation,https://rdap.nominet.uk/azure/
+.ba,country-code,Universtiy Telinformatic Centre (UTIC),
+.baby,generic,XYZ.COM LLC,https://rdap.centralnic.com/baby/
+.baidu,generic,"Baidu, Inc.",https://rdap.zdnsgtld.com/baidu/
+.banamex,generic,Citigroup Inc.,https://rdap.nic.banamex/
+.bananarepublic,generic,Not assigned,
+.band,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.bank,generic,"fTLD Registry Services, LLC",https://rdap.nic.bank/
+.bar,generic,Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable,https://rdap.registry.bar/rdap/
+.barcelona,generic,Municipi de Barcelona,https://rdap.nic.barcelona/
+.barclaycard,generic,Barclays Bank PLC,https://rdap.identitydigital.services/rdap/
+.barclays,generic,Barclays Bank PLC,https://rdap.identitydigital.services/rdap/
+.barefoot,generic,"Gallo Vineyards, Inc.",https://rdap.identitydigital.services/rdap/
+.bargains,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.baseball,generic,"MLB Advanced Media DH, LLC",https://rdap.nic.baseball/
+.basketball,generic,Fédération Internationale de Basketball (FIBA),https://rdap.nic.basketball/
+.bauhaus,generic,Werkhaus GmbH,https://rdap.nic.bauhaus/
+.bayern,generic,Bayern Connect GmbH,https://rdap.nic.bayern/
+.bb,country-code,"Ministry of Innovation, Science and Smart Technology",
+.bbc,generic,British Broadcasting Corporation,https://rdap.nominet.uk/bbc/
+.bbt,generic,BB&T Corporation,https://rdap.identitydigital.services/rdap/
+.bbva,generic,"BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",https://rdap.nominet.uk/bbva/
+.bcg,generic,"The Boston Consulting Group, Inc.",https://rdap.identitydigital.services/rdap/
+.bcn,generic,Municipi de Barcelona,https://rdap.nic.bcn/
+.bd,country-code,Posts and Telecommunications Division,
+.be,country-code,DNS Belgium vzw/asbl,
+.beats,generic,"Beats Electronics, LLC",https://rdap.identitydigital.services/rdap/
+.beauty,generic,XYZ.COM LLC,https://rdap.centralnic.com/beauty/
+.beer,generic,"Registry Services, LLC",https://rdap.nic.beer/
+.bentley,generic,Not assigned,
+.berlin,generic,dotBERLIN GmbH & Co. KG,https://rdap.nic.berlin/v1/
+.best,generic,BestTLD Pty Ltd,https://rdap.centralnic.com/best/
+.bestbuy,generic,"BBY Solutions, Inc.",https://rdap.identitydigital.services/rdap/
+.bet,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.bf,country-code,Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+.bg,country-code,Register.BG,
+.bh,country-code,Telecommunications Regulatory Authority (TRA),
+.bharti,generic,Bharti Enterprises (Holding) Private Limited,https://tld-rdap.verisign.com/bharti/v1/
+.bi,country-code,Centre National de l'Informatique,
+.bible,generic,American Bible Society,https://rdap.nic.bible/
+.bid,generic,dot Bid Limited,https://rdap.nic.bid/
+.bike,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.bing,generic,Microsoft Corporation,https://rdap.nominet.uk/bing/
+.bingo,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.bio,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.biz,generic-restricted,"Registry Services, LLC",https://rdap.nic.biz/
+.bj,country-code,Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN),
+.bl,country-code,Not assigned,
+.black,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.blackfriday,generic,"Registry Services, LLC",https://rdap.nic.blackfriday/
+.blanco,generic,Not assigned,
+.blockbuster,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.blog,generic,"Knock Knock WHOIS There, LLC",https://rdap.blog.fury.ca/rdap/
+.bloomberg,generic,Bloomberg IP Holdings LLC,https://rdap.identitydigital.services/rdap/
+.blue,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.bm,country-code,"Registry General Department, Ministry of Home Affairs",https://rdap.identitydigital.services/rdap/
+.bms,generic,Bristol-Myers Squibb Company,https://rdap.identitydigital.services/rdap/
+.bmw,generic,Bayerische Motoren Werke Aktiengesellschaft,https://rdap.centralnic.com/bmw/
+.bn,country-code,Authority for Info-communications Technology Industry of Brunei Darussalam (AITI),
+.bnl,generic,Not assigned,
+.bnpparibas,generic,BNP Paribas,https://rdap.identitydigital.services/rdap/
+.bo,country-code,Agencia para el Desarrollo de la Información de la Sociedad en Bolivia,
+.boats,generic,XYZ.COM LLC,https://rdap.centralnic.com/boats/
+.boehringer,generic,Boehringer Ingelheim International GmbH,https://rdap.identitydigital.services/rdap/
+.bofa,generic,Bank of America Corporation,https://rdap.identitydigital.services/rdap/
+.bom,generic,Núcleo de Informação e Coordenação do Ponto BR - NIC.br,https://rdap.gtlds.nic.br/
+.bond,generic,Shortdot SA,https://rdap.centralnic.com/bond/
+.boo,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.book,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/book/
+.booking,generic,Booking.com B.V.,https://rdap.nic.booking/
+.boots,generic,Not assigned,
+.bosch,generic,Robert Bosch GMBH,https://rdap.identitydigital.services/rdap/
+.bostik,generic,Bostik SA,https://rdap.nic.bostik/
+.boston,generic,"Registry Services, LLC",https://rdap.nic.boston/
+.bot,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/bot/
+.boutique,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.box,generic,Intercap Registry Inc.,https://rdap.centralnic.com/box/
+.bq,country-code,Not assigned,
+.br,country-code,Comite Gestor da Internet no Brasil,https://rdap.registro.br/
+.bradesco,generic,Banco Bradesco S.A.,https://rdap.identitydigital.services/rdap/
+.bridgestone,generic,Bridgestone Corporation,https://rdap.gmoregistry.net/rdap/
+.broadway,generic,"Celebrate Broadway, Inc.",https://rdap.nominet.uk/broadway/
+.broker,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.brother,generic,"Brother Industries, Ltd.",https://rdap.gmoregistry.net/rdap/
+.brussels,generic,DNS.be vzw,https://rdap.nic.brussels/
+.bs,country-code,University of The Bahamas,
+.bt,country-code,Ministry of Information and Communications,
+.budapest,generic,Not assigned,
+.bugatti,generic,Not assigned,
+.build,generic,Plan Bee LLC,https://rdap.centralnic.com/build/
+.builders,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.business,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.buy,generic,"Amazon Registry Services, INC",https://rdap.nominet.uk/buy/
+.buzz,generic,DOTSTRATEGY CO.,https://rdap.nic.buzz/
+.bv,country-code,Norid A/S,
+.bw,country-code,Botswana Communications Regulatory Authority (BOCRA),
+.by,country-code,Belarusian Cloud Technologies LLC,
+.bz,country-code,University of Belize,
+.bzh,generic,Association www.bzh,https://rdap.nic.bzh/
+.ca,country-code,Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI),https://rdap.ca.fury.ca/rdap/
+.cab,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cafe,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cal,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.call,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/call/
+.calvinklein,generic,PVH gTLD Holdings LLC,https://rdap.nic.calvinklein/
+.cam,generic,CAM Connecting SARL,https://rdap.centralnic.com/cam/
+.camera,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.camp,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cancerresearch,generic,Not assigned,
+.canon,generic,Canon Inc.,https://rdap.gmoregistry.net/rdap/
+.capetown,generic,ZA Central Registry NPC trading as ZA Central Registry,https://rdap.nic.capetown/rdap/
+.capital,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.capitalone,generic,Capital One Financial Corporation,https://rdap.nic.capitalone/
+.car,generic,XYZ.COM LLC,https://rdap.centralnic.com/car/
+.caravan,generic,"Caravan International, Inc.",https://rdap.nic.caravan/
+.cards,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.care,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.career,generic,dotCareer LLC,https://rdap.nominet.uk/career/
+.careers,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cars,generic,XYZ.COM LLC,https://rdap.centralnic.com/cars/
+.cartier,generic,Not assigned,
+.casa,generic,"Registry Services, LLC",https://rdap.nic.casa/
+.case,generic,"Digity, LLC",https://rdap.centralnic.com/case/
+.caseih,generic,Not assigned,
+.cash,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.casino,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cat,sponsored,Fundacio puntCAT,https://rdap.nic.cat/
+.catering,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.catholic,generic,Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication),https://rdap.nic.catholic/
+.cba,generic,COMMONWEALTH BANK OF AUSTRALIA,https://rdap.nic.cba/
+.cbn,generic,"The Christian Broadcasting Network, Inc.",https://rdap.nic.cbn/
+.cbre,generic,"CBRE, Inc.",https://rdap.nic.cbre/
+.cbs,generic,Not assigned,
+.cc,country-code,eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services,https://tld-rdap.verisign.com/cc/v1/
+.cd,country-code,Office Congolais des Postes et Télécommunications - OCPT,
+.ceb,generic,Not assigned,
+.center,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.ceo,generic,XYZ.COM LLC,https://rdap.centralnic.com/ceo/
+.cern,generic,"European Organization for Nuclear Research (""CERN"")",https://rdap.identitydigital.services/rdap/
+.cf,country-code,Societe Centrafricaine de Telecommunications (SOCATEL),
+.cfa,generic,CFA Institute,https://rdap.identitydigital.services/rdap/
+.cfd,generic,Shortdot SA,https://rdap.centralnic.com/cfd/
+.cg,country-code,Interpoint Switzerland,
+.ch,country-code,SWITCH The Swiss Education & Research Network,
+.chanel,generic,Chanel International B.V.,https://rdap.identitydigital.services/rdap/
+.channel,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.charity,generic,Public Interest Registry (PIR),https://rdap.publicinterestregistry.org/rdap/
+.chase,generic,"JPMorgan Chase Bank, National Association",https://rdap.nic.chase/
+.chat,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cheap,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.chintai,generic,CHINTAI Corporation,https://rdap.nic.chintai/
+.chloe,generic,Not assigned,
+.christmas,generic,XYZ.COM LLC,https://rdap.centralnic.com/christmas/
+.chrome,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.chrysler,generic,Not assigned,
+.church,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.ci,country-code,Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI),
+.cipriani,generic,Hotel Cipriani Srl,https://rdap.identitydigital.services/rdap/
+.circle,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/circle/
+.cisco,generic,"Cisco Technology, Inc.",https://rdap.nic.cisco/
+.citadel,generic,Citadel Domain LLC,https://rdap.identitydigital.services/rdap/
+.citi,generic,Citigroup Inc.,https://rdap.nic.citi/
+.citic,generic,CITIC Group Corporation,https://rdap.zdnsgtld.com/citic/
+.city,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cityeats,generic,Not assigned,
+.ck,country-code,Telecom Cook Islands Ltd.,
+.cl,country-code,NIC Chile (University of Chile),
+.claims,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cleaning,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.click,generic,Internet Naming Co.,https://whois.uniregistry.net/rdap/
+.clinic,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.clinique,generic,The Estée Lauder Companies Inc.,https://rdap.identitydigital.services/rdap/
+.clothing,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cloud,generic,ARUBA PEC S.p.A.,https://rdap.registry.cloud/rdap/
+.club,generic,"Registry Services, LLC",https://rdap.nic.club/
+.clubmed,generic,Club Méditerranée S.A.,https://rdap.identitydigital.services/rdap/
+.cm,country-code,Agence Nationale des Technologies de l'Information et de la Communication (ANTIC),https://rdap.nic.cm/
+.cn,country-code,China Internet Network Information Center (CNNIC),
+.co,country-code,Ministry of Information and Communications Technologies (MinTIC),
+.coach,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.codes,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.coffee,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.college,generic,XYZ.COM LLC,https://rdap.centralnic.com/college/
+.cologne,generic,dotKoeln GmbH,https://rdap.ryce-rsp.com/rdap/
+.com,generic,VeriSign Global Registry Services,https://rdap.verisign.com/com/v1/
+.comcast,generic,Not assigned,
+.commbank,generic,COMMONWEALTH BANK OF AUSTRALIA,https://rdap.nic.commbank/
+.community,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.company,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.compare,generic,"Registry Services, LLC",https://rdap.nic.compare/
+.computer,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.comsec,generic,"VeriSign, Inc.",https://tld-rdap.verisign.com/comsec/v1/
+.condos,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.construction,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.consulting,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.contact,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.contractors,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.cooking,generic,"Registry Services, LLC",https://rdap.nic.cooking/
+.cookingchannel,generic,Not assigned,
+.cool,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.coop,sponsored,DotCooperation LLC,https://rdap.registry.coop/rdap/
+.corsica,generic,Collectivité de Corse,https://rdap.nic.corsica/
+.country,generic,Internet Naming Co.,https://whois.uniregistry.net/rdap/
+.coupon,generic,"Amazon Registry Services, Inc.",https://rdap.identitydigital.services/rdap/
+.coupons,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.courses,generic,"Registry Services, LLC",https://rdap.nic.courses/
+.cpa,generic,American Institute of Certified Public Accountants,https://rdap.nic.cpa/
+.cr,country-code,National Academy of Sciences (Academia Nacional de Ciencias),https://rdap.nic.cr/
+.credit,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.creditcard,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.creditunion,generic,"DotCooperation, LLC",https://rdap.registry.coop/rdap/
+.cricket,generic,dot Cricket Limited,https://rdap.nic.cricket/
+.crown,generic,Crown Equipment Corporation,https://rdap.crown.fury.ca/rdap/
+.crs,generic,Federated Co-operatives Limited,https://rdap.identitydigital.services/rdap/
+.cruise,generic,Viking River Cruises (Bermuda) Ltd.,https://rdap.identitydigital.services/rdap/
+.cruises,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.csc,generic,Not assigned,
+.cu,country-code,CENIAInternet,
+.cuisinella,generic,SCHMIDT GROUPE S.A.S.,https://rdap.nic.cuisinella/
+.cv,country-code,Agência Reguladora Multissectorial da Economia (ARME),https://rdap.nic.cv/
+.cw,country-code,University of Curacao,
+.cx,country-code,Christmas Island Domain Administration Limited,https://rdap.nic.cx/
+.cy,country-code,University of Cyprus,
+.cymru,generic,Nominet UK,https://rdap.nominet.uk/cymru/
+.cyou,generic,Shortdot SA,https://rdap.centralnic.com/cyou/
+.cz,country-code,"CZ.NIC, z.s.p.o",https://rdap.nic.cz/
+.dabur,generic,Not assigned,
+.dad,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.dance,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.data,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.date,generic,dot Date Limited,https://rdap.nic.date/
+.dating,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.datsun,generic,"NISSAN MOTOR CO., LTD.",https://rdap.gmoregistry.net/rdap/
+.day,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.dclk,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.dds,generic,"Registry Services, LLC",https://rdap.nic.dds/
+.de,country-code,DENIC eG,
+.deal,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/deal/
+.dealer,generic,Intercap Registry Inc.,https://rdap.centralnic.com/dealer/
+.deals,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.degree,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.delivery,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.dell,generic,Dell Inc.,https://rdap.nic.dell/
+.deloitte,generic,Deloitte Touche Tohmatsu,https://rdap.centralnic.com/deloitte/
+.delta,generic,"Delta Air Lines, Inc.",https://rdap.identitydigital.services/rdap/
+.democrat,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.dental,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.dentist,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.desi,generic,Emergency Back-End Registry Operator Program - ICANN,https://rdap.nominet.uk/desi/
+.design,generic,"Registry Services, LLC",https://rdap.nic.design/
+.dev,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.dhl,generic,Deutsche Post AG,https://rdap.centralnic.com/dhl/
+.diamonds,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.diet,generic,XYZ.COM LLC,https://rdap.centralnic.com/diet/
+.digital,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.direct,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.directory,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.discount,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.discover,generic,Discover Financial Services,https://rdap.identitydigital.services/rdap/
+.dish,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.diy,generic,Internet Naming Co.,https://rdap.nic.diy/rdap/
+.dj,country-code,Djibouti Telecom S.A,
+.dk,country-code,Dansk Internet Forum,
+.dm,country-code,DotDM Corporation,
+.dnp,generic,"Dai Nippon Printing Co., Ltd.",https://rdap.gmoregistry.net/rdap/
+.do,country-code,"Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino",
+.docs,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.doctor,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.dodge,generic,Not assigned,
+.dog,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.doha,generic,Not assigned,
+.domains,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.doosan,generic,Not assigned,
+.dot,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.download,generic,dot Support Limited,https://rdap.nic.download/
+.drive,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.dtv,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.dubai,generic,Dubai Smart Government Department,https://rdap.nic.dubai/
+.duck,generic,Not assigned,
+.dunlop,generic,The Goodyear Tire & Rubber Company,https://rdap.identitydigital.services/rdap/
+.duns,generic,Not assigned,
+.dupont,generic,"DuPont Specialty Products USA, LLC",https://rdap.nic.dupont/
+.durban,generic,ZA Central Registry NPC trading as ZA Central Registry,https://rdap.nic.durban/rdap/
+.dvag,generic,Deutsche Vermögensberatung Aktiengesellschaft DVAG,https://rdap.centralnic.com/dvag/
+.dvr,generic,DISH Technologies L.L.C.,https://rdap.mobile-registry.com/rdap/
+.dz,country-code,CERIST,
+.earth,generic,Interlink Systems Innovation Institute K.K.,https://rdap.nic.earth/
+.eat,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.ec,country-code,ECUADORDOMAIN S.A.,https://rdap.registry.ec/
+.eco,generic,Big Room Inc.,https://rdap.eco.fury.ca/rdap/
+.edeka,generic,EDEKA Verband kaufmännischer Genossenschaften e.V.,https://rdap.identitydigital.services/rdap/
+.edu,sponsored,EDUCAUSE,
+.education,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.ee,country-code,Eesti Interneti Sihtasutus (EIS),
+.eg,country-code,"Egyptian Universities Network (EUN), Supreme Council of Universities",
+.eh,country-code,Not assigned,
+.email,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.emerck,generic,Merck KGaA,https://rdap.identitydigital.services/rdap/
+.emerson,generic,Not assigned,
+.energy,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.engineer,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.engineering,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.enterprises,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.epost,generic,Not assigned,
+.epson,generic,Seiko Epson Corporation,https://rdap.gmoregistry.net/rdap/
+.equipment,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.er,country-code,Eritrea Telecommunication Services Corporation (EriTel),
+.ericsson,generic,Telefonaktiebolaget L M Ericsson,https://rdap.identitydigital.services/rdap/
+.erni,generic,ERNI Group Holding AG,https://rdap.nic.erni/
+.es,country-code,Red.es,
+.esq,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.estate,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.esurance,generic,Not assigned,
+.et,country-code,Ethio telecom,
+.etisalat,generic,Not assigned,
+.eu,country-code,EURid vzw/asbl,
+.eurovision,generic,European Broadcasting Union (EBU),https://rdap.nic.eurovision/
+.eus,generic,Puntueus Fundazioa,https://rdap.nic.eus/
+.events,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.everbank,generic,Not assigned,
+.exchange,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.expert,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.exposed,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.express,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.extraspace,generic,Extra Space Storage LLC,https://rdap.identitydigital.services/rdap/
+.fage,generic,Fage International S.A.,https://rdap.identitydigital.services/rdap/
+.fail,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.fairwinds,generic,"FairWinds Partners, LLC",https://rdap.nominet.uk/fairwinds/
+.faith,generic,dot Faith Limited,https://rdap.nic.faith/
+.family,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.fan,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.fans,generic,ZDNS International Limited,https://rdap.centralnic.com/fans/
+.farm,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.farmers,generic,Farmers Insurance Exchange,https://rdap.nic.farmers/
+.fashion,generic,"Registry Services, LLC",https://rdap.nic.fashion/
+.fast,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/fast/
+.fedex,generic,Federal Express Corporation,https://rdap.identitydigital.services/rdap/
+.feedback,generic,"Top Level Spectrum, Inc.",https://rdap.nic.feedback/rdap/
+.ferrari,generic,Fiat Chrysler Automobiles N.V.,https://rdap.identitydigital.services/rdap/
+.ferrero,generic,Ferrero Trading Lux S.A.,https://rdap.nic.ferrero/
+.fi,country-code,Finnish Transport and Communications Agency Traficom,https://rdap.fi/rdap/rdap/
+.fiat,generic,Not assigned,
+.fidelity,generic,Fidelity Brokerage Services LLC,https://rdap.identitydigital.services/rdap/
+.fido,generic,Rogers Communications Canada Inc.,https://rdap.identitydigital.services/rdap/
+.film,generic,Motion Picture Domain Registry Pty Ltd,https://rdap.nic.film/
+.final,generic,Núcleo de Informação e Coordenação do Ponto BR - NIC.br,https://rdap.gtlds.nic.br/
+.finance,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.financial,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.fire,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/fire/
+.firestone,generic,"Bridgestone Licensing Services, Inc.",https://rdap.gmoregistry.net/rdap/
+.firmdale,generic,Firmdale Holdings Limited,https://rdap.nic.firmdale/
+.fish,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.fishing,generic,"Registry Services, LLC",https://rdap.nic.fishing/
+.fit,generic,"Registry Services, LLC",https://rdap.nic.fit/
+.fitness,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.fj,country-code,"The University of the South Pacific
+IT Services",https://www.rdap.fj/
+.fk,country-code,Falkland Islands Government,
+.flickr,generic,"Flickr, Inc.",https://rdap.nic.flickr/
+.flights,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.flir,generic,"FLIR Systems, Inc.",https://rdap.nic.flir/
+.florist,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.flowers,generic,XYZ.COM LLC,https://rdap.centralnic.com/flowers/
+.flsmidth,generic,Not assigned,
+.fly,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.fm,country-code,FSM Telecommunications Corporation,https://rdap.centralnic.com/fm/
+.fo,country-code,FO Council,https://rdap.centralnic.com/fo/
+.foo,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.food,generic,Internet Naming Co.,https://rdap.nic.food/rdap/
+.foodnetwork,generic,Not assigned,
+.football,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.ford,generic,Ford Motor Company,https://rdap.nic.ford/
+.forex,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.forsale,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.forum,generic,"Fegistry, LLC",https://rdap.nic.forum/rdap/
+.foundation,generic,Public Interest Registry (PIR),https://rdap.publicinterestregistry.org/rdap/
+.fox,generic,"FOX Registry, LLC",https://rdap.nic.fox/
+.fr,country-code,Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.),https://rdap.nic.fr/
+.free,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/free/
+.fresenius,generic,Fresenius Immobilien-Verwaltungs-GmbH,https://rdap.centralnic.com/fresenius/
+.frl,generic,FRLregistry B.V.,https://rdap.centralnic.com/frl/
+.frogans,generic,OP3FT,https://rdap.identitydigital.services/rdap/
+.frontdoor,generic,Not assigned,
+.frontier,generic,Frontier Communications Corporation,https://rdap.nic.frontier/
+.ftr,generic,Frontier Communications Corporation,https://rdap.nic.ftr/
+.fujitsu,generic,Fujitsu Limited,https://rdap.gmoregistry.net/rdap/
+.fujixerox,generic,Not assigned,
+.fun,generic,Radix Technologies Inc.,https://rdap.centralnic.com/fun/
+.fund,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.furniture,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.futbol,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.fyi,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.ga,country-code,Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF),
+.gal,generic,Asociación puntoGAL,https://rdap.nic.gal/
+.gallery,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.gallo,generic,"Gallo Vineyards, Inc.",https://rdap.identitydigital.services/rdap/
+.gallup,generic,"Gallup, Inc.",https://rdap.identitydigital.services/rdap/
+.game,generic,XYZ.COM LLC,https://rdap.centralnic.com/game/
+.games,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.gap,generic,"The Gap, Inc.",https://rdap.nic.gap/
+.garden,generic,"Registry Services, LLC",https://rdap.nic.garden/
+.gay,generic,"Registry Services, LLC",https://rdap.nic.gay/
+.gb,country-code,Reserved Domain - IANA,
+.gbiz,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.gd,country-code,The National Telecommunications Regulatory Commission (NTRC),https://rdap.centralnic.com/gd/
+.gdn,generic,"Joint Stock Company ""Navigation-information systems""",https://rdap.nic.gdn/
+.ge,country-code,Caucasus Online LLC,
+.gea,generic,GEA Group Aktiengesellschaft,https://rdap.nic.gea/
+.gent,generic,Combell nv,https://rdap.centralnic.com/gent/
+.genting,generic,Resorts World Inc. Pte. Ltd.,https://rdap.identitydigital.services/rdap/
+.george,generic,"Wal-Mart Stores, Inc.",https://rdap.nic.george/
+.gf,country-code,CANAL+ TELECOM,
+.gg,country-code,Island Networks Ltd.,
+.ggee,generic,"GMO Internet, Inc.",https://rdap.gmoregistry.net/rdap/
+.gh,country-code,Network Computer Systems Limited,
+.gi,country-code,Sapphire Networks,
+.gift,generic,"Uniregistry, Corp.",https://whois.uniregistry.net/rdap/
+.gifts,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.gives,generic,Public Interest Registry (PIR),https://rdap.publicinterestregistry.org/rdap/
+.giving,generic,Public Interest Registry (PIR),https://rdap.publicinterestregistry.org/rdap/
+.gl,country-code,TELE Greenland A/S,
+.glade,generic,Not assigned,
+.glass,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.gle,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.global,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.globo,generic,Globo Comunicação e Participações S.A,https://rdap.gtlds.nic.br/
+.gm,country-code,GM-NIC,
+.gmail,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.gmbh,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.gmo,generic,"GMO Internet, Inc.",https://rdap.gmoregistry.net/rdap/
+.gmx,generic,1&1 Mail & Media GmbH,https://rdap.nic.gmx/
+.gn,country-code,Centre National des Sciences Halieutiques de Boussoura,
+.godaddy,generic,"Go Daddy East, LLC",https://rdap.nic.godaddy/
+.gold,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.goldpoint,generic,"YODOBASHI CAMERA CO.,LTD.",https://rdap.gmoregistry.net/rdap/
+.golf,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.goo,generic,NTT Resonant Inc.,https://rdap.gmoregistry.net/rdap/
+.goodhands,generic,Not assigned,
+.goodyear,generic,The Goodyear Tire & Rubber Company,https://rdap.identitydigital.services/rdap/
+.goog,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.google,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.gop,generic,"Republican State Leadership Committee, Inc.",https://rdap.nominet.uk/gop/
+.got,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/got/
+.gov,sponsored,Cybersecurity and Infrastructure Security Agency,
+.gp,country-code,Networking Technologies Group,
+.gq,country-code,GETESA,
+.gr,country-code,ICS-FORTH GR,
+.grainger,generic,"Grainger Registry Services, LLC",https://rdap.nic.grainger/
+.graphics,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.gratis,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.green,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.gripe,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.grocery,generic,"Wal-Mart Stores, Inc.",https://rdap.nic.grocery/
+.group,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.gs,country-code,Government of South Georgia and South Sandwich Islands (GSGSSI),https://rdap.nic.gs/
+.gt,country-code,Universidad del Valle de Guatemala,
+.gu,country-code,University of Guam,
+.guardian,generic,Not assigned,
+.gucci,generic,Guccio Gucci S.p.a.,https://rdap.nominet.uk/gucci/
+.guge,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.guide,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.guitars,generic,XYZ.COM LLC,https://rdap.centralnic.com/guitars/
+.guru,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.gw,country-code,Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau,
+.gy,country-code,University of Guyana,https://rdap.registry.gy/
+.hair,generic,XYZ.COM LLC,https://rdap.centralnic.com/hair/
+.hamburg,generic,Hamburg Top-Level-Domain GmbH,https://rdap.nic.hamburg/v1/
+.hangout,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.haus,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.hbo,generic,"HBO Registry Services, Inc.",https://rdap.nic.hbo/
+.hdfc,generic,HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED,https://rdap.identitydigital.services/rdap/
+.hdfcbank,generic,HDFC Bank Limited,https://rdap.identitydigital.services/rdap/
+.health,generic,"Registry Services, LLC",https://rdap.nic.health/
+.healthcare,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.help,generic,Innovation Service Ltd,https://rdap.centralnic.com/help/
+.helsinki,generic,City of Helsinki,https://rdap.identitydigital.services/rdap/
+.here,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.hermes,generic,Hermes International,https://rdap.identitydigital.services/rdap/
+.hgtv,generic,Not assigned,
+.hiphop,generic,"Dot Hip Hop, LLC",https://rdap.registry.hiphop/rdap/
+.hisamitsu,generic,"Hisamitsu Pharmaceutical Co.,Inc.",https://rdap.gmoregistry.net/rdap/
+.hitachi,generic,"Hitachi, Ltd.",https://rdap.gmoregistry.net/rdap/
+.hiv,generic,Internet Naming Co.,https://whois.uniregistry.net/rdap/
+.hk,country-code,Hong Kong Internet Registration Corporation Ltd.,
+.hkt,generic,PCCW-HKT DataCom Services Limited,https://rdap.identitydigital.services/rdap/
+.hm,country-code,HM Domain Registry,
+.hn,country-code,Red de Desarrollo Sostenible Honduras,https://rdap.nic.hn/
+.hockey,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.holdings,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.holiday,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.homedepot,generic,"Home Depot Product Authority, LLC",https://rdap.identitydigital.services/rdap/
+.homegoods,generic,"The TJX Companies, Inc.",https://rdap.nic.homegoods/
+.homes,generic,XYZ.COM LLC,https://rdap.centralnic.com/homes/
+.homesense,generic,"The TJX Companies, Inc.",https://rdap.nic.homesense/
+.honda,generic,"Honda Motor Co., Ltd.",https://rdap.gmoregistry.net/rdap/
+.honeywell,generic,Not assigned,
+.horse,generic,"Registry Services, LLC",https://rdap.nic.horse/
+.hospital,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.host,generic,Radix Technologies Inc.,https://rdap.centralnic.com/host/
+.hosting,generic,XYZ.COM LLC,https://rdap.centralnic.com/hosting/
+.hot,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/hot/
+.hoteles,generic,Not assigned,
+.hotels,generic,Booking.com B.V.,https://rdap.nic.hotels/
+.hotmail,generic,Microsoft Corporation,https://rdap.nominet.uk/hotmail/
+.house,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.how,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.hr,country-code,CARNet - Croatian Academic and Research Network,
+.hsbc,generic,HSBC Global Services (UK) Limited,https://rdap.nic.hsbc/
+.ht,country-code,Consortium FDS/RDDH,https://rdap.nic.ht/
+.htc,generic,Not assigned,
+.hu,country-code,Council of Hungarian Internet Providers (CHIP),
+.hughes,generic,Hughes Satellite Systems Corporation,https://rdap.identitydigital.services/rdap/
+.hyatt,generic,"Hyatt GTLD, L.L.C.",https://rdap.nic.hyatt/
+.hyundai,generic,Hyundai Motor Company,https://rdap.gmoregistry.net/rdap/
+.ibm,generic,International Business Machines Corporation,https://rdap.nic.ibm/
+.icbc,generic,Industrial and Commercial Bank of China Limited,https://rdap.zdnsgtld.com/icbc/
+.ice,generic,"IntercontinentalExchange, Inc.",https://rdap.identitydigital.services/rdap/
+.icu,generic,Shortdot SA,https://rdap.centralnic.com/icu/
+.id,country-code,Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI),https://rdap.pandi.id/rdap/
+.ie,country-code,"University College Dublin, Computing Services, Computer Centre",
+.ieee,generic,IEEE Global LLC,https://rdap.nominet.uk/ieee/
+.ifm,generic,ifm electronic gmbh,https://rdap.nic.ifm/
+.iinet,generic,Not assigned,
+.ikano,generic,Ikano S.A.,https://rdap.nic.ikano/v1/
+.il,country-code,The Israel Internet Association (RA),
+.im,country-code,Isle of Man Government,
+.imamat,generic,Fondation Aga Khan (Aga Khan Foundation),https://rdap.identitydigital.services/rdap/
+.imdb,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/imdb/
+.immo,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.immobilien,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.in,country-code,National Internet Exchange of India,https://rdap.nixiregistry.in/rdap/
+.inc,generic,Intercap Registry Inc.,https://rdap.centralnic.com/inc/
+.industries,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.infiniti,generic,"NISSAN MOTOR CO., LTD.",https://rdap.gmoregistry.net/rdap/
+.info,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.ing,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.ink,generic,"Registry Services, LLC",https://rdap.nic.ink/
+.institute,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.insurance,generic,fTLD Registry Services LLC,https://rdap.nic.insurance/
+.insure,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.int,sponsored,Internet Assigned Numbers Authority,https://rdap.iana.org/
+.intel,generic,Not assigned,
+.international,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.intuit,generic,"Intuit Administrative Services, Inc.",https://rdap.nic.intuit/
+.investments,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.io,country-code,Internet Computer Bureau Limited,
+.ipiranga,generic,Ipiranga Produtos de Petroleo S.A.,https://rdap.nic.ipiranga/
+.iq,country-code,Communications and Media Commission (CMC),
+.ir,country-code,Institute for Research in Fundamental Sciences,
+.irish,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.is,country-code,ISNIC - Internet á Íslandi hf.,https://rdap.isnic.is/rdap/
+.iselect,generic,Not assigned,
+.ismaili,generic,Fondation Aga Khan (Aga Khan Foundation),https://rdap.identitydigital.services/rdap/
+.ist,generic,Istanbul Metropolitan Municipality,https://rdap.identitydigital.services/rdap/
+.istanbul,generic,Istanbul Metropolitan Municipality,https://rdap.identitydigital.services/rdap/
+.it,country-code,IIT - CNR,
+.itau,generic,Itau Unibanco Holding S.A.,https://rdap.nic.itau/
+.itv,generic,ITV Services Limited,https://rdap.identitydigital.services/rdap/
+.iveco,generic,Not assigned,
+.iwc,generic,Not assigned,
+.jaguar,generic,Jaguar Land Rover Ltd,https://rdap.identitydigital.services/rdap/
+.java,generic,Oracle Corporation,https://rdap.identitydigital.services/rdap/
+.jcb,generic,"JCB Co., Ltd.",https://rdap.gmoregistry.net/rdap/
+.jcp,generic,Not assigned,
+.je,country-code,Island Networks (Jersey) Ltd.,
+.jeep,generic,FCA US LLC.,https://rdap.identitydigital.services/rdap/
+.jetzt,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.jewelry,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.jio,generic,Reliance Industries Limited,https://rdap.identitydigital.services/rdap/
+.jlc,generic,Not assigned,
+.jll,generic,Jones Lang LaSalle Incorporated,https://rdap.identitydigital.services/rdap/
+.jm,country-code,University of West Indies,
+.jmp,generic,Matrix IP LLC,https://rdap.nic.jmp/
+.jnj,generic,"Johnson & Johnson Services, Inc.",https://rdap.centralnicregistry.com/jnj/
+.jo,country-code,Ministry of Digital Economy and Entrepreneurship (MoDEE),
+.jobs,sponsored,Employ Media LLC,https://rdap.nominet.uk/jobs/
+.joburg,generic,ZA Central Registry NPC trading as ZA Central Registry,https://rdap.nic.joburg/rdap/
+.jot,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/jot/
+.joy,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/joy/
+.jp,country-code,"Japan Registry Services Co., Ltd.",
+.jpmorgan,generic,"JPMorgan Chase Bank, National Association",https://rdap.nic.jpmorgan/
+.jprs,generic,"Japan Registry Services Co., Ltd.",https://rdap.nic.jprs/rdap/
+.juegos,generic,"Dog Beach, LLC",https://whois.uniregistry.net/rdap/
+.juniper,generic,"JUNIPER NETWORKS, INC.",https://rdap.identitydigital.services/rdap/
+.kaufen,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.kddi,generic,KDDI CORPORATION,https://rdap.gmoregistry.net/rdap/
+.ke,country-code,Kenya Network Information Center (KeNIC),https://rdap.kenic.or.ke/
+.kerryhotels,generic,Kerry Trading Co. Limited,https://rdap.identitydigital.services/rdap/
+.kerrylogistics,generic,Not assigned,
+.kerryproperties,generic,Kerry Trading Co. Limited,https://rdap.identitydigital.services/rdap/
+.kfh,generic,Kuwait Finance House,https://rdap.centralnic.com/kfh/
+.kg,country-code,AsiaInfo Telecommunication Enterprise,http://rdap.cctld.kg/
+.kh,country-code,Telecommunication Regulator of Cambodia (TRC),
+.ki,country-code,"Ministry of Information, Communications and Transport (MICT)",
+.kia,generic,KIA MOTORS CORPORATION,https://rdap.gmoregistry.net/rdap/
+.kids,generic,DotKids Foundation Limited,https://rdap.identitydigital.services/rdap/
+.kim,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.kinder,generic,Not assigned,
+.kindle,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/kindle/
+.kitchen,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.kiwi,generic,DOT KIWI LIMITED,https://rdap.kiwi.fury.ca/rdap/
+.km,country-code,Comores Telecom,
+.kn,country-code,"Ministry of Finance, Sustainable Development Information & Technology",
+.koeln,generic,dotKoeln GmbH,https://rdap.ryce-rsp.com/rdap/
+.komatsu,generic,Komatsu Ltd.,https://rdap.gmoregistry.net/rdap/
+.kosher,generic,Kosher Marketing Assets LLC,https://rdap.identitydigital.services/rdap/
+.kp,country-code,Star Joint Venture Company,
+.kpmg,generic,KPMG International Cooperative (KPMG International Genossenschaft),https://rdap.nic.kpmg/
+.kpn,generic,Koninklijke KPN N.V.,https://rdap.centralnic.com/kpn/
+.kr,country-code,Korea Internet & Security Agency (KISA),
+.krd,generic,KRG Department of Information Technology,https://rdap.nic.krd/
+.kred,generic,KredTLD Pty Ltd,https://rdap.centralnic.com/kred/
+.kuokgroup,generic,Kerry Trading Co. Limited,https://rdap.identitydigital.services/rdap/
+.kw,country-code,Communications and Information Technology Regulatory Authority,
+.ky,country-code,Utility Regulation and Competition Office (OfReg),https://whois.kyregistry.ky/rdap/
+.kyoto,generic,Academic Institution: Kyoto Jyoho Gakuen,https://rdap.gmoregistry.net/rdap/
+.kz,country-code,Association of IT Companies of Kazakhstan,
+.la,country-code,"Lao National Internet Center (LANIC), Ministry of Technology and Communications",
+.lacaixa,generic,"Fundación Bancaria Caixa d'Estalvis i Pensions de Barcelona, ""la Caixa""",https://rdap.nic.lacaixa/
+.ladbrokes,generic,Not assigned,
+.lamborghini,generic,Automobili Lamborghini S.p.A.,https://rdap.identitydigital.services/rdap/
+.lamer,generic,The Estée Lauder Companies Inc.,https://rdap.identitydigital.services/rdap/
+.lancaster,generic,Not assigned,
+.lancia,generic,Not assigned,
+.lancome,generic,Not assigned,
+.land,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.landrover,generic,Jaguar Land Rover Ltd,https://rdap.identitydigital.services/rdap/
+.lanxess,generic,LANXESS Corporation,https://rdap.nic.lanxess/
+.lasalle,generic,Jones Lang LaSalle Incorporated,https://rdap.identitydigital.services/rdap/
+.lat,generic,XYZ.COM LLC,https://rdap.centralnic.com/lat/
+.latino,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.latrobe,generic,La Trobe University,https://rdap.nic.latrobe/
+.law,generic,"Registry Services, LLC",https://rdap.nic.law/
+.lawyer,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.lb,country-code,Internet Society Lebanon,https://rdap.lbdr.org.lb/
+.lc,country-code,University of Puerto Rico,
+.lds,generic,"IRI Domain Management, LLC",https://rdap.identitydigital.services/rdap/
+.lease,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.leclerc,generic,A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc,https://rdap.nic.leclerc/
+.lefrak,generic,"LeFrak Organization, Inc.",https://rdap.identitydigital.services/rdap/
+.legal,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.lego,generic,LEGO Juris A/S,https://rdap.identitydigital.services/rdap/
+.lexus,generic,TOYOTA MOTOR CORPORATION,https://rdap.gmoregistry.net/rdap/
+.lgbt,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.li,country-code,SWITCH The Swiss Education & Research Network,
+.liaison,generic,Not assigned,
+.lidl,generic,Schwarz Domains und Services GmbH & Co. KG,https://rdap.centralnic.com/lidl/
+.life,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.lifeinsurance,generic,American Council of Life Insurers,https://rdap.nic.lifeinsurance/
+.lifestyle,generic,Internet Naming Co.,https://rdap.nic.lifestyle/rdap/
+.lighting,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.like,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/like/
+.lilly,generic,Eli Lilly and Company,https://rdap.nic.lilly/
+.limited,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.limo,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.lincoln,generic,Ford Motor Company,https://rdap.nic.lincoln/
+.linde,generic,Not assigned,
+.link,generic,Nova Registry Ltd.,https://whois.uniregistry.net/rdap/
+.lipsy,generic,Not assigned,
+.live,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.living,generic,Internet Naming Co.,https://rdap.nic.living/rdap/
+.lixil,generic,Not assigned,
+.lk,country-code,"Council for Information Technology
+LK Domain Registrar",
+.llc,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.llp,generic,Intercap Registry Inc.,https://rdap.centralnic.com/llp/
+.loan,generic,dot Loan Limited,https://rdap.nic.loan/
+.loans,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.locker,generic,Orange Domains LLC,https://rdap.nic.locker/rdap/
+.locus,generic,Locus Analytics LLC,https://rdap.nominet.uk/locus/
+.loft,generic,Not assigned,
+.lol,generic,XYZ.COM LLC,https://rdap.centralnic.com/lol/
+.london,generic,Dot London Domains Limited,https://rdap.centralnic.com/london/
+.lotte,generic,"Lotte Holdings Co., Ltd.",https://rdap.gmoregistry.net/rdap/
+.lotto,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.love,generic,Waterford Limited,https://rdap.registry.love/rdap/
+.lpl,generic,"LPL Holdings, Inc.",https://rdap.centralnic.com/lpl/
+.lplfinancial,generic,"LPL Holdings, Inc.",https://rdap.centralnic.com/lplfinancial/
+.lr,country-code,"Data Technology Solutions, Inc.",
+.ls,country-code,Lesotho Network Information Centre Proprietary (LSNIC),
+.lt,country-code,Kaunas University of Technology,
+.ltd,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.ltda,generic,InterNetX Corp.,https://rdap.identitydigital.services/rdap/
+.lu,country-code,RESTENA,
+.lundbeck,generic,H. Lundbeck A/S,https://rdap.identitydigital.services/rdap/
+.lupin,generic,Not assigned,
+.luxe,generic,"Registry Services, LLC",https://rdap.nic.luxe/
+.luxury,generic,Luxury Partners LLC,https://rdap.centralnic.com/luxury/
+.lv,country-code,"University of Latvia, Institute of Mathematics and Computer Science, Department of Network Solutions (DNS)",
+.ly,country-code,General Post and Telecommunication Company,https://rdap.nic.ly/
+.ma,country-code,Agence Nationale de Réglementation des Télécommunications (ANRT),
+.macys,generic,Not assigned,
+.madrid,generic,Comunidad de Madrid,https://rdap.nic.madrid/
+.maif,generic,Mutuelle Assurance Instituteur France (MAIF),https://rdap.identitydigital.services/rdap/
+.maison,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.makeup,generic,XYZ.COM LLC,https://rdap.centralnic.com/makeup/
+.man,generic,MAN Truck & Bus SE,https://rdap.nic.man/
+.management,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.mango,generic,PUNTO FA S.L.,https://rdap.nic.mango/
+.map,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.market,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.marketing,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.markets,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.marriott,generic,Marriott Worldwide Corporation,https://rdap.identitydigital.services/rdap/
+.marshalls,generic,"The TJX Companies, Inc.",https://rdap.nic.marshalls/
+.maserati,generic,Not assigned,
+.mattel,generic,"Mattel IT Services, Inc.",https://rdap.nic.mattel/
+.mba,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.mc,country-code,Direction des Plateformes et des Ressources Numériques,
+.mcd,generic,Not assigned,
+.mcdonalds,generic,Not assigned,
+.mckinsey,generic,"McKinsey Holdings, Inc.",https://rdap.identitydigital.services/rdap/
+.md,country-code,IP Serviciul Tehnologia Informatiei si Securitate Cibernetica,
+.me,country-code,Government of Montenegro,
+.med,generic,Medistry LLC,https://rdap.nominet.uk/med/
+.media,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.meet,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.melbourne,generic,"The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation",https://rdap.nic.melbourne/
+.meme,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.memorial,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.men,generic,Exclusive Registry Limited,https://rdap.nic.men/
+.menu,generic,Dot Menu Registry LLC,https://rdap.nic.menu/
+.meo,generic,Not assigned,
+.merckmsd,generic,"MSD Registry Holdings, Inc.",https://rdap.nic.merckmsd/
+.metlife,generic,Not assigned,
+.mf,country-code,Not assigned,
+.mg,country-code,NIC-MG (Network Information Center Madagascar),http://rdap.nic.mg/
+.mh,country-code,Office of the Cabinet,
+.miami,generic,"Registry Services, LLC",https://rdap.nic.miami/
+.microsoft,generic,Microsoft Corporation,https://rdap.nominet.uk/microsoft/
+.mil,sponsored,DoD Network Information Center,
+.mini,generic,Bayerische Motoren Werke Aktiengesellschaft,https://rdap.centralnic.com/mini/
+.mint,generic,"Intuit Administrative Services, Inc.",https://rdap.nic.mint/
+.mit,generic,Massachusetts Institute of Technology,https://rdap.identitydigital.services/rdap/
+.mitsubishi,generic,Mitsubishi Corporation,https://rdap.gmoregistry.net/rdap/
+.mk,country-code,Macedonian Academic Research Network Skopje,
+.ml,country-code,Agence des Technologies de l’Information et de la Communication,https://rdap.nic.ml/
+.mlb,generic,"MLB Advanced Media DH, LLC",https://rdap.nic.mlb/
+.mls,generic,The Canadian Real Estate Association,https://rdap.mls.fury.ca/rdap/
+.mm,country-code,Ministry of Transport and Communications,
+.mma,generic,MMA IARD,https://rdap.nic.mma/
+.mn,country-code,"Datacom Co., Ltd.",
+.mo,country-code,Macao Post and Telecommunications Bureau (CTT),
+.mobi,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.mobile,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.mobily,generic,Not assigned,
+.moda,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.moe,generic,Interlink Systems Innovation Institute K.K.,https://rdap.nic.moe/
+.moi,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/moi/
+.mom,generic,XYZ.COM LLC,https://rdap.centralnic.com/mom/
+.monash,generic,Monash University,https://rdap.nic.monash/
+.money,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.monster,generic,XYZ.COM LLC,https://rdap.centralnic.com/monster/
+.montblanc,generic,Not assigned,
+.mopar,generic,Not assigned,
+.mormon,generic,"IRI Domain Management, LLC (""Applicant"")",https://rdap.identitydigital.services/rdap/
+.mortgage,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.moscow,generic,Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID),https://rdap.flexireg.net/
+.moto,generic,"Motorola Trademark Holdings, LLC",https://rdap.nic.moto/
+.motorcycles,generic,XYZ.COM LLC,https://rdap.centralnic.com/motorcycles/
+.mov,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.movie,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.movistar,generic,Not assigned,
+.mp,country-code,"Saipan Datacom, Inc.",
+.mq,country-code,CANAL+ TELECOM,
+.mr,country-code,Université de Nouakchott Al Aasriya,
+.ms,country-code,MNI Networks Ltd.,https://rdap.nic.ms/
+.msd,generic,"MSD Registry Holdings, Inc.",https://rdap.nic.msd/
+.mt,country-code,NIC (Malta),
+.mtn,generic,MTN Dubai Limited,https://rdap.nominet.uk/mtn/
+.mtpc,generic,Not assigned,
+.mtr,generic,MTR Corporation Limited,https://whois.nic.mtr/rdap/
+.mu,country-code,Internet Direct Ltd,https://rdap.identitydigital.services/rdap/
+.museum,sponsored,Museum Domain Management Association,https://rdap.nic.museum/
+.music,generic,DotMusic Limited,https://rdap.registryservices.music/rdap/
+.mutual,generic,Not assigned,
+.mutuelle,generic,Not assigned,
+.mv,country-code,Dhivehi Raajjeyge Gulhun PLC,
+.mw,country-code,Malawi Sustainable Development Network Programme (Malawi SDNP),
+.mx,country-code,"NIC-Mexico
+ITESM - Campus Monterrey",
+.my,country-code,MYNIC Berhad,
+.mz,country-code,Centro de Informatica de Universidade Eduardo Mondlane,
+.na,country-code,Namibian Network Information Center,https://keetmans.omadhina.co.na/
+.nab,generic,National Australia Bank Limited,https://rdap.identitydigital.services/rdap/
+.nadex,generic,Not assigned,
+.nagoya,generic,"GMO Registry, Inc.",https://rdap.gmoregistry.net/rdap/
+.name,generic-restricted,"VeriSign Information Services, Inc.",https://tld-rdap.verisign.com/name/v1/
+.nationwide,generic,Not assigned,
+.natura,generic,Not assigned,
+.navy,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.nba,generic,"NBA REGISTRY, LLC",https://rdap.nic.nba/
+.nc,country-code,Office des Postes et Telecommunications,
+.ne,country-code,SONITEL,
+.nec,generic,NEC Corporation,https://rdap.gmoregistry.net/rdap/
+.net,generic,VeriSign Global Registry Services,https://rdap.verisign.com/net/v1/
+.netbank,generic,COMMONWEALTH BANK OF AUSTRALIA,https://rdap.nic.netbank/
+.netflix,generic,"Netflix, Inc.",https://rdap.nic.netflix/
+.network,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.neustar,generic,"NeuStar, Inc.",https://rdap.nic.neustar/
+.new,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.newholland,generic,Not assigned,
+.news,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.next,generic,Next plc,https://rdap.identitydigital.services/rdap/
+.nextdirect,generic,Next plc,https://rdap.identitydigital.services/rdap/
+.nexus,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.nf,country-code,Norfolk Island Data Services,https://rdap.nic.nf/
+.nfl,generic,NFL Reg Ops LLC,https://rdap.nic.nfl/
+.ng,country-code,Nigeria Internet Registration Association,
+.ngo,generic,Public Interest Registry,https://rdap.publicinterestregistry.org/rdap/
+.nhk,generic,Japan Broadcasting Corporation (NHK),https://rdap.gmoregistry.net/rdap/
+.ni,country-code,Universidad Nacional del Ingernieria. Division de Tecnologias de la Informacion.,
+.nico,generic,"DWANGO Co., Ltd.",https://rdap.gmoregistry.net/rdap/
+.nike,generic,"NIKE, Inc.",https://rdap.nic.nike/
+.nikon,generic,NIKON CORPORATION,https://rdap.identitydigital.services/rdap/
+.ninja,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.nissan,generic,"NISSAN MOTOR CO., LTD.",https://rdap.gmoregistry.net/rdap/
+.nissay,generic,Nippon Life Insurance Company,https://tld-rdap.verisign.com/nissay/v1/
+.nl,country-code,SIDN (Stichting Internet Domeinregistratie Nederland),https://rdap.sidn.nl/
+.no,country-code,Norid A/S,https://rdap.norid.no/
+.nokia,generic,Nokia Corporation,https://rdap.centralnic.com/nokia/
+.northwesternmutual,generic,Not assigned,
+.norton,generic,Gen Digital Inc.,https://rdap.nic.norton/
+.now,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/now/
+.nowruz,generic,Emergency Back-End Registry Operator Program - ICANN,https://rdap.nominet.uk/nowruz/
+.nowtv,generic,Starbucks (HK) Limited,https://rdap.identitydigital.services/rdap/
+.np,country-code,Mercantile Communications Pvt. Ltd.,
+.nr,country-code,CENPAC NET,
+.nra,generic,"NRA Holdings Company, INC.",https://rdap.identitydigital.services/rdap/
+.nrw,generic,Minds + Machines GmbH,https://rdap.nic.nrw/
+.ntt,generic,NIPPON TELEGRAPH AND TELEPHONE CORPORATION,https://rdap.nic.ntt/rdap/
+.nu,country-code,The IUSN Foundation,
+.nyc,generic,The City of New York by and through the New York City Department of Information Technology & Telecommunications,https://rdap.nic.nyc/
+.nz,country-code,InternetNZ,
+.obi,generic,OBI Group Holding SE & Co. KGaA,https://rdap.identitydigital.services/rdap/
+.observer,generic,"Fegistry, LLC",https://rdap.registry.click/rdap/
+.off,generic,Not assigned,
+.office,generic,Microsoft Corporation,https://rdap.nominet.uk/office/
+.okinawa,generic,"BRregistry, Inc.",https://rdap.gmoregistry.net/rdap/
+.olayan,generic,Competrol (Luxembourg) Sarl,https://rdap.nic.olayan/
+.olayangroup,generic,Competrol (Luxembourg) Sarl,https://rdap.nic.olayangroup/
+.oldnavy,generic,Not assigned,
+.ollo,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.om,country-code,Telecommunications Regulatory Authority (TRA),
+.omega,generic,The Swatch Group Ltd,https://rdap.nominet.uk/omega/
+.one,generic,One.com A/S,https://rdap.nic.one/
+.ong,generic,Public Interest Registry,https://rdap.publicinterestregistry.org/rdap/
+.onl,generic,iRegistry GmbH,https://rdap.identitydigital.services/rdap/
+.online,generic,Radix Technologies Inc. SEZC,https://rdap.centralnic.com/online/
+.onyourside,generic,Not assigned,
+.ooo,generic,INFIBEAM AVENUES LIMITED,https://rdap.centralnic.com/ooo/
+.open,generic,"American Express Travel Related Services Company, Inc.",https://rdap.nic.open/
+.oracle,generic,Oracle Corporation,https://rdap.identitydigital.services/rdap/
+.orange,generic,Orange Brand Services Limited,https://rdap.identitydigital.services/rdap/
+.org,generic,Public Interest Registry (PIR),https://rdap.publicinterestregistry.org/rdap/
+.organic,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.orientexpress,generic,Not assigned,
+.origins,generic,The Estée Lauder Companies Inc.,https://rdap.identitydigital.services/rdap/
+.osaka,generic,"Osaka Registry Co., Ltd.",https://rdap.nic.osaka/
+.otsuka,generic,"Otsuka Holdings Co., Ltd.",https://rdap.gmoregistry.net/rdap/
+.ott,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.ovh,generic,OVH SAS,https://rdap.nic.ovh/
+.pa,country-code,Universidad Tecnologica de Panama,
+.page,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.pamperedchef,generic,Not assigned,
+.panasonic,generic,Panasonic Corporation,https://rdap.gmoregistry.net/rdap/
+.panerai,generic,Not assigned,
+.paris,generic,City of Paris,https://rdap.nic.paris/
+.pars,generic,Emergency Back-End Registry Operator Program - ICANN,https://rdap.nominet.uk/pars/
+.partners,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.parts,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.party,generic,Blue Sky Registry Limited,https://rdap.nic.party/
+.passagens,generic,Not assigned,
+.pay,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/pay/
+.pccw,generic,PCCW Enterprises Limited,https://rdap.identitydigital.services/rdap/
+.pe,country-code,Red Cientifica Peruana,
+.pet,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.pf,country-code,Gouvernement de la Polynésie française,
+.pfizer,generic,Pfizer Inc.,https://rdap.nic.pfizer/
+.pg,country-code,"PNG DNS Administration, Vice Chancellors Office, The Papua New Guinea University of Technology",https://rdap.nic.pg/
+.ph,country-code,PH Domain Foundation,
+.pharmacy,generic,National Association of Boards of Pharmacy,https://rdap.nominet.uk/pharmacy/
+.phd,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.philips,generic,Koninklijke Philips N.V.,https://rdap.nic.philips/
+.phone,generic,Dish DBS Corporation,https://rdap.mobile-registry.com/rdap/
+.photo,generic,"Registry Services, LLC",https://rdap.nic.photo/
+.photography,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.photos,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.physio,generic,PhysBiz Pty Ltd,https://rdap.nic.physio/
+.piaget,generic,Not assigned,
+.pics,generic,XYZ.COM LLC,https://rdap.centralnic.com/pics/
+.pictet,generic,Banque Pictet & Cie SA,https://rdap.identitydigital.services/rdap/
+.pictures,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.pid,generic,"Top Level Spectrum, Inc.",https://rdap.nic.pid/rdap/
+.pin,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/pin/
+.ping,generic,"Ping Registry Provider, Inc.",https://rdap.nic.ping/
+.pink,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.pioneer,generic,Pioneer Corporation,https://rdap.nominet.uk/pioneer/
+.pizza,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.pk,country-code,PKNIC,
+.pl,country-code,Research and Academic Computer Network,https://rdap.dns.pl/
+.place,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.play,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.playstation,generic,Sony Computer Entertainment Inc.,https://rdap.gmoregistry.net/rdap/
+.plumbing,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.plus,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.pm,country-code,Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.),https://rdap.nic.pm/
+.pn,country-code,Pitcairn Island Administration,https://rdap.nominet.uk/pn/
+.pnc,generic,"PNC Domain Co., LLC",https://rdap.identitydigital.services/rdap/
+.pohl,generic,Deutsche Vermögensberatung Aktiengesellschaft DVAG,https://rdap.centralnic.com/pohl/
+.poker,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.politie,generic,Politie Nederland,https://rdap.nic.politie/
+.porn,generic,ICM Registry PN LLC,https://rdap.nic.porn/
+.post,sponsored,Universal Postal Union,https://rdap.identitydigital.services/rdap/
+.pr,country-code,Gauss Research Laboratory Inc.,
+.pramerica,generic,Not assigned,
+.praxi,generic,Praxi S.p.A.,https://rdap.nic.praxi/
+.press,generic,Radix Technologies Inc.,https://rdap.centralnic.com/press/
+.prime,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/prime/
+.pro,generic-restricted,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.prod,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.productions,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.prof,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.progressive,generic,Progressive Casualty Insurance Company,https://rdap.identitydigital.services/rdap/
+.promo,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.properties,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.property,generic,Digital Property Infrastructure Limited,https://whois.uniregistry.net/rdap/
+.protection,generic,XYZ.COM LLC,https://rdap.centralnic.com/protection/
+.pru,generic,"Prudential Financial, Inc.",https://rdap.nic.pru/
+.prudential,generic,"Prudential Financial, Inc.",https://rdap.nic.prudential/
+.ps,country-code,"Ministry of Telecommunications & Information Technology, Government Computer Center",
+.pt,country-code,Associação DNS.PT,
+.pub,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.pw,country-code,Micronesia Investment and Development Corporation,https://rdap.centralnic.com/pw/
+.pwc,generic,PricewaterhouseCoopers LLP,https://rdap.identitydigital.services/rdap/
+.py,country-code,NIC-PY,
+.qa,country-code,Communications Regulatory Authority,
+.qpon,generic,DOTQPON LLC.,https://rdap.centralnic.com/qpon/
+.quebec,generic,PointQuébec Inc,https://rdap.nic.quebec/
+.quest,generic,XYZ.COM LLC,https://rdap.centralnic.com/quest/
+.qvc,generic,Not assigned,
+.racing,generic,Premier Registry Limited,https://rdap.nic.racing/
+.radio,generic,European Broadcasting Union (EBU),https://rdap.nic.radio/
+.raid,generic,Not assigned,
+.re,country-code,Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.),https://rdap.nic.re/
+.read,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/read/
+.realestate,generic,dotRealEstate LLC,https://rdap.nominet.uk/realestate/
+.realtor,generic,Real Estate Domains LLC,https://rdap.nominet.uk/realtor/
+.realty,generic,Internet Naming Co.,https://rdap.registry.click/rdap/
+.recipes,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.red,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.redstone,generic,Not assigned,
+.redumbrella,generic,"Travelers TLD, LLC",https://rdap.identitydigital.services/rdap/
+.rehab,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.reise,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.reisen,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.reit,generic,"National Association of Real Estate Investment Trusts, Inc.",https://rdap.centralnic.com/reit/
+.reliance,generic,Reliance Industries Limited,https://rdap.identitydigital.services/rdap/
+.ren,generic,ZDNS International Limited,https://rdap.zdnsgtld.com/ren/
+.rent,generic,XYZ.COM LLC,https://rdap.centralnic.com/rent/
+.rentals,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.repair,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.report,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.republican,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.rest,generic,Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable,https://rdap.registry.bar/rdap/
+.restaurant,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.review,generic,dot Review Limited,https://rdap.nic.review/
+.reviews,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.rexroth,generic,Robert Bosch GMBH,https://rdap.identitydigital.services/rdap/
+.rich,generic,iRegistry GmbH,https://rdap.identitydigital.services/rdap/
+.richardli,generic,Pacific Century Asset Management (HK) Limited,https://rdap.identitydigital.services/rdap/
+.ricoh,generic,"Ricoh Company, Ltd.",https://rdap.gmoregistry.net/rdap/
+.rightathome,generic,Not assigned,
+.ril,generic,Reliance Industries Limited,https://rdap.identitydigital.services/rdap/
+.rio,generic,Empresa Municipal de Informática SA - IPLANRIO,https://rdap.gtlds.nic.br/
+.rip,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.rmit,generic,Not assigned,
+.ro,country-code,National Institute for R&D in Informatics,
+.rocher,generic,Not assigned,
+.rocks,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.rodeo,generic,"Registry Services, LLC",https://rdap.nic.rodeo/
+.rogers,generic,Rogers Communications Canada Inc.,https://rdap.identitydigital.services/rdap/
+.room,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/room/
+.rs,country-code,Serbian National Internet Domain Registry (RNIDS),
+.rsvp,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.ru,country-code,Coordination Center for TLD RU,
+.rugby,generic,World Rugby Strategic Developments Limited,https://rdap.nic.rugby/
+.ruhr,generic,dotSaarland GmbH,https://rdap.centralnic.com/ruhr/
+.run,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.rw,country-code,Rwanda Internet Community and Technology  Alliance (RICTA) Ltd,https://rdap.ricta.org.rw/
+.rwe,generic,RWE AG,https://rdap.identitydigital.services/rdap/
+.ryukyu,generic,"BRregistry, Inc.",https://rdap.gmoregistry.net/rdap/
+.sa,country-code,"Communications, Space and Technology Commission",
+.saarland,generic,dotSaarland GmbH,https://rdap.centralnic.com/saarland/
+.safe,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/safe/
+.safety,generic,"Safety Registry Services, LLC.",https://rdap.nic.safety/
+.sakura,generic,SAKURA internet Inc.,https://rdap.nic.sakura/rdap/
+.sale,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.salon,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.samsclub,generic,"Wal-Mart Stores, Inc.",https://rdap.nic.samsclub/
+.samsung,generic,"SAMSUNG SDS CO., LTD",https://nic.samsung/rdap/
+.sandvik,generic,Sandvik AB,https://rdap.nic.sandvik/
+.sandvikcoromant,generic,Sandvik AB,https://rdap.nic.sandvikcoromant/
+.sanofi,generic,Sanofi,https://rdap.identitydigital.services/rdap/
+.sap,generic,SAP AG,https://rdap.nic.sap/
+.sapo,generic,Not assigned,
+.sarl,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.sas,generic,Research IP LLC,https://rdap.nic.sas/
+.save,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/save/
+.saxo,generic,Saxo Bank A/S,https://rdap.identitydigital.services/rdap/
+.sb,country-code,Solomon Telekom Company Limited,
+.sbi,generic,STATE BANK OF INDIA,https://rdap.identitydigital.services/rdap/
+.sbs,generic,Shortdot SA,https://rdap.centralnic.com/sbs/
+.sc,country-code,VCS Pty Ltd,
+.sca,generic,Not assigned,
+.scb,generic,"The Siam Commercial Bank Public Company Limited (""SCB"")",https://rdap.nic.scb/
+.schaeffler,generic,Schaeffler Technologies AG & Co. KG,https://rdap.nic.schaeffler/
+.schmidt,generic,SCHMIDT GROUPE S.A.S.,https://rdap.nic.schmidt/
+.scholarships,generic,"Scholarships.com, LLC",https://rdap.identitydigital.services/rdap/
+.school,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.schule,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.schwarz,generic,Schwarz Domains und Services GmbH & Co. KG,https://rdap.centralnic.com/schwarz/
+.science,generic,dot Science Limited,https://rdap.nic.science/
+.scjohnson,generic,Not assigned,
+.scor,generic,Not assigned,
+.scot,generic,Dot Scot Registry Limited,https://rdap.nic.scot/
+.sd,country-code,Sudan Internet Society,https://rdap.nic.sd/
+.se,country-code,The Internet Infrastructure Foundation,
+.search,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.seat,generic,"SEAT, S.A. (Sociedad Unipersonal)",https://rdap.nic.seat/
+.secure,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/secure/
+.security,generic,XYZ.COM LLC,https://rdap.centralnic.com/security/
+.seek,generic,Seek Limited,https://rdap.nic.seek/
+.select,generic,"Registry Services, LLC",https://rdap.nic.select/
+.sener,generic,"Sener Ingeniería y Sistemas, S.A.",https://rdap.identitydigital.services/rdap/
+.services,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.ses,generic,Not assigned,
+.seven,generic,Seven West Media Ltd,https://rdap.nic.seven/
+.sew,generic,SEW-EURODRIVE GmbH & Co KG,https://rdap.identitydigital.services/rdap/
+.sex,generic,ICM Registry SX LLC,https://rdap.nic.sex/
+.sexy,generic,Internet Naming Co.,https://whois.uniregistry.net/rdap/
+.sfr,generic,Societe Francaise du Radiotelephone - SFR,https://rdap.centralnic.com/sfr/
+.sg,country-code,Singapore Network Information Centre (SGNIC) Pte Ltd,
+.sh,country-code,Government of St. Helena,
+.shangrila,generic,Shangri-La International Hotel Management Limited,https://rdap.identitydigital.services/rdap/
+.sharp,generic,Sharp Corporation,https://rdap.gmoregistry.net/rdap/
+.shaw,generic,Not assigned,
+.shell,generic,Shell Information Technology International Inc,https://rdap.nominet.uk/shell/
+.shia,generic,Emergency Back-End Registry Operator Program - ICANN,https://rdap.nominet.uk/shia/
+.shiksha,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.shoes,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.shop,generic,"GMO Registry, Inc.",https://rdap.gmoregistry.net/rdap/
+.shopping,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.shouji,generic,QIHOO 360 TECHNOLOGY CO. LTD.,https://rdap.teleinfo.cn/
+.show,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.showtime,generic,Not assigned,
+.shriram,generic,Not assigned,
+.si,country-code,Academic and Research Network of Slovenia (ARNES),https://rdap.register.si/
+.silk,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/silk/
+.sina,generic,Sina Corporation,https://rdap.identitydigital.services/rdap/
+.singles,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.site,generic,Radix Technologies Inc. SEZC,https://rdap.centralnic.com/site/
+.sj,country-code,Norid A/S,
+.sk,country-code,"SK-NIC, a.s.",
+.ski,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.skin,generic,XYZ.COM LLC,https://rdap.centralnic.com/skin/
+.sky,generic,Sky UK Limited,https://rdap.nominet.uk/sky/
+.skype,generic,Microsoft Corporation,https://rdap.nominet.uk/skype/
+.sl,country-code,Sierratel,
+.sling,generic,DISH Technologies L.L.C.,https://rdap.mobile-registry.com/rdap/
+.sm,country-code,Telecom Italia San Marino S.p.A.,
+.smart,generic,"Smart Communications, Inc. (SMART)",https://rdap.centralnic.com/smart/
+.smile,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/smile/
+.sn,country-code,Universite Cheikh Anta Diop,
+.sncf,generic,Société Nationale SNCF,https://rdap.nic.sncf/
+.so,country-code,Ministry of Post and Telecommunications,
+.soccer,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.social,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.softbank,generic,SoftBank Group Corp.,https://rdap.gmoregistry.net/rdap/
+.software,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.sohu,generic,Sohu.com Limited,https://rdap.zdnsgtld.com/sohu/
+.solar,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.solutions,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.song,generic,"Amazon Registry Services, Inc.",https://rdap.identitydigital.services/rdap/
+.sony,generic,Sony Corporation,https://rdap.gmoregistry.net/rdap/
+.soy,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.spa,generic,Asia Spa and Wellness Promotion Council Limited,https://rdap.identitydigital.services/rdap/
+.space,generic,Radix Technologies Inc.,https://rdap.centralnic.com/space/
+.spiegel,generic,Not assigned,
+.sport,generic,SportAccord,https://rdap.nic.sport/
+.spot,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/spot/
+.spreadbetting,generic,Not assigned,
+.sr,country-code,Telesur,https://whois.sr/rdap/
+.srl,generic,InterNetX Corp.,https://rdap.identitydigital.services/rdap/
+.srt,generic,Not assigned,
+.ss,country-code,National Communication Authority (NCA),https://rdap.nic.ss/
+.st,country-code,Tecnisys,
+.stada,generic,STADA Arzneimittel AG,https://rdap.identitydigital.services/rdap/
+.staples,generic,"Staples, Inc.",https://rdap.nic.staples/
+.star,generic,Star India Private Limited,https://rdap.identitydigital.services/rdap/
+.starhub,generic,Not assigned,
+.statebank,generic,STATE BANK OF INDIA,https://rdap.identitydigital.services/rdap/
+.statefarm,generic,State Farm Mutual Automobile Insurance Company,https://rdap.nic.statefarm/
+.statoil,generic,Not assigned,
+.stc,generic,Saudi Telecom Company,https://rdap.centralnic.com/stc/
+.stcgroup,generic,Saudi Telecom Company,https://rdap.centralnic.com/stcgroup/
+.stockholm,generic,Stockholms kommun,https://rdap.identitydigital.services/rdap/
+.storage,generic,XYZ.COM LLC,https://rdap.centralnic.com/storage/
+.store,generic,Radix Technologies Inc.,https://rdap.centralnic.com/store/
+.stream,generic,dot Stream Limited,https://rdap.nic.stream/
+.studio,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.study,generic,"Registry Services, LLC",https://rdap.nic.study/
+.style,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.su,country-code,Russian Institute for Development of Public Networks (ROSNIIROS),
+.sucks,generic,Vox Populi Registry Ltd.,https://rdap.nic.sucks/
+.supplies,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.supply,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.support,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.surf,generic,"Registry Services, LLC",https://rdap.nic.surf/
+.surgery,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.suzuki,generic,SUZUKI MOTOR CORPORATION,https://rdap.gmoregistry.net/rdap/
+.sv,country-code,SVNet,
+.swatch,generic,The Swatch Group Ltd,https://rdap.nominet.uk/swatch/
+.swiftcover,generic,Not assigned,
+.swiss,generic,Swiss Confederation,https://rdap.nic.swiss/
+.sx,country-code,SX Registry SA B.V.,
+.sy,country-code,National Agency for Network Services (NANS),
+.sydney,generic,"State of New South Wales, Department of Premier and Cabinet",https://rdap.nic.sydney/
+.symantec,generic,Not assigned,
+.systems,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.sz,country-code,"University of Swaziland
+Department of Computer Science",
+.tab,generic,Tabcorp Holdings Limited,https://rdap.nic.tab/
+.taipei,generic,Taipei City Government,https://rdap.nic.taipei/
+.talk,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/talk/
+.taobao,generic,Alibaba Group Holding Limited,https://rdap.identitydigital.services/rdap/
+.target,generic,"Target Domain Holdings, LLC",https://rdap.nic.target/
+.tatamotors,generic,Tata Motors Ltd,https://rdap.identitydigital.services/rdap/
+.tatar,generic,"Limited Liability Company ""Coordination Center of Regional Domain of Tatarstan Republic""",https://whois.nic.tatar/rdap/
+.tattoo,generic,"Registry Services, LLC",https://rdap.nic.tattoo/
+.tax,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.taxi,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.tc,country-code,Melrex TC,
+.tci,generic,Emergency Back-End Registry Operator Program - ICANN,https://rdap.nominet.uk/tci/
+.td,country-code,l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC),
+.tdk,generic,TDK Corporation,https://rdap.nic.tdk/
+.team,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.tech,generic,Radix Technologies Inc.,https://rdap.centralnic.com/tech/
+.technology,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.tel,sponsored,Telnames Ltd.,https://rdap.nic.tel/
+.telecity,generic,Not assigned,
+.telefonica,generic,Not assigned,
+.temasek,generic,Temasek Holdings (Private) Limited,https://rdap.identitydigital.services/rdap/
+.tennis,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.teva,generic,Teva Pharmaceutical Industries Limited,https://rdap.nic.teva/
+.tf,country-code,Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.),https://rdap.nic.tf/
+.tg,country-code,Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+.th,country-code,Thai Network Information Center Foundation,https://rdap.thains.co.th/
+.thd,generic,"Home Depot Product Authority, LLC",https://rdap.identitydigital.services/rdap/
+.theater,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.theatre,generic,XYZ.COM LLC,https://rdap.centralnic.com/theatre/
+.tiaa,generic,Teachers Insurance and Annuity Association of America,https://rdap.identitydigital.services/rdap/
+.tickets,generic,XYZ.COM LLC,https://rdap.centralnic.com/tickets/
+.tienda,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.tiffany,generic,Not assigned,
+.tips,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.tires,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.tirol,generic,punkt Tirol GmbH,https://rdap.ryce-rsp.com/rdap/
+.tj,country-code,Information Technology Center,
+.tjmaxx,generic,"The TJX Companies, Inc.",https://rdap.nic.tjmaxx/
+.tjx,generic,"The TJX Companies, Inc.",https://rdap.nic.tjx/
+.tk,country-code,Telecommunication Tokelau Corporation (Teletok),
+.tkmaxx,generic,"The TJX Companies, Inc.",https://rdap.nic.tkmaxx/
+.tl,country-code,Autoridade Nacional de Comunicações,
+.tm,country-code,TM Domain Registry Ltd,
+.tmall,generic,Alibaba Group Holding Limited,https://rdap.identitydigital.services/rdap/
+.tn,country-code,Agence Tunisienne d'Internet,
+.to,country-code,"Government of the Kingdom of Tonga, H.R.H. Crown Prince Tupouto'a, c/o Consulate of Tonga",https://rdap.tonicregistry.to/rdap/
+.today,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.tokyo,generic,"GMO Registry, Inc.",https://rdap.gmoregistry.net/rdap/
+.tools,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.top,generic,.TOP Registry,https://rdap.zdnsgtld.com/top/
+.toray,generic,"Toray Industries, Inc.",https://rdap.gmoregistry.net/rdap/
+.toshiba,generic,TOSHIBA Corporation,https://rdap.gmoregistry.net/rdap/
+.total,generic,TotalEnergies SE,https://rdap.nic.total/
+.tours,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.town,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.toyota,generic,TOYOTA MOTOR CORPORATION,https://rdap.gmoregistry.net/rdap/
+.toys,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.tp,country-code,Not assigned,
+.tr,country-code,Bilgi Teknolojileri ve İletişim Kurumu (BTK),
+.trade,generic,Elite Registry Limited,https://rdap.nic.trade/
+.trading,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.training,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.travel,sponsored,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.travelchannel,generic,Not assigned,
+.travelers,generic,"Travelers TLD, LLC",https://rdap.identitydigital.services/rdap/
+.travelersinsurance,generic,"Travelers TLD, LLC",https://rdap.identitydigital.services/rdap/
+.trust,generic,Internet Naming Co.,https://whois.uniregistry.net/rdap/
+.trv,generic,"Travelers TLD, LLC",https://rdap.identitydigital.services/rdap/
+.tt,country-code,"University of the West Indies, Faculty of Engineering",
+.tube,generic,Latin American Telecom LLC,https://rdap.nic.tube/
+.tui,generic,TUI AG,https://rdap.centralnic.com/tui/
+.tunes,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/tunes/
+.tushu,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/tushu/
+.tv,country-code,"Ministry of Justice, Communications and Foreign Affairs",https://rdap.nic.tv/
+.tvs,generic,T V SUNDRAM IYENGAR  & SONS PRIVATE LIMITED,https://rdap.identitydigital.services/rdap/
+.tw,country-code,Taiwan Network Information Center (TWNIC),https://ccrdap.twnic.tw/tw/
+.tz,country-code,Tanzania Communications Regulatory Authority,https://whois.tznic.or.tz/rdap/
+.ua,country-code,Hostmaster Ltd.,https://rdap.hostmaster.ua/
+.ubank,generic,National Australia Bank Limited,https://rdap.identitydigital.services/rdap/
+.ubs,generic,UBS AG,https://rdap.identitydigital.services/rdap/
+.uconnect,generic,Not assigned,
+.ug,country-code,Uganda Online Ltd.,
+.uk,country-code,Nominet UK,https://rdap.nominet.uk/uk/
+.um,country-code,Not assigned,
+.unicom,generic,China United Network Communications Corporation Limited,https://rdap.zdnsgtld.com/unicom/
+.university,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.uno,generic,Radix Technologies Inc.,https://rdap.centralnic.com/uno/
+.uol,generic,UBN INTERNET LTDA.,https://rdap.gtlds.nic.br/
+.ups,generic,"UPS Market Driver, Inc.",https://rdap.identitydigital.services/rdap/
+.us,country-code,"Registry Services, LLC",
+.uy,country-code,SeCIU - Universidad de la Republica,
+.uz,country-code,Single Integrator for Creation and Support of State Information Systems UZINFOCOM,https://rdap.cctld.uz/
+.va,country-code,Holy See - Vatican City State,
+.vacations,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.vana,generic,D3 Registry LLC,https://rdap.nic.vana/rdap/
+.vanguard,generic,"The Vanguard Group, Inc.",https://rdap.identitydigital.services/rdap/
+.vc,country-code,"Ministry of Telecommunications, Science, Technology and Industry",
+.ve,country-code,Comisión Nacional de Telecomunicaciones (CONATEL),
+.vegas,generic,"Dot Vegas, Inc.",https://rdap.identitydigital.services/rdap/
+.ventures,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.verisign,generic,"VeriSign, Inc.",https://tld-rdap.verisign.com/verisign/v1/
+.versicherung,generic,tldbox GmbH,https://rdap.nic.versicherung/v1/
+.vet,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.vg,country-code,Telecommunications Regulatory Commission of the Virgin Islands,https://rdap.centralnic.com/vg/
+.vi,country-code,"Virgin Islands Public Telecommunications System, Inc.",https://rdap.nic.vi/
+.viajes,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.video,generic,"Dog Beach, LLC",https://rdap.identitydigital.services/rdap/
+.vig,generic,VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe,https://rdap.identitydigital.services/rdap/
+.viking,generic,Viking River Cruises (Bermuda) Ltd.,https://rdap.identitydigital.services/rdap/
+.villas,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.vin,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.vip,generic,"Registry Services, LLC",https://rdap.nic.vip/
+.virgin,generic,Virgin Enterprises Limited,https://rdap.nominet.uk/virgin/
+.visa,generic,Visa Worldwide Pte. Limited,https://rdap.identitydigital.services/rdap/
+.vision,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.vista,generic,Not assigned,
+.vistaprint,generic,Not assigned,
+.viva,generic,Saudi Telecom Company,https://rdap.centralnic.com/viva/
+.vivo,generic,Telefonica Brasil S.A.,https://rdap.nic.vivo/
+.vlaanderen,generic,DNS.be vzw,https://rdap.nic.vlaanderen/
+.vn,country-code,Viet Nam Internet Network Information Center (VNNIC),
+.vodka,generic,"Registry Services, LLC",https://rdap.nic.vodka/
+.volkswagen,generic,Not assigned,
+.volvo,generic,Volvo Holding Sverige Aktiebolag,https://rdap.identitydigital.services/rdap/
+.vote,generic,Monolith Registry LLC,https://rdap.identitydigital.services/rdap/
+.voting,generic,Valuetainment Corp.,https://rdap.nic.voting/
+.voto,generic,Monolith Registry LLC,https://rdap.identitydigital.services/rdap/
+.voyage,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.vu,country-code,Telecommunications Radiocommunications and Broadcasting Regulator (TRBR),
+.vuelos,generic,Not assigned,
+.wales,generic,Nominet UK,https://rdap.nominet.uk/wales/
+.walmart,generic,"Wal-Mart Stores, Inc.",https://rdap.nic.walmart/
+.walter,generic,Sandvik AB,https://rdap.nic.walter/
+.wang,generic,Zodiac Wang Limited,https://rdap.zdnsgtld.com/wang/
+.wanggou,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/wanggou/
+.warman,generic,Not assigned,
+.watch,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.watches,generic,Identity Digital Limited,https://rdap.identitydigital.services/rdap/
+.weather,generic,International Business Machines Corporation,https://rdap.nic.weather/
+.weatherchannel,generic,International Business Machines Corporation,https://rdap.nic.weatherchannel/
+.webcam,generic,dot Webcam Limited,https://rdap.nic.webcam/
+.weber,generic,Saint-Gobain Weber SA,https://rdap.identitydigital.services/rdap/
+.website,generic,Radix Technologies Inc.,https://rdap.centralnic.com/website/
+.wed,generic,Emergency Back-End Registry Operator Program - ICANN,https://rdap.nominet.uk/wed/
+.wedding,generic,"Registry Services, LLC",https://rdap.nic.wedding/
+.weibo,generic,Sina Corporation,https://rdap.identitydigital.services/rdap/
+.weir,generic,Weir Group IP Limited,https://rdap.identitydigital.services/rdap/
+.wf,country-code,Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.),https://rdap.nic.wf/
+.whoswho,generic,Who's Who Registry,https://rdap.nic.whoswho/
+.wien,generic,punkt.wien GmbH,https://rdap.ryce-rsp.com/rdap/
+.wiki,generic,"Registry Services, LLC",https://rdap.nic.wiki/
+.williamhill,generic,William Hill Organization Limited,https://rdap.nic.williamhill/
+.win,generic,First Registry Limited,https://rdap.nic.win/
+.windows,generic,Microsoft Corporation,https://rdap.nominet.uk/windows/
+.wine,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.winners,generic,"The TJX Companies, Inc.",https://rdap.nic.winners/
+.wme,generic,"William Morris Endeavor Entertainment, LLC",https://rdap.centralnic.com/wme/
+.wolterskluwer,generic,Wolters Kluwer N.V.,https://rdap.identitydigital.services/rdap/
+.woodside,generic,Woodside Petroleum Limited,https://rdap.nic.woodside/
+.work,generic,"Registry Services, LLC",https://rdap.nic.work/
+.works,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.world,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.wow,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/wow/
+.ws,country-code,Government of Samoa Ministry of Foreign Affairs & Trade,
+.wtc,generic,"World Trade Centers Association, Inc.",https://rdap.nic.wtc/
+.wtf,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.xbox,generic,Microsoft Corporation,https://rdap.nominet.uk/xbox/
+.xerox,generic,Xerox DNHC LLC,https://rdap.nic.xerox/
+.xfinity,generic,Not assigned,
+.xihuan,generic,QIHOO 360 TECHNOLOGY CO. LTD.,https://rdap.teleinfo.cn/
+.xin,generic,Elegant Leader Limited,https://rdap.identitydigital.services/rdap/
+.测试,test,Not assigned,
+.कॉम,generic,VeriSign Sarl,
+.परीक्षा,test,Not assigned,
+.セール,generic,"Amazon Registry Services, Inc.",
+.佛山,generic,"Guangzhou YU Wei Information Technology Co., Ltd.",
+.ಭಾರತ,country-code,National Internet eXchange of India,
+.慈善,generic,Excellent First Limited,
+.集团,generic,Eagle Horizon Limited,
+.在线,generic,Beijing Tld Registry Technology Limited,
+.한국,country-code,KISA (Korea Internet & Security Agency),
+.ଭାରତ,country-code,National Internet eXchange of India,
+.大众汽车,generic,Not assigned,
+.点看,generic,VeriSign Sarl,
+.คอม,generic,VeriSign Sarl,
+.ভাৰত,country-code,National Internet eXchange of India,
+.ভারত,country-code,National Internet Exchange of India,
+.八卦,generic,Zodiac Gemini Ltd,
+‏.ישראל‎,country-code,The Israel Internet Association (RA),
+‏.موقع‎,generic,Helium TLDs Ltd,
+.বাংলা,country-code,Posts and Telecommunications Division,
+.公益,generic,China Organizational Name Administration Center,
+.公司,generic,China Internet Network Information Center (CNNIC),
+.香格里拉,generic,Shangri-La International Hotel Management Limited,
+.网站,generic,Global Website TLD Asia Limited,
+.移动,generic,Identity Digital Limited,
+.我爱你,generic,Tycoon Treasure Limited,
+.москва,generic,Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID),
+.испытание,test,Not assigned,
+.қаз,country-code,Association of IT Companies of Kazakhstan,
+.католик,generic,Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication),
+.онлайн,generic,CORE Association,
+.сайт,generic,CORE Association,
+.联通,generic,China United Network Communications Corporation Limited,
+.срб,country-code,Serbian National Internet Domain Registry (RNIDS),
+.бг,country-code,Imena.BG AD,
+.бел,country-code,Belarusian Cloud Technologies LLC,
+‏.קום‎,generic,VeriSign Sarl,
+.时尚,generic,RISE VICTORY LIMITED,
+.微博,generic,Sina Corporation,
+.테스트,test,Not assigned,
+.淡马锡,generic,Temasek Holdings (Private) Limited,
+.ファッション,generic,"Amazon Registry Services, Inc.",
+.орг,generic,Public Interest Registry,
+.नेट,generic,VeriSign Sarl,
+.ストア,generic,"Amazon Registry Services, Inc.",
+.アマゾン,generic,"Amazon Registry Services, Inc.",
+.삼성,generic,"SAMSUNG SDS CO., LTD",
+.சிங்கப்பூர்,country-code,Singapore Network Information Centre (SGNIC) Pte Ltd,
+.商标,generic,Internet DotTrademark Organisation Limited,
+.商店,generic,"Binky Moon, LLC",
+.商城,generic,Zodiac Aquarius Limited,
+.дети,generic,The Foundation for Network Initiatives “The Smart Internet”,
+.мкд,country-code,Macedonian Academic Research Network Skopje,
+‏.טעסט‎,test,Not assigned,
+.ею,country-code,EURid vzw,
+.ポイント,generic,"Amazon Registry Services, Inc.",
+.新闻,generic,"Guangzhou YU Wei Information and Technology Co.,Ltd",
+.工行,generic,Not assigned,
+.家電,generic,"Amazon Registry Services, Inc.",
+‏.كوم‎,generic,VeriSign Sarl,
+.中文网,generic,TLD REGISTRY LIMITED,
+.中信,generic,CITIC Group Corporation,
+.中国,country-code,China Internet Network Information Center (CNNIC),
+.中國,country-code,China Internet Network Information Center (CNNIC),
+.娱乐,generic,"Binky Moon, LLC",
+.谷歌,generic,Charleston Road Registry Inc.,
+.భారత్,country-code,National Internet Exchange of India,
+.ලංකා,country-code,LK Domain Registry,
+.電訊盈科,generic,PCCW Enterprises Limited,
+.购物,generic,"Nawang Heli(Xiamen) Network Service Co., LTD.",
+.測試,test,Not assigned,
+.クラウド,generic,"Amazon Registry Services, Inc.",
+.ભારત,country-code,National Internet Exchange of India,
+.通販,generic,"Amazon Registry Services, Inc.",
+.भारतम्,country-code,National Internet eXchange of India,
+.भारत,country-code,National Internet Exchange of India,
+.भारोत,country-code,National Internet eXchange of India,
+‏.آزمایشی‎,test,Not assigned,
+.பரிட்சை,test,Not assigned,
+.网店,generic,Zodiac Taurus Ltd.,
+.संगठन,generic,Public Interest Registry,
+.餐厅,generic,Internet DotTrademark Organisation Limited,
+.网络,generic,China Internet Network Information Center (CNNIC),
+.ком,generic,VeriSign Sarl,
+.укр,country-code,"Ukrainian Network Information Centre (UANIC), Inc.",
+.香港,country-code,Hong Kong Internet Registration Corporation Ltd.,
+.亚马逊,generic,"Amazon Registry Services, Inc.",
+.诺基亚,generic,Not assigned,
+.食品,generic,"Amazon Registry Services, Inc.",
+.δοκιμή,test,Not assigned,
+.飞利浦,generic,Koninklijke Philips N.V.,
+‏.إختبار‎,test,Not assigned,
+.台湾,country-code,Taiwan Network Information Center (TWNIC),
+.台灣,country-code,Taiwan Network Information Center (TWNIC),
+.手表,generic,Not assigned,
+.手机,generic,"Beijing RITT-Net Technology Development Co., Ltd",
+.мон,country-code,"Datacom Co.,Ltd",
+‏.الجزائر‎,country-code,CERIST,
+‏.عمان‎,country-code,Telecommunications Regulatory Authority (TRA),
+‏.ارامكو‎,generic,Aramco Services Company,
+‏.ایران‎,country-code,Institute for Research in Fundamental Sciences (IPM),
+‏.العليان‎,generic,Competrol (Luxembourg) Sarl,
+‏.اتصالات‎,generic,Not assigned,
+‏.امارات‎,country-code,Telecommunications and Digital Government Regulatory Authority (TDRA),
+‏.بازار‎,generic,CORE Association,
+‏.موريتانيا‎,country-code,Université de Nouakchott Al Aasriya,
+‏.پاکستان‎,country-code,National Telecommunication Corporation,
+‏.الاردن‎,country-code,Ministry of Digital Economy and Entrepreneurship (MoDEE),
+‏.موبايلي‎,generic,Not assigned,
+‏.بارت‎,country-code,National Internet eXchange of India,
+‏.بھارت‎,country-code,National Internet Exchange of India,
+‏.المغرب‎,country-code,Agence Nationale de Réglementation des Télécommunications (ANRT),
+‏.ابوظبي‎,generic,Abu Dhabi Systems and Information Centre,
+‏.البحرين‎,country-code,Telecommunications Regulatory Authority (TRA),
+‏.السعودية‎,country-code,"Communications, Space and Technology Commission",
+‏.ڀارت‎,country-code,National Internet eXchange of India,
+‏.كاثوليك‎,generic,Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication),
+‏.سودان‎,country-code,Sudan Internet Society,
+‏.همراه‎,generic,Emergency Back-End Registry Operator Program - ICANN,
+‏.عراق‎,country-code,Communications and Media Commission (CMC),
+‏.مليسيا‎,country-code,MYNIC Berhad,
+.澳門,country-code,Macao Post and Telecommunications Bureau (CTT),
+.닷컴,generic,VeriSign Sarl,
+.政府,generic,"Net-Chinese Co., Ltd.",
+‏.شبكة‎,generic,International Domain Registry Pty. Ltd.,
+‏.بيتك‎,generic,Kuwait Finance House,
+‏.عرب‎,generic,League of Arab States,
+.გე,country-code,Information Technologies Development Center (ITDC),
+.机构,generic,Public Interest Registry,
+.组织机构,generic,Public Interest Registry,
+.健康,generic,Stable Tone Limited,
+.ไทย,country-code,Thai Network Information Center Foundation,
+‏.سورية‎,country-code,National Agency for Network Services (NANS),
+.招聘,generic,Jiang Yu Liang Cai Technology Company Limited,
+.рус,generic,Rusnames Limited,
+.рф,country-code,Coordination Center for TLD RU,
+.珠宝,generic,Not assigned,
+‏.تونس‎,country-code,Agence Tunisienne d'Internet,
+.大拿,generic,VeriSign Sarl,
+.ລາວ,country-code,"Lao National Internet Center (LANIC), Ministry of Technology and Communications",
+.みんな,generic,Charleston Road Registry Inc.,
+.グーグル,generic,Charleston Road Registry Inc.,
+.ευ,country-code,EURid vzw,
+.ελ,country-code,ICS-FORTH GR,
+.世界,generic,Stable Tone Limited,
+.書籍,generic,"Amazon Registry Services, Inc.",
+.ഭാരതം,country-code,National Internet eXchange of India,
+.ਭਾਰਤ,country-code,National Internet Exchange of India,
+.网址,generic,"KNET Co., Ltd",
+.닷넷,generic,VeriSign Sarl,
+.コム,generic,VeriSign Sarl,
+.天主教,generic,Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication),
+.游戏,generic,"Binky Moon, LLC",
+.vermögensberater,generic,Deutsche Vermögensberatung Aktiengesellschaft DVAG,
+.vermögensberatung,generic,Deutsche Vermögensberatung Aktiengesellschaft DVAG,
+.企业,generic,"Binky Moon, LLC",
+.信息,generic,"Beijing Tele-info Technology Co., Ltd.",
+.嘉里大酒店,generic,Kerry Trading Co. Limited,
+.嘉里,generic,Kerry Trading Co. Limited,
+‏.مصر‎,country-code,National Telecommunication Regulatory Authority - NTRA,
+‏.قطر‎,country-code,Communications Regulatory Authority,
+.广东,generic,"Guangzhou YU Wei Information Technology Co., Ltd.",
+.இலங்கை,country-code,LK Domain Registry,
+.இந்தியா,country-code,National Internet Exchange of India,
+.հայ,country-code,"""Internet Society"" Non-governmental Organization",
+.新加坡,country-code,Singapore Network Information Centre (SGNIC) Pte Ltd,
+‏.فلسطين‎,country-code,Ministry of Telecom & Information Technology (MTIT),
+.テスト,test,Not assigned,
+.政务,generic,China Organizational Name Administration Center,
+.xperia,generic,Not assigned,
+.xxx,sponsored,ICM Registry LLC,https://rdap.nic.xxx/
+.xyz,generic,XYZ.COM LLC,https://rdap.centralnic.com/xyz/
+.yachts,generic,XYZ.COM LLC,https://rdap.centralnic.com/yachts/
+.yahoo,generic,Yahoo Inc.,https://rdap.identitydigital.services/rdap/
+.yamaxun,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/yamaxun/
+.yandex,generic,YANDEX LLC,https://rdap.nic.yandex/rdap/
+.ye,country-code,TeleYemen,https://rdap.y.net.ye/
+.yodobashi,generic,"YODOBASHI CAMERA CO.,LTD.",https://rdap.gmoregistry.net/rdap/
+.yoga,generic,"Registry Services, LLC",https://rdap.nic.yoga/
+.yokohama,generic,"GMO Registry, Inc.",https://rdap.gmoregistry.net/rdap/
+.you,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/you/
+.youtube,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.yt,country-code,Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.),https://rdap.nic.yt/
+.yun,generic,QIHOO 360 TECHNOLOGY CO. LTD.,https://rdap.teleinfo.cn/
+.za,country-code,ZA Domain Name Authority,
+.zappos,generic,"Amazon Registry Services, Inc.",https://rdap.nominet.uk/zappos/
+.zara,generic,"Industria de Diseño Textil, S.A. (INDITEX, S.A.)",https://rdap.identitydigital.services/rdap/
+.zero,generic,"Amazon Registry Services, Inc.",https://rdap.identitydigital.services/rdap/
+.zip,generic,Charleston Road Registry Inc.,https://pubapi.registry.google/rdap/
+.zippo,generic,Not assigned,
+.zm,country-code,Zambia Information and Communications Technology Authority (ZICTA),https://rdap.nic.zm/
+.zone,generic,"Binky Moon, LLC",https://rdap.identitydigital.services/rdap/
+.zuerich,generic,Kanton Zürich (Canton of Zurich),https://rdap.centralnic.com/zuerich/
+.zw,country-code,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),
