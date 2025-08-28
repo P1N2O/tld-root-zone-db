@@ -1,6 +1,6 @@
 # TLD Root Zone DB
 
-[![Update TLD Data and Deploy](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tlds.yml/badge.svg)](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tlds.yml)
+[![Update TLD Data and Deploy](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tld.yml/badge.svg)](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tld.yml)
 
 **Updated Daily Dump of the IANA Root Zone Database**
 
@@ -11,12 +11,12 @@ This project provides a daily dump of the [IANA Root Zone Database](https://www.
 - Fetches the latest TLD data from IANA.
 - Scheduled to update daily (at 6:30 UTC).
 - No commit is made to the repository if the data hasn't changed.
-- The TLD data is available in [JSON](https://iana.api.pinto.dev/tlds.json) and [CSV](https://iana.api.pinto.dev/tlds.csv) format.
+- The TLD data is available in [JSON](https://iana.api.pinto.dev/tld.json) and [CSV](https://iana.api.pinto.dev/tld.csv) format.
 
 ## API Usage
 
-- JSON: [https://iana.api.pinto.dev/tlds.json](https://iana.api.pinto.dev/tlds.json)
-- CSV: [https://iana.api.pinto.dev/tlds.csv](https://iana.api.pinto.dev/tlds.csv)
+- JSON: [https://iana.api.pinto.dev/tld.json](https://iana.api.pinto.dev/tld.json)
+- CSV: [https://iana.api.pinto.dev/tld.csv](https://iana.api.pinto.dev/tld.csv)
 
 ## Installation
 
