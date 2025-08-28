@@ -75,6 +75,7 @@ jobs:
           echo "Checking for expected file patterns:"
           ls data/tld.* 2>/dev/null && echo "✅ tld files exist" || echo "❌ No tld files found"
           ls data/rdap.* 2>/dev/null && echo "✅ rdap files exist" || echo "❌ No rdap files found"
+          ls data/tld-rdap.* 2>/dev/null && echo "✅ tld-rdap files exist" || echo "❌ No tld-rdap files found"
 
       - name: Create CNAME file for CORS
         run: echo "manuel.pinto.dev" > data/CNAME

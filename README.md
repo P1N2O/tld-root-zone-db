@@ -4,7 +4,7 @@
 
 **Updated Daily Dump of the IANA Root Zone Database**
 
-This project provides a daily dump of the [IANA Root Zone Database](https://www.iana.org/domains/root/db), which contains `TLD Type` and `TLD Manager` for all top-level domains (TLDs).
+This project provides a daily dump of the [IANA Root Zone Database](https://www.iana.org/domains/root/db), which contains `TLD Type`, `TLD Manager` and `RDAP Endpoint` for all top-level domains (TLDs).
 
 ## Features
 
@@ -18,6 +18,7 @@ This project provides a daily dump of the [IANA Root Zone Database](https://www.
 |:--------|:-----|:----|
 | **TLD Data** | [https://iana.api.pinto.dev/tld.json](https://iana.api.pinto.dev/tld.json) | [https://iana.api.pinto.dev/tld.csv](https://iana.api.pinto.dev/tld.csv) |
 | **RDAP Data** | [https://iana.api.pinto.dev/rdap.json](https://iana.api.pinto.dev/rdap.json) | [https://iana.api.pinto.dev/rdap.csv](https://iana.api.pinto.dev/rdap.csv) |
+| **TLD + RDAP Data** | [https://iana.api.pinto.dev/tld-rdap.json](https://iana.api.pinto.dev/tld-rdap.json) | [https://iana.api.pinto.dev/tld-rdap.csv](https://iana.api.pinto.dev/tld-rdap.csv) |
 
 ## Installation
 

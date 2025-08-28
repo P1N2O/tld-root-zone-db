@@ -20,10 +20,15 @@ const __dirname = dirname(__filename);
 
 // Directory and file paths for storing output
 const DATA_DIR = path.join(__dirname, "..", "data");
+// TLD File
 const TLD_JSON_FILE = path.join(DATA_DIR, "tld.json");
 const TLD_CSV_FILE = path.join(DATA_DIR, "tld.csv");
+// RDAP FILE
 const RDAP_JSON_FILE = path.join(DATA_DIR, "rdap.json");
 const RDAP_CSV_FILE = path.join(DATA_DIR, "rdap.csv");
+// TLD + RDAP
+const TLD_RDAP_JSON_FILE = path.join(DATA_DIR, "tld-rdap.json");
+const TLD_RDAP_CSV_FILE = path.join(DATA_DIR, "tld-rdap.csv");
 
 /**
  * Force IPv4 in environments (e.g. CI/CD, GitHub Actions)
@@ -48,14 +53,6 @@ interface IanaRdapBootstrap {
   publication: string;
   services: any[][];
   version?: string;
-}
-
-/**
- * Row structure for RDAP service entry
- */
-interface RdapServiceRow {
-  tlds: string[];
-  urls: string[];
 }
 
 /**
@@ -108,9 +105,35 @@ async function fetchRdapBootstrap(): Promise<any[][]> {
 }
 
 /**
+ * Merge TLD data with RDAP URLs
+ */
+function mergeTldWithRdap(tldRows: TLDRow[], rdapServices: any[][]): any[] {
+  // Create a map of TLD to RDAP URLs (remove the dot from TLD for matching)
+  const rdapMap = new Map<string, string[]>();
+  
+  rdapServices.forEach(([tlds, urls]) => {
+    tlds.forEach((tld: string) => {
+      // Store the URLs for this TLD
+      rdapMap.set(tld.toLowerCase(), urls);
+    });
+  });
+
+  // Merge the data
+  return tldRows.map(tld => {
+    const tldWithoutDot = tld.domain.replace(/^\./, ''); // Remove leading dot
+    const rdapUrls = rdapMap.get(tldWithoutDot.toLowerCase()) || [];
+    
+    return {
+      ...tld,
+      rdap: rdapUrls // Array of RDAP URLs
+    };
+  });
+}
+
+/**
  * Convert RDAP services array to CSV-friendly format
  */
-function transformRdapServicesForCsv(services: any[][]): RdapServiceRow[] {
+function transformRdapServicesForCsv(services: any[][]): any[] {
   return services.map((service) => {
     const [tldsArray, urlsArray] = service;
     return {
@@ -165,6 +188,29 @@ async function saveRDAPJson(services: any[][]) {
 }
 
 /**
+ * Save merged TLD + RDAP data as a JSON file
+ */
+async function saveMergedJson(mergedData: any[]) {
+  fs.writeFileSync(TLD_RDAP_JSON_FILE, JSON.stringify(mergedData, null, 2), "utf-8");
+}
+
+/**
+ * Save merged TLD + RDAP data as a CSV file
+ */
+async function saveMergedCsv(mergedData: any[]) {
+  const header = [["Domain", "Type", "TLD Manager", "RDAP URLs"]];
+  const records = mergedData.map(row => [
+    row.domain,
+    row.type,
+    row.tldManager,
+    row.rdap.join(", ") // Convert RDAP URLs array to comma-separated string
+  ]);
+
+  const csv = stringify([...header, ...records]);
+  fs.writeFileSync(TLD_RDAP_CSV_FILE, csv, "utf-8");
+}
+
+/**
  * Main function to orchestrate the update
  */
 async function main() {
@@ -177,19 +223,26 @@ async function main() {
   console.log("Fetching RDAP bootstrap data from IANA...");
   const rdapServices = await fetchRdapBootstrap();
 
+  console.log("Merging TLD with RDAP data...");
+  const mergedData = mergeTldWithRdap(tldRows, rdapServices);
+
   console.log(`Fetched ${tldRows.length} TLDs and ${rdapServices.length} RDAP services. Saving...`);
   
   await saveTldCsv(tldRows);
   await saveTldJson(tldRows);
   await saveRDAPCsv(rdapServices);
   await saveRDAPJson(rdapServices);
+  await saveMergedJson(mergedData);
+  await saveMergedCsv(mergedData);
 
   console.log("✅ All data updated!");
   console.log(`📁 Files saved:
-  - ${TLD_CSV_FILE}
   - ${TLD_JSON_FILE}
+  - ${TLD_CSV_FILE}
+  - ${RDAP_JSON_FILE}
   - ${RDAP_CSV_FILE}
-  - ${RDAP_JSON_FILE}`);
+  - ${TLD_RDAP_JSON_FILE}
+  - ${TLD_RDAP_CSV_FILE}`);
 }
 
 // Run the script
