@@ -8,10 +8,14 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.commit.outputs.has_changes }}
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -25,25 +29,33 @@ jobs:
         run: npm run update
 
       - name: Commit and push if changed
+        id: commit
         run: |
           git config --local user.name "Manuel Pinto"
           git config --local user.email "manuel@pinto.dev"
           git add data/tlds.csv data/tlds.json
-          git commit -m "chore: update TLD dataset" || echo "No changes"
-          git push
+          
+          # Check if there are changes to commit
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update TLD dataset"
+            git push
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes were committed and pushed"
+          else
+            echo "No changes to commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
 
   deploy-to-gh-pages:
     runs-on: ubuntu-latest
     needs: update
-    if: ${{ needs.update.result == 'success' }} # Always deploy if update succeeded
+    if: ${{ needs.update.result == 'success' && needs.update.outputs.has_changes == 'true' }}
     
-    # Permissions for GitHub Pages deployment
     permissions:
       contents: read
       pages: write
       id-token: write
 
-    # Set an environment for the deployment
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -52,7 +64,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
-          ref: main # Explicitly checkout the latest main branch after push
+          ref: main
           fetch-depth: 0
 
       - name: Create CNAME file for CORS
@@ -64,7 +76,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          # Upload the entire 'data' directory from the main branch
           path: 'data/'
 
       - name: Deploy to GitHub Pages
