@@ -1,25 +1,28 @@
-# TLD Root Zone Dump
+# TLD Root Zone DB
 
-**Dump of the IANA Root Zone Database**
+[![Update TLD Data and Deploy](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tlds.yml/badge.svg)](https://github.com/P1N2O/tld-root-zone-db/actions/workflows/update-tlds.yml)
 
-This project provides a daily dump of the [IANA Root Zone Database](https://www.iana.org/domains/root/db), which contains information about all top-level domains (TLDs).
+**Updated Daily Dump of the IANA Root Zone Database**
+
+This project provides a daily dump of the [IANA Root Zone Database](https://www.iana.org/domains/root/db), which contains `TLD Type` and `TLD Manager` for all top-level domains (TLDs).
 
 ## Features
 
 - Fetches the latest TLD data from IANA.
-- Updated daily (at 6:30 UTC).
-- Exports the data in [JSON](https://raw.githubusercontent.com/P1N2O/tld-root-zone-dump/main/data/tlds.json) and [CSV](https://raw.githubusercontent.com/P1N2O/tld-root-zone-dump/main/data/tlds.csv) format.
+- Scheduled to update daily (at 6:30 UTC).
+- No commit is made to the repository if the data hasn't changed.
+- The TLD data is available in [JSON](https://p1n2o.github.io/tld-root-zone-db/tlds.json) and [CSV](https://p1n2o.github.io/tld-root-zone-db/tlds.csv) format.
 
 ## API Usage
 
-- JSON: [https://raw.githubusercontent.com/P1N2O/tld-root-zone-dump/main/data/tlds.json](https://raw.githubusercontent.com/P1N2O/tld-root-zone-dump/main/data/tlds.json)
-- CSV: [https://raw.githubusercontent.com/P1N2O/tld-root-zone-dump/main/data/tlds.csv](https://raw.githubusercontent.com/P1N2O/tld-root-zone-dump/main/data/tlds.csv)
+- JSON: [https://p1n2o.github.io/tld-root-zone-db/tlds.json](https://p1n2o.github.io/tld-root-zone-db/tlds.json)
+- CSV: [https://p1n2o.github.io/tld-root-zone-db/tlds.csv](https://p1n2o.github.io/tld-root-zone-db/tlds.csv)
 
 ## Installation
 
 ```bash
-git clone https://github.com/P1N2O/tld-root-zone-dump.git
-cd tld-root-zone-dump
+git clone https://github.com/P1N2O/tld-root-zone-db.git
+cd tld-root-zone-db
 npm install
 
 ## Usage
