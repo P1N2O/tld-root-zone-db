@@ -33,11 +33,11 @@ jobs:
         run: |
           git config --local user.name "Manuel Pinto"
           git config --local user.email "manuel@pinto.dev"
-          git add data/tlds.csv data/tlds.json
+          git add data/
           
           # Check if there are changes to commit
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update TLD dataset"
+            git commit -m "chore: update TLD and DNS datasets"
             git push
             echo "has_changes=true" >> $GITHUB_OUTPUT
             echo "Changes were committed and pushed"
@@ -66,6 +66,15 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
+
+      - name: Verify files to deploy
+        run: |
+          echo "Files in data directory:"
+          ls -la data/
+          echo ""
+          echo "Checking for expected file patterns:"
+          ls data/tld.* 2>/dev/null && echo "✅ tld files exist" || echo "❌ No tld files found"
+          ls data/dns.* 2>/dev/null && echo "✅ dns files exist" || echo "❌ No dns files found"
 
       - name: Create CNAME file for CORS
         run: echo "manuel.pinto.dev" > data/CNAME
