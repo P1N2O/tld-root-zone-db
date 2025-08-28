@@ -8,15 +8,16 @@ This project provides a daily dump of the [IANA Root Zone Database](https://www.
 
 ## Features
 
-- Fetches the latest TLD data from IANA.
+- Fetches the latest TLD and RDAP data from IANA.
 - Scheduled to update daily (at 6:30 UTC).
 - No commit is made to the repository if the data hasn't changed.
-- The TLD data is available in [JSON](https://iana.api.pinto.dev/tld.json) and [CSV](https://iana.api.pinto.dev/tld.csv) format.
 
-## API Usage
+## 📊 Data Endpoints
 
-- JSON: [https://iana.api.pinto.dev/tld.json](https://iana.api.pinto.dev/tld.json)
-- CSV: [https://iana.api.pinto.dev/tld.csv](https://iana.api.pinto.dev/tld.csv)
+| Dataset | JSON | CSV |
+|:--------|:-----|:----|
+| **TLD Data** | [https://iana.api.pinto.dev/tld.json](https://iana.api.pinto.dev/tld.json) | [https://iana.api.pinto.dev/tld.csv](https://iana.api.pinto.dev/tld.csv) |
+| **RDAP Data** | [https://iana.api.pinto.dev/rdap.json](https://iana.api.pinto.dev/rdap.json) | [https://iana.api.pinto.dev/rdap.csv](https://iana.api.pinto.dev/rdap.csv) |
 
 ## Installation
 

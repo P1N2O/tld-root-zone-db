@@ -37,7 +37,7 @@ jobs:
           
           # Check if there are changes to commit
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update TLD and DNS datasets"
+            git commit -m "chore: update TLD and RDAP datasets"
             git push
             echo "has_changes=true" >> $GITHUB_OUTPUT
             echo "Changes were committed and pushed"
@@ -74,7 +74,7 @@ jobs:
           echo ""
           echo "Checking for expected file patterns:"
           ls data/tld.* 2>/dev/null && echo "✅ tld files exist" || echo "❌ No tld files found"
-          ls data/dns.* 2>/dev/null && echo "✅ dns files exist" || echo "❌ No dns files found"
+          ls data/rdap.* 2>/dev/null && echo "✅ rdap files exist" || echo "❌ No rdap files found"
 
       - name: Create CNAME file for CORS
         run: echo "manuel.pinto.dev" > data/CNAME

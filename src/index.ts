@@ -20,10 +20,10 @@ const __dirname = dirname(__filename);
 
 // Directory and file paths for storing output
 const DATA_DIR = path.join(__dirname, "..", "data");
-const TLD_CSV_FILE = path.join(DATA_DIR, "tlds.csv");
-const TLD_JSON_FILE = path.join(DATA_DIR, "tlds.json");
-const DNS_CSV_FILE = path.join(DATA_DIR, "dns.csv");
-const DNS_JSON_FILE = path.join(DATA_DIR, "dns.json");
+const TLD_JSON_FILE = path.join(DATA_DIR, "tld.json");
+const TLD_CSV_FILE = path.join(DATA_DIR, "tld.csv");
+const RDAP_JSON_FILE = path.join(DATA_DIR, "rdap.json");
+const RDAP_CSV_FILE = path.join(DATA_DIR, "rdap.csv");
 
 /**
  * Force IPv4 in environments (e.g. CI/CD, GitHub Actions)
@@ -144,7 +144,7 @@ async function saveTldJson(rows: TLDRow[]) {
 /**
  * Save RDAP bootstrap services as a CSV file
  */
-async function saveDnsCsv(services: any[][]) {
+async function saveRDAPCsv(services: any[][]) {
   const transformed = transformRdapServicesForCsv(services);
   
   const header = [["TLDs", "URLs"]];
@@ -154,14 +154,14 @@ async function saveDnsCsv(services: any[][]) {
   ]);
 
   const csv = stringify([...header, ...records]);
-  fs.writeFileSync(DNS_CSV_FILE, csv, "utf-8");
+  fs.writeFileSync(RDAP_CSV_FILE, csv, "utf-8");
 }
 
 /**
  * Save RDAP bootstrap services as a JSON file
  */
-async function saveDnsJson(services: any[][]) {
-  fs.writeFileSync(DNS_JSON_FILE, JSON.stringify(services, null, 2), "utf-8");
+async function saveRDAPJson(services: any[][]) {
+  fs.writeFileSync(RDAP_JSON_FILE, JSON.stringify(services, null, 2), "utf-8");
 }
 
 /**
@@ -181,15 +181,15 @@ async function main() {
   
   await saveTldCsv(tldRows);
   await saveTldJson(tldRows);
-  await saveDnsCsv(rdapServices);
-  await saveDnsJson(rdapServices);
+  await saveRDAPCsv(rdapServices);
+  await saveRDAPJson(rdapServices);
 
   console.log("✅ All data updated!");
   console.log(`📁 Files saved:
   - ${TLD_CSV_FILE}
   - ${TLD_JSON_FILE}
-  - ${DNS_CSV_FILE}
-  - ${DNS_JSON_FILE}`);
+  - ${RDAP_CSV_FILE}
+  - ${RDAP_JSON_FILE}`);
 }
 
 // Run the script
