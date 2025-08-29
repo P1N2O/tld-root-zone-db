@@ -49,10 +49,10 @@ jobs:
             echo "has_changes=false" >> $GITHUB_OUTPUT
           fi
 
-  deploy-to-gh-pages:
+  deploy:
     runs-on: ubuntu-latest
     needs: update
-    if: ${{ needs.update.result == 'success' && needs.update.outputs.has_changes == 'true' }}
+    if: ${{ (needs.update.result == 'success' && needs.update.outputs.has_changes == 'true') || github.event_name == 'workflow_dispatch' }}
     
     permissions:
       contents: read
@@ -76,10 +76,10 @@ jobs:
           ls -la data/
           echo ""
           echo "Checking for expected file patterns:"
-          ls data/tld.* 2>/dev/null && echo "✅ tld files exist" || echo "❌ No tld files found"
-          ls data/rdap.* 2>/dev/null && echo "✅ rdap files exist" || echo "❌ No rdap files found"
-          ls data/dnssec.* 2>/dev/null && echo "✅ dnssec files exist" || echo "❌ No dnssec files found"
-          ls data/combined.* 2>/dev/null && echo "combined-rdap files exist" || echo "combined tld-rdap files found"
+          ls data/tld.* 2>/dev/null && echo "✅ TLD files exist" || echo "❌ No TLD files found"
+          ls data/rdap.* 2>/dev/null && echo "✅ RDAP files exist" || echo "❌ No RDAP files found"
+          ls data/dnssec.* 2>/dev/null && echo "✅ DNSSEC files exist" || echo "❌ No DNSSEC files found"
+          ls data/combined.* 2>/dev/null && echo "✅ Combined files exist" || echo "❌ No Combined files found"
 
       - name: Create CNAME file for CORS
         run: echo "manuel.pinto.dev" > data/CNAME
