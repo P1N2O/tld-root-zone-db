@@ -21,10 +21,10 @@ TLD Root Zone DB is an updated daily snapshot of the [IANA Root Zone Database](h
 
 | Dataset | JSON | CSV |
 |:--------|:-----|:----|
-| **Combined Data** | [https://iana.api.pinto.dev/combined.json](https://iana.api.pinto.dev/combined.json) | [https://iana.api.pinto.dev/combined.csv](https://iana.api.pinto.dev/combined.csv) |
-| **TLD Data** | [https://iana.api.pinto.dev/tld.json](https://iana.api.pinto.dev/tld.json) | [https://iana.api.pinto.dev/tld.csv](https://iana.api.pinto.dev/tld.csv) |
-| **RDAP Data** | [https://iana.api.pinto.dev/rdap.json](https://iana.api.pinto.dev/rdap.json) | [https://iana.api.pinto.dev/rdap.csv](https://iana.api.pinto.dev/rdap.csv) |
-| **DNSSEC Data** | [https://iana.api.pinto.dev/dnssec.json](https://iana.api.pinto.dev/dnssec.json) | [https://iana.api.pinto.dev/dnssec.csv](https://iana.api.pinto.dev/dnssec.csv) |
+| **Combined Data** | [https://iana.api.pinto.dev/root-zone/combined.json](https://iana.api.pinto.dev/root-zone/combined.json) | [https://iana.api.pinto.dev/root-zone/combined.csv](https://iana.api.pinto.dev/root-zone/combined.csv) |
+| **TLD Data** | [https://iana.api.pinto.dev/root-zone/tld.json](https://iana.api.pinto.dev/root-zone/tld.json) | [https://iana.api.pinto.dev/root-zone/tld.csv](https://iana.api.pinto.dev/root-zone/tld.csv) |
+| **RDAP Data** | [https://iana.api.pinto.dev/root-zone/rdap.json](https://iana.api.pinto.dev/root-zone/rdap.json) | [https://iana.api.pinto.dev/root-zone/rdap.csv](https://iana.api.pinto.dev/root-zone/rdap.csv) |
+| **DNSSEC Data** | [https://iana.api.pinto.dev/root-zone/dnssec.json](https://iana.api.pinto.dev/root-zone/dnssec.json) | [https://iana.api.pinto.dev/root-zone/dnssec.csv](https://iana.api.pinto.dev/root-zone/dnssec.csv) |
 
 ## Installation
 
