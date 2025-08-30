@@ -13,7 +13,8 @@
   "scripts": {
     "build": "tsc",
     "centralized-zone": "ts-node src/centralized-zone.ts",
-    "root-zone": "ts-node src/root-zone.ts"
+    "root-zone": "ts-node src/root-zone.ts",
+    "update": "npm run centralized-zone && npm run root-zone"
   },
   "dependencies": {
     "cheerio": "^1.1.2",

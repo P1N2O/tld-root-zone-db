@@ -18,10 +18,17 @@ jobs:
       has_changes: ${{ steps.commit.outputs.has_changes }}
 
     steps:
-      - name: Checkout repo
+      - name: Setup Git LFS
+        run: |
+          git lfs install
+          # Track the large zone files
+          git lfs track "data/centralized-zone/*.txt"
+          
+      - name: Checkout repo with LFS
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
+          lfs: true
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -32,7 +39,7 @@ jobs:
         run: npm install
 
       - name: Update Root Zone & Centralized Zone dataset
-        run: npm run root-zone && npm run centralized-zone
+        run: npm run update
 
       - name: Commit and push if changed
         id: commit
@@ -40,6 +47,7 @@ jobs:
           git config --local user.name "Manuel Pinto"
           git config --local user.email "manuel@pinto.dev"
           git add data/
+          git add .gitattributes # Make sure to add the LFS tracking file
           
           # Check if there are changes to commit
           if ! git diff --staged --quiet; then
@@ -67,16 +75,20 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository with LFS
         uses: actions/checkout@v5
         with:
           ref: main
           fetch-depth: 0
+          lfs: true
 
       - name: Verify files to deploy
         run: |
           echo "Files in data directory:"
           ls -la data/
+          echo ""
+          echo "Files in centralized-zone directory:"
+          ls -la data/centralized-zone/ | head -10 # Show first 10 files to avoid huge logs
           echo ""
           echo "Checking for expected file patterns:"
           ls data/root-zone/tld.* 2>/dev/null && echo "✅ TLD files exist" || echo "❌ No TLD files found"
