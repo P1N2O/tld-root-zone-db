@@ -280,17 +280,62 @@ async function saveMergedJson(mergedData: any[]) {
  * Save merged TLD + RDAP + DNSSEC data as a CSV file
  */
 async function saveMergedCsv(mergedData: any[]) {
-  const header = [["Domain", "Type", "TLD Manager", "RDAP URLs", "DNSSEC"]];
+  const header = [["Domain", "Type", "TLD Manager", "RDAP URLs", "DNSSEC", "Search"]];
   const records = mergedData.map(row => [
     row.domain,
     row.type,
     row.tldManager,
     row.rdap.join(", "),
-    row.dnssec ? "Yes" : "No"
+    row.dnssec ? "Yes" : "No",
+    row.search ? "Yes" : "No"
   ]);
 
   const csv = stringify([...header, ...records]);
   fs.writeFileSync(COMBINED_CSV_FILE, csv, "utf-8");
+}
+
+/**
+ * Checks the centralized-zone directory for existing zone files and returns a Set of TLDs that are available.
+ */
+function getAvailableZoneTlds(): Set<string> {
+  const zoneFilesDir = path.join(__dirname, "..", "data", "centralized-zone");
+  
+  // Check if the directory exists at all
+  if (!fs.existsSync(zoneFilesDir)) {
+    console.warn("⚠️  Centralized zone directory not found. Assuming no zone files are available.");
+    return new Set<string>();
+  }
+
+  const files = fs.readdirSync(zoneFilesDir);
+  const availableTlds = new Set<string>();
+
+  files.forEach(file => {
+    // Match files like "com.txt", "net.txt", etc.
+    if (file.endsWith('.txt')) {
+      // Extract the TLD from the filename (e.g., "com.txt" -> "com")
+      const tld = path.basename(file, '.txt');
+      availableTlds.add(tld.toLowerCase()); // Normalize to lowercase for comparison
+    }
+  });
+
+  console.log(`✅ Found ${availableTlds.size} available zone files for searching`);
+  return availableTlds;
+}
+
+/**
+ * Adds a 'search' field to the merged data based on available zone files
+ */
+function addSearchField(mergedData: any[], availableTlds: Set<string>): any[] {
+  return mergedData.map(tldEntry => {
+    // The domain in the merged data is like ".aaa", we need "aaa"
+    const tldWithoutDot = tldEntry.domain.replace(/^\./, '').toLowerCase();
+    const searchAvailable = availableTlds.has(tldWithoutDot);
+    
+    return {
+      ...tldEntry,
+      search: searchAvailable
+    };
+  });
 }
 
 /**
@@ -313,6 +358,11 @@ async function main() {
   console.log("Merging TLD with RDAP and DNSSEC data...");
   const mergedData = mergeTldWithRdapAndDnssec(tldRows, rdapServices, dnssecMap);
 
+  console.log("Checking for available zone files...");
+  const availableZoneTlds = getAvailableZoneTlds();
+  console.log("Adding search availability to merged data...");
+  const finalData = addSearchField(mergedData, availableZoneTlds);
+
   console.log(`Fetched ${tldRows.length} TLDs, ${rdapServices.length} RDAP services, and ${dnssecMap.size} DNSSEC entries. Saving...`);
   
   await saveTldCsv(tldRows);
@@ -321,8 +371,8 @@ async function main() {
   await saveRDAPJson(rdapServices);
   await saveDnssecCsv(dnssecDataArray);
   await saveDnssecJson(dnssecDataArray);
-  await saveMergedJson(mergedData);
-  await saveMergedCsv(mergedData);
+  await saveMergedJson(finalData);
+  await saveMergedCsv(finalData);
 
   console.log("✅ All data updated!");
   console.log(`📁 Files saved:
