@@ -427,35 +427,98 @@ async function processZoneFile(txtPath: string): Promise<void> {
 	console.log(`  🔍 Processing ${path.basename(txtPath)} for domain names...`);
 
 	const domainNames = new Set<string>();
-	const fileContent = fs.readFileSync(txtPath, "utf-8");
-	const lines = fileContent.split("\n");
+	const tempOutputPath = txtPath + ".tmp";
 
-	for (const line of lines) {
-		if (!line.trim() || line.startsWith(";") || line.startsWith("$")) {
-			continue; // Skip empty lines and comments
-		}
+	return new Promise((resolve, reject) => {
+		const readStream = fs.createReadStream(txtPath, {
+			encoding: "utf-8",
+			highWaterMark: 64 * 1024, // 64KB chunks
+		});
 
-		// Split by whitespace and get the first field (domain name)
-		const parts = line.trim().split(/\s+/);
-		if (parts.length > 0) {
-			const domain = parts[0].toLowerCase();
+		let leftover = "";
 
-			// Remove trailing dot if present
-			const cleanDomain = domain.endsWith(".") ? domain.slice(0, -1) : domain;
+		readStream.on("data", (chunk: string | Buffer) => {
+			// Convert Buffer to string if necessary
+			const chunkString =
+				typeof chunk === "string" ? chunk : chunk.toString("utf-8");
+			const data = leftover + chunkString;
+			const lines = data.split("\n");
 
-			if (cleanDomain && !cleanDomain.startsWith(";")) {
-				domainNames.add(cleanDomain);
+			// Save the last incomplete line for the next chunk
+			leftover = lines.pop() || "";
+
+			for (const line of lines) {
+				if (!line.trim() || line.startsWith(";") || line.startsWith("$")) {
+					continue; // Skip empty lines and comments
+				}
+
+				// Split by whitespace and get the first field (domain name)
+				const parts = line.trim().split(/\s+/);
+				if (parts.length > 0) {
+					const domain = parts[0].toLowerCase();
+
+					// Remove trailing dot if present
+					const cleanDomain = domain.endsWith(".")
+						? domain.slice(0, -1)
+						: domain;
+
+					if (cleanDomain && !cleanDomain.startsWith(";")) {
+						domainNames.add(cleanDomain);
+					}
+				}
 			}
-		}
-	}
+		});
 
-	// Convert to sorted array and write back to the same file
-	const domainsArray = Array.from(domainNames).sort();
-	fs.writeFileSync(txtPath, domainsArray.join("\n"), "utf-8");
+		readStream.on("end", () => {
+			// Process the last leftover line
+			if (
+				leftover.trim() &&
+				!leftover.startsWith(";") &&
+				!leftover.startsWith("$")
+			) {
+				const parts = leftover.trim().split(/\s+/);
+				if (parts.length > 0) {
+					const domain = parts[0].toLowerCase();
+					const cleanDomain = domain.endsWith(".")
+						? domain.slice(0, -1)
+						: domain;
+					if (cleanDomain && !cleanDomain.startsWith(";")) {
+						domainNames.add(cleanDomain);
+					}
+				}
+			}
 
-	console.log(
-		`  ✅ Extracted ${domainNames.size} unique domain names to ${path.basename(txtPath)}`,
-	);
+			// Convert to sorted array and write to temporary file
+			const domainsArray = Array.from(domainNames).sort();
+			fs.writeFile(tempOutputPath, domainsArray.join("\n"), "utf-8", (err) => {
+				if (err) {
+					reject(new Error(`Failed to write processed file: ${err.message}`));
+					return;
+				}
+
+				// Replace original file with processed file
+				fs.rename(tempOutputPath, txtPath, (renameErr) => {
+					if (renameErr) {
+						reject(
+							new Error(
+								`Failed to replace original file: ${renameErr.message}`,
+							),
+						);
+						return;
+					}
+
+					console.log(
+						`  ✅ Extracted ${domainNames.size} unique domain names to ${path.basename(txtPath)}`,
+					);
+					resolve();
+				});
+			});
+		});
+
+		readStream.on("error", (err) => {
+			reject(new Error(`Failed to read zone file: ${err.message}`));
+		});
+	});
 }
 
 /**
