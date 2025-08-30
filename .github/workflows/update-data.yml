@@ -11,6 +11,9 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      CZDS_USERNAME: ${{ secrets.CZDS_USERNAME }}
+      CZDS_PASSWORD: ${{ secrets.CZDS_PASSWORD }}
     outputs:
       has_changes: ${{ steps.commit.outputs.has_changes }}
 
@@ -28,8 +31,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Update TLD dataset
-        run: npm run update
+      - name: Update Root Zone & Centralized Zone dataset
+        run: npm run root-zone && npm run centralized-zone
 
       - name: Commit and push if changed
         id: commit
@@ -40,7 +43,7 @@ jobs:
           
           # Check if there are changes to commit
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update TLD and RDAP datasets"
+            git commit -m "chore: update data"
             git push
             echo "has_changes=true" >> $GITHUB_OUTPUT
             echo "Changes were committed and pushed"
@@ -76,10 +79,10 @@ jobs:
           ls -la data/
           echo ""
           echo "Checking for expected file patterns:"
-          ls data/tld.* 2>/dev/null && echo "✅ TLD files exist" || echo "❌ No TLD files found"
-          ls data/rdap.* 2>/dev/null && echo "✅ RDAP files exist" || echo "❌ No RDAP files found"
-          ls data/dnssec.* 2>/dev/null && echo "✅ DNSSEC files exist" || echo "❌ No DNSSEC files found"
-          ls data/combined.* 2>/dev/null && echo "✅ Combined files exist" || echo "❌ No Combined files found"
+          ls data/root-zone/tld.* 2>/dev/null && echo "✅ TLD files exist" || echo "❌ No TLD files found"
+          ls data/root-zone/rdap.* 2>/dev/null && echo "✅ RDAP files exist" || echo "❌ No RDAP files found"
+          ls data/root-zone/dnssec.* 2>/dev/null && echo "✅ DNSSEC files exist" || echo "❌ No DNSSEC files found"
+          ls data/root-zone/combined.* 2>/dev/null && echo "✅ Combined files exist" || echo "❌ No Combined files found"
 
       - name: Create CNAME file for CORS
         run: echo "manuel.pinto.dev" > data/CNAME

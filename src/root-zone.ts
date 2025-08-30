@@ -20,7 +20,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Directory and file paths for storing output
-const DATA_DIR = path.join(__dirname, "..", "data");
+const DATA_DIR = path.join(__dirname, "..", "data", "root-zone");
 // TLD File
 const TLD_JSON_FILE = path.join(DATA_DIR, "tld.json");
 const TLD_CSV_FILE = path.join(DATA_DIR, "tld.csv");
