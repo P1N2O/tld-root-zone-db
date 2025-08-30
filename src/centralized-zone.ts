@@ -600,34 +600,6 @@ async function downloadAndExtractZoneFiles(
 }
 
 /**
- * Create a zones.json file containing array of all zone names
- */
-function createZonesIndexFile(): void {
-	console.log("📝 Creating zones index file...");
-
-	try {
-		// Read all .txt files in the data directory
-		const files = fs
-			.readdirSync(DATA_DIR)
-			.filter((file) => file.endsWith(".txt"))
-			.map((file) => file.replace(".txt", ""))
-			.sort();
-
-		// Create the zones.json file
-		const zonesFilePath = path.join(DATA_DIR, "zones.json");
-		fs.writeFileSync(zonesFilePath, JSON.stringify(files, null, 2), "utf-8");
-
-		console.log(`✅ Created zones.json with ${files.length} zones`);
-		console.log(
-			`📋 Sample zones: ${files.slice(0, 10).join(", ")}${files.length > 10 ? "..." : ""}`,
-		);
-	} catch (error) {
-		console.error("❌ Failed to create zones index file:", error);
-		throw error;
-	}
-}
-
-/**
  * Main function to orchestrate the CZDS process
  */
 async function main(): Promise<void> {
@@ -643,9 +615,6 @@ async function main(): Promise<void> {
 
 		// Step 3: Download and extract zone files
 		await downloadAndExtractZoneFiles(downloadLinks);
-
-		// Step 4: Create zones index file
-		createZonesIndexFile();
 
 		console.log("🎉 IANA CZDS process completed successfully!");
 		console.log(`📁 Zone files extracted to: ${DATA_DIR}`);
