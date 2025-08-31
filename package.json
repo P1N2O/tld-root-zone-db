@@ -12,18 +12,25 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "centralized-zone": "ts-node src/centralized-zone.ts",
-    "root-zone": "ts-node src/root-zone.ts",
-    "update": "npm run centralized-zone && npm run root-zone"
+    "start": "ts-node src/index.ts",
+    "root-zone": "ts-node src/index.ts --job=root-zone",
+    "centralized-zone": "ts-node src/index.ts --job=centralized-zone",
+    "local": "ts-node src/index.ts --save=local",
+    "remote": "ts-node src/index.ts --save=remote"
   },
   "dependencies": {
     "cheerio": "^1.1.2",
     "csv-stringify": "^6.6.0",
+    "dotenv": "^17.2.1",
     "jwt-decode": "^4.0.0",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "pg": "^8.16.3",
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.19.11",
+    "@types/pg": "^8.15.5",
+    "@types/yargs": "^17.0.33",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2"
   }
