@@ -7,7 +7,7 @@
       "https://rdap.nic.aaa/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".aarp",
@@ -17,7 +17,7 @@
       "https://rdap.nic.aarp/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".abarth",
@@ -25,7 +25,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".abb",
@@ -45,7 +45,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".abbvie",
@@ -85,7 +85,7 @@
       "https://rdap.nic.abogado/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".abudhabi",
@@ -95,7 +95,7 @@
       "https://rdap.nic.abudhabi/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ac",
@@ -103,7 +103,7 @@
     "tldManager": "Internet Computer Bureau Limited",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".academy",
@@ -153,7 +153,7 @@
       "https://rdap.nic.aco/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".active",
@@ -161,7 +161,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".actor",
@@ -181,7 +181,7 @@
       "https://rdap.nic.ad/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".adac",
@@ -189,7 +189,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ads",
@@ -209,7 +209,7 @@
       "https://rdap.nic.adult/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ae",
@@ -217,7 +217,7 @@
     "tldManager": "Telecommunications and Digital Government Regulatory Authority (TDRA)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".aeg",
@@ -255,7 +255,7 @@
     "tldManager": "Ministry of Communications and IT",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".afamilycompany",
@@ -263,7 +263,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".afl",
@@ -291,7 +291,7 @@
     "tldManager": "UHSA School of Medicine",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".agakhan",
@@ -321,7 +321,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".aig",
@@ -331,7 +331,7 @@
       "https://rdap.nic.aig/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".aigo",
@@ -339,7 +339,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".airbus",
@@ -369,7 +369,7 @@
       "https://tld-rdap.verisign.com/airtel/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".akdn",
@@ -387,7 +387,7 @@
     "tldManager": "Electronic and Postal Communications Authority - AKEP",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".alfaromeo",
@@ -395,7 +395,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".alibaba",
@@ -455,7 +455,7 @@
       "https://rdap.nic.alsace/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".alstom",
@@ -465,7 +465,7 @@
       "https://rdap.nic.alstom/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".am",
@@ -473,7 +473,7 @@
     "tldManager": "\"Internet Society\" Non-governmental Organization",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".amazon",
@@ -503,7 +503,7 @@
       "https://rdap.nic.americanfamily/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".amex",
@@ -523,7 +523,7 @@
       "https://rdap.nic.amfam/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".amica",
@@ -533,7 +533,7 @@
       "https://rdap.nic.amica/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".amsterdam",
@@ -551,7 +551,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".analytics",
@@ -561,7 +561,7 @@
       "https://rdap.nic.analytics/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".android",
@@ -599,7 +599,7 @@
     "tldManager": "Ministry of Telecommunications and Information Technologies (MTTI)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".aol",
@@ -647,7 +647,7 @@
     "tldManager": "Antarctica Network Information Centre Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".aquarelle",
@@ -667,7 +667,7 @@
       "https://rdap.nic.ar/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".arab",
@@ -715,7 +715,7 @@
     "tldManager": "Internet Architecture Board (IAB)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".art",
@@ -743,7 +743,7 @@
     "tldManager": "AS Domain Registry",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".asda",
@@ -753,7 +753,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".asia",
@@ -781,7 +781,7 @@
     "tldManager": "nic.at GmbH",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".athleta",
@@ -791,7 +791,7 @@
       "https://rdap.nic.athleta/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".attorney",
@@ -809,7 +809,7 @@
     "tldManager": ".au Domain Administration (auDA)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".auction",
@@ -829,7 +829,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".audible",
@@ -897,7 +897,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".aw",
@@ -905,7 +905,7 @@
     "tldManager": "SETAR",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".aws",
@@ -923,7 +923,7 @@
     "tldManager": "Ålands landskapsregering",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".axa",
@@ -941,7 +941,7 @@
     "tldManager": "IntraNS",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".azure",
@@ -959,7 +959,7 @@
     "tldManager": "Universtiy Telinformatic Centre (UTIC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".baby",
@@ -997,7 +997,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".band",
@@ -1017,7 +1017,7 @@
       "https://rdap.nic.bank/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bar",
@@ -1117,7 +1117,7 @@
       "https://rdap.nic.bayern/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bb",
@@ -1125,7 +1125,7 @@
     "tldManager": "Ministry of Innovation, Science and Smart Technology",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bbc",
@@ -1183,7 +1183,7 @@
     "tldManager": "Posts and Telecommunications Division",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".be",
@@ -1191,7 +1191,7 @@
     "tldManager": "DNS Belgium vzw/asbl",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".beats",
@@ -1221,7 +1221,7 @@
       "https://rdap.nic.beer/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bentley",
@@ -1229,7 +1229,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".berlin",
@@ -1239,7 +1239,7 @@
       "https://rdap.nic.berlin/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".best",
@@ -1259,7 +1259,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bet",
@@ -1277,7 +1277,7 @@
     "tldManager": "Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bg",
@@ -1285,7 +1285,7 @@
     "tldManager": "Register.BG",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bh",
@@ -1293,7 +1293,7 @@
     "tldManager": "Telecommunications Regulatory Authority (TRA)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bharti",
@@ -1311,7 +1311,7 @@
     "tldManager": "Centre National de l'Informatique",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bible",
@@ -1381,7 +1381,7 @@
       "https://rdap.nic.biz/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bj",
@@ -1389,7 +1389,7 @@
     "tldManager": "Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bl",
@@ -1397,7 +1397,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".black",
@@ -1417,7 +1417,7 @@
       "https://rdap.nic.blackfriday/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".blanco",
@@ -1425,7 +1425,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".blockbuster",
@@ -1475,7 +1475,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bms",
@@ -1503,7 +1503,7 @@
     "tldManager": "Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bnl",
@@ -1511,7 +1511,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bnpparibas",
@@ -1521,7 +1521,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bo",
@@ -1529,7 +1529,7 @@
     "tldManager": "Agencia para el Desarrollo de la Información de la Sociedad en Bolivia",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".boats",
@@ -1609,7 +1609,7 @@
       "https://rdap.nic.booking/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".boots",
@@ -1617,7 +1617,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bosch",
@@ -1647,7 +1647,7 @@
       "https://rdap.nic.boston/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bot",
@@ -1685,7 +1685,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".br",
@@ -1695,7 +1695,7 @@
       "https://rdap.registro.br/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bradesco",
@@ -1763,7 +1763,7 @@
     "tldManager": "University of The Bahamas",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bt",
@@ -1771,7 +1771,7 @@
     "tldManager": "Ministry of Information and Communications",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".budapest",
@@ -1779,7 +1779,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bugatti",
@@ -1787,7 +1787,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".build",
@@ -1845,7 +1845,7 @@
     "tldManager": "Norid A/S",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bw",
@@ -1853,7 +1853,7 @@
     "tldManager": "Botswana Communications Regulatory Authority (BOCRA)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".by",
@@ -1861,7 +1861,7 @@
     "tldManager": "Belarusian Cloud Technologies LLC",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bz",
@@ -1869,7 +1869,7 @@
     "tldManager": "University of Belize",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".bzh",
@@ -1879,7 +1879,7 @@
       "https://rdap.nic.bzh/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ca",
@@ -1889,7 +1889,7 @@
       "https://rdap.ca.fury.ca/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cab",
@@ -1939,7 +1939,7 @@
       "https://rdap.nic.calvinklein/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cam",
@@ -1977,7 +1977,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".canon",
@@ -1987,7 +1987,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".capetown",
@@ -2037,7 +2037,7 @@
       "https://rdap.nic.caravan/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cards",
@@ -2067,7 +2067,7 @@
       "https://rdap.nominet.uk/career/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".careers",
@@ -2095,7 +2095,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".casa",
@@ -2105,7 +2105,7 @@
       "https://rdap.nic.casa/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".case",
@@ -2123,7 +2123,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cash",
@@ -2173,7 +2173,7 @@
       "https://rdap.nic.catholic/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cba",
@@ -2211,7 +2211,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cc",
@@ -2221,7 +2221,7 @@
       "https://tld-rdap.verisign.com/cc/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cd",
@@ -2229,7 +2229,7 @@
     "tldManager": "Office Congolais des Postes et Télécommunications - OCPT",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ceb",
@@ -2237,7 +2237,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".center",
@@ -2257,7 +2257,7 @@
       "https://rdap.centralnic.com/ceo/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cern",
@@ -2275,7 +2275,7 @@
     "tldManager": "Societe Centrafricaine de Telecommunications (SOCATEL)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cfa",
@@ -2303,7 +2303,7 @@
     "tldManager": "Interpoint Switzerland",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ch",
@@ -2311,7 +2311,7 @@
     "tldManager": "SWITCH The Swiss Education & Research Network",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".chanel",
@@ -2351,7 +2351,7 @@
       "https://rdap.nic.chase/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".chat",
@@ -2389,7 +2389,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".christmas",
@@ -2417,7 +2417,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".church",
@@ -2435,7 +2435,7 @@
     "tldManager": "Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cipriani",
@@ -2465,7 +2465,7 @@
       "https://rdap.nic.cisco/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".citadel",
@@ -2513,7 +2513,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ck",
@@ -2521,7 +2521,7 @@
     "tldManager": "Telecom Cook Islands Ltd.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cl",
@@ -2529,7 +2529,7 @@
     "tldManager": "NIC Chile (University of Chile)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".claims",
@@ -2559,7 +2559,7 @@
       "https://whois.uniregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".clinic",
@@ -2609,7 +2609,7 @@
       "https://rdap.nic.club/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".clubmed",
@@ -2629,7 +2629,7 @@
       "https://rdap.nic.cm/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cn",
@@ -2637,7 +2637,7 @@
     "tldManager": "China Internet Network Information Center (CNNIC)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".co",
@@ -2645,7 +2645,7 @@
     "tldManager": "Ministry of Information and Communications Technologies (MinTIC)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".coach",
@@ -2705,7 +2705,7 @@
       "https://rdap.verisign.com/com/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".comcast",
@@ -2713,7 +2713,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".commbank",
@@ -2753,7 +2753,7 @@
       "https://rdap.nic.compare/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".computer",
@@ -2773,7 +2773,7 @@
       "https://tld-rdap.verisign.com/comsec/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".condos",
@@ -2833,7 +2833,7 @@
       "https://rdap.nic.cooking/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cookingchannel",
@@ -2841,7 +2841,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cool",
@@ -2911,7 +2911,7 @@
       "https://rdap.nic.courses/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cpa",
@@ -2921,7 +2921,7 @@
       "https://rdap.nic.cpa/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cr",
@@ -2931,7 +2931,7 @@
       "https://rdap.nic.cr/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".credit",
@@ -2981,7 +2981,7 @@
       "https://rdap.crown.fury.ca/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".crs",
@@ -3019,7 +3019,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cu",
@@ -3027,7 +3027,7 @@
     "tldManager": "CENIAInternet",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cuisinella",
@@ -3047,7 +3047,7 @@
       "https://rdap.nic.cv/"
     ],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cw",
@@ -3055,7 +3055,7 @@
     "tldManager": "University of Curacao",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cx",
@@ -3065,7 +3065,7 @@
       "https://rdap.nic.cx/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cy",
@@ -3073,7 +3073,7 @@
     "tldManager": "University of Cyprus",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".cymru",
@@ -3103,7 +3103,7 @@
       "https://rdap.nic.cz/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dabur",
@@ -3111,7 +3111,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dad",
@@ -3171,7 +3171,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".day",
@@ -3201,7 +3201,7 @@
       "https://rdap.nic.dds/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".de",
@@ -3209,7 +3209,7 @@
     "tldManager": "DENIC eG",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".deal",
@@ -3269,7 +3269,7 @@
       "https://rdap.nic.dell/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".deloitte",
@@ -3339,7 +3339,7 @@
       "https://rdap.nic.design/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dev",
@@ -3457,7 +3457,7 @@
     "tldManager": "Djibouti Telecom S.A",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dk",
@@ -3465,7 +3465,7 @@
     "tldManager": "Dansk Internet Forum",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dm",
@@ -3473,7 +3473,7 @@
     "tldManager": "DotDM Corporation",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dnp",
@@ -3483,7 +3483,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".do",
@@ -3491,7 +3491,7 @@
     "tldManager": "Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".docs",
@@ -3519,7 +3519,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dog",
@@ -3537,7 +3537,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".domains",
@@ -3555,7 +3555,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dot",
@@ -3605,7 +3605,7 @@
       "https://rdap.nic.dubai/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".duck",
@@ -3613,7 +3613,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dunlop",
@@ -3631,7 +3631,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".dupont",
@@ -3641,7 +3641,7 @@
       "https://rdap.nic.dupont/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".durban",
@@ -3679,7 +3679,7 @@
     "tldManager": "CERIST",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".earth",
@@ -3709,7 +3709,7 @@
       "https://rdap.registry.ec/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".eco",
@@ -3719,7 +3719,7 @@
       "https://rdap.eco.fury.ca/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".edeka",
@@ -3729,7 +3729,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".edu",
@@ -3737,7 +3737,7 @@
     "tldManager": "EDUCAUSE",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".education",
@@ -3755,7 +3755,7 @@
     "tldManager": "Eesti Interneti Sihtasutus (EIS)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".eg",
@@ -3763,7 +3763,7 @@
     "tldManager": "Egyptian Universities Network (EUN), Supreme Council of Universities",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".eh",
@@ -3771,7 +3771,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".email",
@@ -3799,7 +3799,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".energy",
@@ -3847,7 +3847,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".epson",
@@ -3875,7 +3875,7 @@
     "tldManager": "Eritrea Telecommunication Services Corporation (EriTel)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ericsson",
@@ -3895,7 +3895,7 @@
       "https://rdap.nic.erni/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".es",
@@ -3903,7 +3903,7 @@
     "tldManager": "Red.es",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".esq",
@@ -3931,7 +3931,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".et",
@@ -3939,7 +3939,7 @@
     "tldManager": "Ethio telecom",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".etisalat",
@@ -3947,7 +3947,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".eu",
@@ -3955,7 +3955,7 @@
     "tldManager": "EURid vzw/asbl",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".eurovision",
@@ -3993,7 +3993,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".exchange",
@@ -4043,7 +4043,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fage",
@@ -4133,7 +4133,7 @@
       "https://rdap.nic.farmers/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fashion",
@@ -4143,7 +4143,7 @@
       "https://rdap.nic.fashion/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fast",
@@ -4203,7 +4203,7 @@
       "https://rdap.fi/rdap/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fiat",
@@ -4211,7 +4211,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fidelity",
@@ -4301,7 +4301,7 @@
       "https://rdap.nic.firmdale/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fish",
@@ -4321,7 +4321,7 @@
       "https://rdap.nic.fishing/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fit",
@@ -4331,7 +4331,7 @@
       "https://rdap.nic.fit/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fitness",
@@ -4351,7 +4351,7 @@
       "https://www.rdap.fj/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fk",
@@ -4359,7 +4359,7 @@
     "tldManager": "Falkland Islands Government",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".flickr",
@@ -4389,7 +4389,7 @@
       "https://rdap.nic.flir/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".florist",
@@ -4417,7 +4417,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fly",
@@ -4437,7 +4437,7 @@
       "https://rdap.centralnic.com/fm/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fo",
@@ -4447,7 +4447,7 @@
       "https://rdap.centralnic.com/fo/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".foo",
@@ -4475,7 +4475,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".football",
@@ -4495,7 +4495,7 @@
       "https://rdap.nic.ford/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".forex",
@@ -4545,7 +4545,7 @@
       "https://rdap.nic.fox/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fr",
@@ -4555,7 +4555,7 @@
       "https://rdap.nic.fr/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".free",
@@ -4603,7 +4603,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".frontier",
@@ -4613,7 +4613,7 @@
       "https://rdap.nic.frontier/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ftr",
@@ -4623,7 +4623,7 @@
       "https://rdap.nic.ftr/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fujitsu",
@@ -4641,7 +4641,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".fun",
@@ -4699,7 +4699,7 @@
     "tldManager": "Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gal",
@@ -4769,7 +4769,7 @@
       "https://rdap.nic.gap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".garden",
@@ -4779,7 +4779,7 @@
       "https://rdap.nic.garden/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gay",
@@ -4789,7 +4789,7 @@
       "https://rdap.nic.gay/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gb",
@@ -4797,7 +4797,7 @@
     "tldManager": "Reserved Domain - IANA",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gbiz",
@@ -4817,7 +4817,7 @@
       "https://rdap.centralnic.com/gd/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gdn",
@@ -4827,7 +4827,7 @@
       "https://rdap.nic.gdn/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ge",
@@ -4835,7 +4835,7 @@
     "tldManager": "Caucasus Online LLC",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gea",
@@ -4845,7 +4845,7 @@
       "https://rdap.nic.gea/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gent",
@@ -4883,7 +4883,7 @@
     "tldManager": "CANAL+ TELECOM",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gg",
@@ -4891,7 +4891,7 @@
     "tldManager": "Island Networks Ltd.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ggee",
@@ -4901,7 +4901,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gh",
@@ -4909,7 +4909,7 @@
     "tldManager": "Network Computer Systems Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gi",
@@ -4917,7 +4917,7 @@
     "tldManager": "Sapphire Networks",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gift",
@@ -4965,7 +4965,7 @@
     "tldManager": "TELE Greenland A/S",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".glade",
@@ -4973,7 +4973,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".glass",
@@ -5021,7 +5021,7 @@
     "tldManager": "GM-NIC",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gmail",
@@ -5051,7 +5051,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gmx",
@@ -5069,7 +5069,7 @@
     "tldManager": "Centre National des Sciences Halieutiques de Boussoura",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".godaddy",
@@ -5079,7 +5079,7 @@
       "https://rdap.nic.godaddy/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gold",
@@ -5099,7 +5099,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".golf",
@@ -5119,7 +5119,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".goodhands",
@@ -5127,7 +5127,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".goodyear",
@@ -5193,7 +5193,7 @@
     "tldManager": "Networking Technologies Group",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gq",
@@ -5201,7 +5201,7 @@
     "tldManager": "GETESA",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gr",
@@ -5209,7 +5209,7 @@
     "tldManager": "ICS-FORTH GR",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".grainger",
@@ -5289,7 +5289,7 @@
       "https://rdap.nic.gs/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gt",
@@ -5297,7 +5297,7 @@
     "tldManager": "Universidad del Valle de Guatemala",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gu",
@@ -5305,7 +5305,7 @@
     "tldManager": "University of Guam",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".guardian",
@@ -5313,7 +5313,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gucci",
@@ -5371,7 +5371,7 @@
     "tldManager": "Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".gy",
@@ -5381,7 +5381,7 @@
       "https://rdap.registry.gy/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hair",
@@ -5401,7 +5401,7 @@
       "https://rdap.nic.hamburg/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hangout",
@@ -5431,7 +5431,7 @@
       "https://rdap.nic.hbo/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hdfc",
@@ -5461,7 +5461,7 @@
       "https://rdap.nic.health/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".healthcare",
@@ -5491,7 +5491,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".here",
@@ -5519,7 +5519,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hiphop",
@@ -5549,7 +5549,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hiv",
@@ -5567,7 +5567,7 @@
     "tldManager": "Hong Kong Internet Registration Corporation Ltd.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hkt",
@@ -5585,7 +5585,7 @@
     "tldManager": "HM Domain Registry",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hn",
@@ -5595,7 +5595,7 @@
       "https://rdap.nic.hn/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hockey",
@@ -5645,7 +5645,7 @@
       "https://rdap.nic.homegoods/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".homes",
@@ -5665,7 +5665,7 @@
       "https://rdap.nic.homesense/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".honda",
@@ -5683,7 +5683,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".horse",
@@ -5693,7 +5693,7 @@
       "https://rdap.nic.horse/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hospital",
@@ -5741,7 +5741,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hotels",
@@ -5751,7 +5751,7 @@
       "https://rdap.nic.hotels/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hotmail",
@@ -5789,7 +5789,7 @@
     "tldManager": "CARNet - Croatian Academic and Research Network",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hsbc",
@@ -5809,7 +5809,7 @@
       "https://rdap.nic.ht/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".htc",
@@ -5817,7 +5817,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hu",
@@ -5825,7 +5825,7 @@
     "tldManager": "Council of Hungarian Internet Providers (CHIP)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".hughes",
@@ -5905,7 +5905,7 @@
       "https://rdap.pandi.id/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ie",
@@ -5913,7 +5913,7 @@
     "tldManager": "University College Dublin, Computing Services, Computer Centre",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ieee",
@@ -5941,7 +5941,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ikano",
@@ -5959,7 +5959,7 @@
     "tldManager": "The Israel Internet Association (RA)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".im",
@@ -5967,7 +5967,7 @@
     "tldManager": "Isle of Man Government",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".imamat",
@@ -6017,7 +6017,7 @@
       "https://rdap.nixiregistry.in/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".inc",
@@ -6047,7 +6047,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".info",
@@ -6077,7 +6077,7 @@
       "https://rdap.nic.ink/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".institute",
@@ -6097,7 +6097,7 @@
       "https://rdap.nic.insurance/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".insure",
@@ -6117,7 +6117,7 @@
       "https://rdap.iana.org/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".intel",
@@ -6125,7 +6125,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".international",
@@ -6145,7 +6145,7 @@
       "https://rdap.nic.intuit/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".investments",
@@ -6163,7 +6163,7 @@
     "tldManager": "Internet Computer Bureau Limited",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ipiranga",
@@ -6181,7 +6181,7 @@
     "tldManager": "Communications and Media Commission (CMC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ir",
@@ -6189,7 +6189,7 @@
     "tldManager": "Institute for Research in Fundamental Sciences",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".irish",
@@ -6209,7 +6209,7 @@
       "https://rdap.isnic.is/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".iselect",
@@ -6217,7 +6217,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ismaili",
@@ -6255,7 +6255,7 @@
     "tldManager": "IIT - CNR",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".itau",
@@ -6265,7 +6265,7 @@
       "https://rdap.nic.itau/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".itv",
@@ -6283,7 +6283,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".iwc",
@@ -6291,7 +6291,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".jaguar",
@@ -6321,7 +6321,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".jcp",
@@ -6329,7 +6329,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".je",
@@ -6337,7 +6337,7 @@
     "tldManager": "Island Networks (Jersey) Ltd.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".jeep",
@@ -6385,7 +6385,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".jll",
@@ -6403,7 +6403,7 @@
     "tldManager": "University of West Indies",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".jmp",
@@ -6413,7 +6413,7 @@
       "https://rdap.nic.jmp/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".jnj",
@@ -6431,7 +6431,7 @@
     "tldManager": "Ministry of Digital Economy and Entrepreneurship (MoDEE)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".jobs",
@@ -6441,7 +6441,7 @@
       "https://rdap.nominet.uk/jobs/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".joburg",
@@ -6479,7 +6479,7 @@
     "tldManager": "Japan Registry Services Co., Ltd.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".jpmorgan",
@@ -6489,7 +6489,7 @@
       "https://rdap.nic.jpmorgan/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".jprs",
@@ -6499,7 +6499,7 @@
       "https://rdap.nic.jprs/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".juegos",
@@ -6509,7 +6509,7 @@
       "https://whois.uniregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".juniper",
@@ -6539,7 +6539,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ke",
@@ -6549,7 +6549,7 @@
       "https://rdap.kenic.or.ke/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kerryhotels",
@@ -6567,7 +6567,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kerryproperties",
@@ -6597,7 +6597,7 @@
       "http://rdap.cctld.kg/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kh",
@@ -6605,7 +6605,7 @@
     "tldManager": "Telecommunication Regulator of Cambodia (TRC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ki",
@@ -6613,7 +6613,7 @@
     "tldManager": "Ministry of Information, Communications and Transport (MICT)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kia",
@@ -6651,7 +6651,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kindle",
@@ -6681,7 +6681,7 @@
       "https://rdap.kiwi.fury.ca/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".km",
@@ -6689,7 +6689,7 @@
     "tldManager": "Comores Telecom",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kn",
@@ -6697,7 +6697,7 @@
     "tldManager": "Ministry of Finance, Sustainable Development Information & Technology",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".koeln",
@@ -6735,7 +6735,7 @@
     "tldManager": "Star Joint Venture Company",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kpmg",
@@ -6755,7 +6755,7 @@
       "https://rdap.centralnic.com/kpn/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kr",
@@ -6763,7 +6763,7 @@
     "tldManager": "Korea Internet & Security Agency (KISA)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".krd",
@@ -6801,7 +6801,7 @@
     "tldManager": "Communications and Information Technology Regulatory Authority",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ky",
@@ -6811,7 +6811,7 @@
       "https://whois.kyregistry.ky/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kyoto",
@@ -6821,7 +6821,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".kz",
@@ -6829,7 +6829,7 @@
     "tldManager": "Association of IT Companies of Kazakhstan",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".la",
@@ -6837,7 +6837,7 @@
     "tldManager": "Lao National Internet Center (LANIC), Ministry of Technology and Communications",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lacaixa",
@@ -6847,7 +6847,7 @@
       "https://rdap.nic.lacaixa/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ladbrokes",
@@ -6855,7 +6855,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lamborghini",
@@ -6883,7 +6883,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lancia",
@@ -6891,7 +6891,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lancome",
@@ -6899,7 +6899,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".land",
@@ -6979,7 +6979,7 @@
       "https://rdap.nic.law/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lawyer",
@@ -6999,7 +6999,7 @@
       "https://rdap.lbdr.org.lb/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lc",
@@ -7007,7 +7007,7 @@
     "tldManager": "University of Puerto Rico",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lds",
@@ -7095,7 +7095,7 @@
     "tldManager": "SWITCH The Swiss Education & Research Network",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".liaison",
@@ -7103,7 +7103,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lidl",
@@ -7133,7 +7133,7 @@
       "https://rdap.nic.lifeinsurance/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lifestyle",
@@ -7203,7 +7203,7 @@
       "https://rdap.nic.lincoln/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".linde",
@@ -7211,7 +7211,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".link",
@@ -7229,7 +7229,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".live",
@@ -7257,7 +7257,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lk",
@@ -7265,7 +7265,7 @@
     "tldManager": "Council for Information Technology\nLK Domain Registrar",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".llc",
@@ -7285,7 +7285,7 @@
       "https://rdap.centralnic.com/llp/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".loan",
@@ -7325,7 +7325,7 @@
       "https://rdap.nominet.uk/locus/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".loft",
@@ -7333,7 +7333,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lol",
@@ -7363,7 +7363,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lotto",
@@ -7393,7 +7393,7 @@
       "https://rdap.centralnic.com/lpl/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lplfinancial",
@@ -7403,7 +7403,7 @@
       "https://rdap.centralnic.com/lplfinancial/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lr",
@@ -7411,7 +7411,7 @@
     "tldManager": "Data Technology Solutions, Inc.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ls",
@@ -7419,7 +7419,7 @@
     "tldManager": "Lesotho Network Information Centre Proprietary (LSNIC)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lt",
@@ -7427,7 +7427,7 @@
     "tldManager": "Kaunas University of Technology",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ltd",
@@ -7455,7 +7455,7 @@
     "tldManager": "RESTENA",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".lundbeck",
@@ -7473,7 +7473,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".luxe",
@@ -7483,7 +7483,7 @@
       "https://rdap.nic.luxe/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".luxury",
@@ -7501,7 +7501,7 @@
     "tldManager": "University of Latvia, Institute of Mathematics and Computer Science, Department of Network Solutions (DNS)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ly",
@@ -7511,7 +7511,7 @@
       "https://rdap.nic.ly/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ma",
@@ -7519,7 +7519,7 @@
     "tldManager": "Agence Nationale de Réglementation des Télécommunications (ANRT)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".macys",
@@ -7527,7 +7527,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".madrid",
@@ -7537,7 +7537,7 @@
       "https://rdap.nic.madrid/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".maif",
@@ -7597,7 +7597,7 @@
       "https://rdap.nic.mango/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".map",
@@ -7647,7 +7647,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".marshalls",
@@ -7657,7 +7657,7 @@
       "https://rdap.nic.marshalls/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".maserati",
@@ -7665,7 +7665,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mattel",
@@ -7675,7 +7675,7 @@
       "https://rdap.nic.mattel/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mba",
@@ -7693,7 +7693,7 @@
     "tldManager": "Direction des Plateformes et des Ressources Numériques",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mcd",
@@ -7701,7 +7701,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mcdonalds",
@@ -7709,7 +7709,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mckinsey",
@@ -7727,7 +7727,7 @@
     "tldManager": "IP Serviciul Tehnologia Informatiei si Securitate Cibernetica",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".me",
@@ -7735,7 +7735,7 @@
     "tldManager": "Government of Montenegro",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".med",
@@ -7745,7 +7745,7 @@
       "https://rdap.nominet.uk/med/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".media",
@@ -7775,7 +7775,7 @@
       "https://rdap.nic.melbourne/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".meme",
@@ -7823,7 +7823,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".merckmsd",
@@ -7833,7 +7833,7 @@
       "https://rdap.nic.merckmsd/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".metlife",
@@ -7841,7 +7841,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mf",
@@ -7849,7 +7849,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mg",
@@ -7859,7 +7859,7 @@
       "http://rdap.nic.mg/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mh",
@@ -7867,7 +7867,7 @@
     "tldManager": "Office of the Cabinet",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".miami",
@@ -7877,7 +7877,7 @@
       "https://rdap.nic.miami/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".microsoft",
@@ -7895,7 +7895,7 @@
     "tldManager": "DoD Network Information Center",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mini",
@@ -7915,7 +7915,7 @@
       "https://rdap.nic.mint/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mit",
@@ -7925,7 +7925,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mitsubishi",
@@ -7943,7 +7943,7 @@
     "tldManager": "Macedonian Academic Research Network Skopje",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ml",
@@ -7953,7 +7953,7 @@
       "https://rdap.nic.ml/"
     ],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mlb",
@@ -7981,7 +7981,7 @@
     "tldManager": "Ministry of Transport and Communications",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mma",
@@ -7991,7 +7991,7 @@
       "https://rdap.nic.mma/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mn",
@@ -7999,7 +7999,7 @@
     "tldManager": "Datacom Co., Ltd.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mo",
@@ -8007,7 +8007,7 @@
     "tldManager": "Macao Post and Telecommunications Bureau (CTT)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mobi",
@@ -8035,7 +8035,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".moda",
@@ -8085,7 +8085,7 @@
       "https://rdap.nic.monash/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".money",
@@ -8113,7 +8113,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mopar",
@@ -8121,7 +8121,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mormon",
@@ -8151,7 +8151,7 @@
       "https://rdap.flexireg.net/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".moto",
@@ -8199,7 +8199,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mp",
@@ -8207,7 +8207,7 @@
     "tldManager": "Saipan Datacom, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mq",
@@ -8215,7 +8215,7 @@
     "tldManager": "CANAL+ TELECOM",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mr",
@@ -8223,7 +8223,7 @@
     "tldManager": "Université de Nouakchott Al Aasriya",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ms",
@@ -8233,7 +8233,7 @@
       "https://rdap.nic.ms/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".msd",
@@ -8243,7 +8243,7 @@
       "https://rdap.nic.msd/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mt",
@@ -8251,7 +8251,7 @@
     "tldManager": "NIC (Malta)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mtn",
@@ -8269,7 +8269,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mtr",
@@ -8289,7 +8289,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".museum",
@@ -8299,7 +8299,7 @@
       "https://rdap.nic.museum/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".music",
@@ -8317,7 +8317,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mutuelle",
@@ -8325,7 +8325,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mv",
@@ -8333,7 +8333,7 @@
     "tldManager": "Dhivehi Raajjeyge Gulhun PLC",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mw",
@@ -8341,7 +8341,7 @@
     "tldManager": "Malawi Sustainable Development Network Programme (Malawi SDNP)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mx",
@@ -8349,7 +8349,7 @@
     "tldManager": "NIC-Mexico\nITESM - Campus Monterrey",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".my",
@@ -8357,7 +8357,7 @@
     "tldManager": "MYNIC Berhad",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".mz",
@@ -8365,7 +8365,7 @@
     "tldManager": "Centro de Informatica de Universidade Eduardo Mondlane",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".na",
@@ -8375,7 +8375,7 @@
       "https://keetmans.omadhina.co.na/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nab",
@@ -8393,7 +8393,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nagoya",
@@ -8403,7 +8403,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".name",
@@ -8413,7 +8413,7 @@
       "https://tld-rdap.verisign.com/name/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nationwide",
@@ -8421,7 +8421,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".natura",
@@ -8429,7 +8429,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".navy",
@@ -8457,7 +8457,7 @@
     "tldManager": "Office des Postes et Telecommunications",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ne",
@@ -8465,7 +8465,7 @@
     "tldManager": "SONITEL",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nec",
@@ -8485,7 +8485,7 @@
       "https://rdap.verisign.com/net/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".netbank",
@@ -8505,7 +8505,7 @@
       "https://rdap.nic.netflix/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".network",
@@ -8525,7 +8525,7 @@
       "https://rdap.nic.neustar/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".new",
@@ -8543,7 +8543,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".news",
@@ -8593,7 +8593,7 @@
       "https://rdap.nic.nf/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nfl",
@@ -8603,7 +8603,7 @@
       "https://rdap.nic.nfl/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ng",
@@ -8611,7 +8611,7 @@
     "tldManager": "Nigeria Internet Registration Association",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ngo",
@@ -8631,7 +8631,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ni",
@@ -8639,7 +8639,7 @@
     "tldManager": "Universidad Nacional del Ingernieria. Division de Tecnologias de la Informacion.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nico",
@@ -8649,7 +8649,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nike",
@@ -8659,7 +8659,7 @@
       "https://rdap.nic.nike/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nikon",
@@ -8689,7 +8689,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nissay",
@@ -8709,7 +8709,7 @@
       "https://rdap.sidn.nl/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".no",
@@ -8719,7 +8719,7 @@
       "https://rdap.norid.no/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nokia",
@@ -8737,7 +8737,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".norton",
@@ -8785,7 +8785,7 @@
     "tldManager": "Mercantile Communications Pvt. Ltd.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nr",
@@ -8793,7 +8793,7 @@
     "tldManager": "CENPAC NET",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nra",
@@ -8813,7 +8813,7 @@
       "https://rdap.nic.nrw/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ntt",
@@ -8823,7 +8823,7 @@
       "https://rdap.nic.ntt/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nu",
@@ -8831,7 +8831,7 @@
     "tldManager": "The IUSN Foundation",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nyc",
@@ -8841,7 +8841,7 @@
       "https://rdap.nic.nyc/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".nz",
@@ -8849,7 +8849,7 @@
     "tldManager": "InternetNZ",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".obi",
@@ -8877,7 +8877,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".office",
@@ -8897,7 +8897,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".olayan",
@@ -8907,7 +8907,7 @@
       "https://rdap.nic.olayan/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".olayangroup",
@@ -8917,7 +8917,7 @@
       "https://rdap.nic.olayangroup/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".oldnavy",
@@ -8925,7 +8925,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ollo",
@@ -8943,7 +8943,7 @@
     "tldManager": "Telecommunications Regulatory Authority (TRA)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".omega",
@@ -8963,7 +8963,7 @@
       "https://rdap.nic.one/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ong",
@@ -9001,7 +9001,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ooo",
@@ -9069,7 +9069,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".origins",
@@ -9099,7 +9099,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ott",
@@ -9127,7 +9127,7 @@
     "tldManager": "Universidad Tecnologica de Panama",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".page",
@@ -9145,7 +9145,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".panasonic",
@@ -9163,7 +9163,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".paris",
@@ -9173,7 +9173,7 @@
       "https://rdap.nic.paris/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pars",
@@ -9221,7 +9221,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pay",
@@ -9249,7 +9249,7 @@
     "tldManager": "Red Cientifica Peruana",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pet",
@@ -9267,7 +9267,7 @@
     "tldManager": "Gouvernement de la Polynésie française",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pfizer",
@@ -9287,7 +9287,7 @@
       "https://rdap.nic.pg/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ph",
@@ -9295,7 +9295,7 @@
     "tldManager": "PH Domain Foundation",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pharmacy",
@@ -9345,7 +9345,7 @@
       "https://rdap.nic.photo/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".photography",
@@ -9375,7 +9375,7 @@
       "https://rdap.nic.physio/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".piaget",
@@ -9383,7 +9383,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pics",
@@ -9481,7 +9481,7 @@
     "tldManager": "PKNIC",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pl",
@@ -9491,7 +9491,7 @@
       "https://rdap.dns.pl/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".place",
@@ -9551,7 +9551,7 @@
       "https://rdap.nic.pm/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pn",
@@ -9561,7 +9561,7 @@
       "https://rdap.nominet.uk/pn/"
     ],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pnc",
@@ -9601,7 +9601,7 @@
       "https://rdap.nic.politie/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".porn",
@@ -9611,7 +9611,7 @@
       "https://rdap.nic.porn/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".post",
@@ -9621,7 +9621,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pr",
@@ -9629,7 +9629,7 @@
     "tldManager": "Gauss Research Laboratory Inc.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pramerica",
@@ -9637,7 +9637,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".praxi",
@@ -9767,7 +9767,7 @@
       "https://rdap.nic.pru/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".prudential",
@@ -9777,7 +9777,7 @@
       "https://rdap.nic.prudential/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ps",
@@ -9785,7 +9785,7 @@
     "tldManager": "Ministry of Telecommunications & Information Technology, Government Computer Center",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pt",
@@ -9793,7 +9793,7 @@
     "tldManager": "Associação DNS.PT",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pub",
@@ -9813,7 +9813,7 @@
       "https://rdap.centralnic.com/pw/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".pwc",
@@ -9831,7 +9831,7 @@
     "tldManager": "NIC-PY",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".qa",
@@ -9839,7 +9839,7 @@
     "tldManager": "Communications Regulatory Authority",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".qpon",
@@ -9859,7 +9859,7 @@
       "https://rdap.nic.quebec/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".quest",
@@ -9877,7 +9877,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".racing",
@@ -9905,7 +9905,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".re",
@@ -9915,7 +9915,7 @@
       "https://rdap.nic.re/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".read",
@@ -9935,7 +9935,7 @@
       "https://rdap.nominet.uk/realestate/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".realtor",
@@ -9945,7 +9945,7 @@
       "https://rdap.nominet.uk/realtor/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".realty",
@@ -9983,7 +9983,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".redumbrella",
@@ -10191,7 +10191,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ril",
@@ -10229,7 +10229,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ro",
@@ -10237,7 +10237,7 @@
     "tldManager": "National Institute for R&D in Informatics",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".rocher",
@@ -10245,7 +10245,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".rocks",
@@ -10265,7 +10265,7 @@
       "https://rdap.nic.rodeo/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".rogers",
@@ -10293,7 +10293,7 @@
     "tldManager": "Serbian National Internet Domain Registry (RNIDS)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".rsvp",
@@ -10311,7 +10311,7 @@
     "tldManager": "Coordination Center for TLD RU",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".rugby",
@@ -10351,7 +10351,7 @@
       "https://rdap.ricta.org.rw/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".rwe",
@@ -10371,7 +10371,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sa",
@@ -10379,7 +10379,7 @@
     "tldManager": "Communications, Space and Technology Commission",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".saarland",
@@ -10419,7 +10419,7 @@
       "https://rdap.nic.sakura/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sale",
@@ -10507,7 +10507,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sarl",
@@ -10527,7 +10527,7 @@
       "https://rdap.nic.sas/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".save",
@@ -10555,7 +10555,7 @@
     "tldManager": "Solomon Telekom Company Limited",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sbi",
@@ -10583,7 +10583,7 @@
     "tldManager": "VCS Pty Ltd",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sca",
@@ -10591,7 +10591,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".scb",
@@ -10611,7 +10611,7 @@
       "https://rdap.nic.schaeffler/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".schmidt",
@@ -10679,7 +10679,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".scor",
@@ -10687,7 +10687,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".scot",
@@ -10697,7 +10697,7 @@
       "https://rdap.nic.scot/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sd",
@@ -10707,7 +10707,7 @@
       "https://rdap.nic.sd/"
     ],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".se",
@@ -10715,7 +10715,7 @@
     "tldManager": "The Internet Infrastructure Foundation",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".search",
@@ -10735,7 +10735,7 @@
       "https://rdap.nic.seat/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".secure",
@@ -10775,7 +10775,7 @@
       "https://rdap.nic.select/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sener",
@@ -10803,7 +10803,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".seven",
@@ -10823,7 +10823,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sex",
@@ -10833,7 +10833,7 @@
       "https://rdap.nic.sex/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sexy",
@@ -10861,7 +10861,7 @@
     "tldManager": "Singapore Network Information Centre (SGNIC) Pte Ltd",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sh",
@@ -10869,7 +10869,7 @@
     "tldManager": "Government of St. Helena",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".shangrila",
@@ -10897,7 +10897,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".shell",
@@ -10947,7 +10947,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".shopping",
@@ -10985,7 +10985,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".shriram",
@@ -10993,7 +10993,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".si",
@@ -11003,7 +11003,7 @@
       "https://rdap.register.si/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".silk",
@@ -11051,7 +11051,7 @@
     "tldManager": "Norid A/S",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sk",
@@ -11059,7 +11059,7 @@
     "tldManager": "SK-NIC, a.s.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ski",
@@ -11107,7 +11107,7 @@
     "tldManager": "Sierratel",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sling",
@@ -11125,7 +11125,7 @@
     "tldManager": "Telecom Italia San Marino S.p.A.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".smart",
@@ -11153,7 +11153,7 @@
     "tldManager": "Universite Cheikh Anta Diop",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sncf",
@@ -11171,7 +11171,7 @@
     "tldManager": "Ministry of Post and Telecommunications",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".soccer",
@@ -11281,7 +11281,7 @@
       "https://rdap.identitydigital.services/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".space",
@@ -11299,7 +11299,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sport",
@@ -11309,7 +11309,7 @@
       "https://rdap.nic.sport/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".spot",
@@ -11327,7 +11327,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sr",
@@ -11337,7 +11337,7 @@
       "https://whois.sr/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".srl",
@@ -11355,7 +11355,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ss",
@@ -11365,7 +11365,7 @@
       "https://rdap.nic.ss/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".st",
@@ -11373,7 +11373,7 @@
     "tldManager": "Tecnisys",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".stada",
@@ -11411,7 +11411,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".statebank",
@@ -11431,7 +11431,7 @@
       "https://rdap.nic.statefarm/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".statoil",
@@ -11439,7 +11439,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".stc",
@@ -11519,7 +11519,7 @@
       "https://rdap.nic.study/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".style",
@@ -11537,7 +11537,7 @@
     "tldManager": "Russian Institute for Development of Public Networks (ROSNIIROS)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sucks",
@@ -11547,7 +11547,7 @@
       "https://rdap.nic.sucks/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".supplies",
@@ -11587,7 +11587,7 @@
       "https://rdap.nic.surf/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".surgery",
@@ -11607,7 +11607,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sv",
@@ -11615,7 +11615,7 @@
     "tldManager": "SVNet",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".swatch",
@@ -11633,7 +11633,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".swiss",
@@ -11651,7 +11651,7 @@
     "tldManager": "SX Registry SA B.V.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sy",
@@ -11659,7 +11659,7 @@
     "tldManager": "National Agency for Network Services (NANS)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".sydney",
@@ -11669,7 +11669,7 @@
       "https://rdap.nic.sydney/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".symantec",
@@ -11677,7 +11677,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".systems",
@@ -11695,7 +11695,7 @@
     "tldManager": "University of Swaziland\nDepartment of Computer Science",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tab",
@@ -11715,7 +11715,7 @@
       "https://rdap.nic.taipei/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".talk",
@@ -11775,7 +11775,7 @@
       "https://rdap.nic.tattoo/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tax",
@@ -11803,7 +11803,7 @@
     "tldManager": "Melrex TC",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tci",
@@ -11821,7 +11821,7 @@
     "tldManager": "l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tdk",
@@ -11879,7 +11879,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".telefonica",
@@ -11887,7 +11887,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".temasek",
@@ -11927,7 +11927,7 @@
       "https://rdap.nic.tf/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tg",
@@ -11935,7 +11935,7 @@
     "tldManager": "Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".th",
@@ -11945,7 +11945,7 @@
       "https://rdap.thains.co.th/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".thd",
@@ -12013,7 +12013,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tips",
@@ -12043,7 +12043,7 @@
       "https://rdap.ryce-rsp.com/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tj",
@@ -12051,7 +12051,7 @@
     "tldManager": "Information Technology Center",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tjmaxx",
@@ -12061,7 +12061,7 @@
       "https://rdap.nic.tjmaxx/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tjx",
@@ -12071,7 +12071,7 @@
       "https://rdap.nic.tjx/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tk",
@@ -12079,7 +12079,7 @@
     "tldManager": "Telecommunication Tokelau Corporation (Teletok)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tkmaxx",
@@ -12089,7 +12089,7 @@
       "https://rdap.nic.tkmaxx/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tl",
@@ -12097,7 +12097,7 @@
     "tldManager": "Autoridade Nacional de Comunicações",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tm",
@@ -12105,7 +12105,7 @@
     "tldManager": "TM Domain Registry Ltd",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tmall",
@@ -12123,7 +12123,7 @@
     "tldManager": "Agence Tunisienne d'Internet",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".to",
@@ -12133,7 +12133,7 @@
       "https://rdap.tonicregistry.to/rdap/"
     ],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".today",
@@ -12153,7 +12153,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tools",
@@ -12173,7 +12173,7 @@
       "https://rdap.zdnsgtld.com/top/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".toray",
@@ -12193,7 +12193,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".total",
@@ -12203,7 +12203,7 @@
       "https://rdap.nic.total/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tours",
@@ -12251,7 +12251,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tr",
@@ -12259,7 +12259,7 @@
     "tldManager": "Bilgi Teknolojileri ve İletişim Kurumu (BTK)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".trade",
@@ -12307,7 +12307,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".travelers",
@@ -12355,7 +12355,7 @@
     "tldManager": "University of the West Indies, Faculty of Engineering",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tube",
@@ -12405,7 +12405,7 @@
       "https://rdap.nic.tv/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tvs",
@@ -12425,7 +12425,7 @@
       "https://ccrdap.twnic.tw/tw/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".tz",
@@ -12435,7 +12435,7 @@
       "https://whois.tznic.or.tz/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ua",
@@ -12445,7 +12445,7 @@
       "https://rdap.hostmaster.ua/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ubank",
@@ -12473,7 +12473,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ug",
@@ -12481,7 +12481,7 @@
     "tldManager": "Uganda Online Ltd.",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".uk",
@@ -12491,7 +12491,7 @@
       "https://rdap.nominet.uk/uk/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".um",
@@ -12499,7 +12499,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".unicom",
@@ -12557,7 +12557,7 @@
     "tldManager": "Registry Services, LLC",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".uy",
@@ -12565,7 +12565,7 @@
     "tldManager": "SeCIU - Universidad de la Republica",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".uz",
@@ -12575,7 +12575,7 @@
       "https://rdap.cctld.uz/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".va",
@@ -12583,7 +12583,7 @@
     "tldManager": "Holy See - Vatican City State",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vacations",
@@ -12621,7 +12621,7 @@
     "tldManager": "Ministry of Telecommunications, Science, Technology and Industry",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ve",
@@ -12629,7 +12629,7 @@
     "tldManager": "Comisión Nacional de Telecomunicaciones (CONATEL)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vegas",
@@ -12659,7 +12659,7 @@
       "https://tld-rdap.verisign.com/verisign/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".versicherung",
@@ -12669,7 +12669,7 @@
       "https://rdap.nic.versicherung/v1/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vet",
@@ -12689,7 +12689,7 @@
       "https://rdap.centralnic.com/vg/"
     ],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vi",
@@ -12699,7 +12699,7 @@
       "https://rdap.nic.vi/"
     ],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".viajes",
@@ -12769,7 +12769,7 @@
       "https://rdap.nic.vip/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".virgin",
@@ -12807,7 +12807,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vistaprint",
@@ -12815,7 +12815,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".viva",
@@ -12835,7 +12835,7 @@
       "https://rdap.nic.vivo/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vlaanderen",
@@ -12853,7 +12853,7 @@
     "tldManager": "Viet Nam Internet Network Information Center (VNNIC)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vodka",
@@ -12863,7 +12863,7 @@
       "https://rdap.nic.vodka/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".volkswagen",
@@ -12871,7 +12871,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".volvo",
@@ -12901,7 +12901,7 @@
       "https://rdap.nic.voting/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".voto",
@@ -12929,7 +12929,7 @@
     "tldManager": "Telecommunications Radiocommunications and Broadcasting Regulator (TRBR)",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vuelos",
@@ -12937,7 +12937,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".wales",
@@ -12995,7 +12995,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".watch",
@@ -13085,7 +13085,7 @@
       "https://rdap.nic.wedding/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".weibo",
@@ -13115,7 +13115,7 @@
       "https://rdap.nic.wf/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".whoswho",
@@ -13145,7 +13145,7 @@
       "https://rdap.nic.wiki/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".williamhill",
@@ -13155,7 +13155,7 @@
       "https://rdap.nic.williamhill/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".win",
@@ -13195,7 +13195,7 @@
       "https://rdap.nic.winners/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".wme",
@@ -13235,7 +13235,7 @@
       "https://rdap.nic.work/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".works",
@@ -13273,7 +13273,7 @@
     "tldManager": "Government of Samoa Ministry of Foreign Affairs & Trade",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".wtc",
@@ -13283,7 +13283,7 @@
       "https://rdap.nic.wtc/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".wtf",
@@ -13313,7 +13313,7 @@
       "https://rdap.nic.xerox/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".xfinity",
@@ -13321,7 +13321,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".xihuan",
@@ -13349,7 +13349,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".कॉम",
@@ -13357,7 +13357,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".परीक्षा",
@@ -13365,7 +13365,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".セール",
@@ -13373,7 +13373,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".佛山",
@@ -13381,7 +13381,7 @@
     "tldManager": "Guangzhou YU Wei Information Technology Co., Ltd.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ಭಾರತ",
@@ -13389,7 +13389,7 @@
     "tldManager": "National Internet eXchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".慈善",
@@ -13397,7 +13397,7 @@
     "tldManager": "Excellent First Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".集团",
@@ -13405,7 +13405,7 @@
     "tldManager": "Eagle Horizon Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".在线",
@@ -13413,7 +13413,7 @@
     "tldManager": "Beijing Tld Registry Technology Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".한국",
@@ -13421,7 +13421,7 @@
     "tldManager": "KISA (Korea Internet & Security Agency)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ଭାରତ",
@@ -13429,7 +13429,7 @@
     "tldManager": "National Internet eXchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".大众汽车",
@@ -13437,7 +13437,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".点看",
@@ -13445,7 +13445,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".คอม",
@@ -13453,7 +13453,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ভাৰত",
@@ -13461,7 +13461,7 @@
     "tldManager": "National Internet eXchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ভারত",
@@ -13469,7 +13469,7 @@
     "tldManager": "National Internet Exchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".八卦",
@@ -13477,7 +13477,7 @@
     "tldManager": "Zodiac Gemini Ltd",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.ישראל‎",
@@ -13485,7 +13485,7 @@
     "tldManager": "The Israel Internet Association (RA)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.موقع‎",
@@ -13493,7 +13493,7 @@
     "tldManager": "Helium TLDs Ltd",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".বাংলা",
@@ -13501,7 +13501,7 @@
     "tldManager": "Posts and Telecommunications Division",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".公益",
@@ -13509,7 +13509,7 @@
     "tldManager": "China Organizational Name Administration Center",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".公司",
@@ -13517,7 +13517,7 @@
     "tldManager": "China Internet Network Information Center (CNNIC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".香格里拉",
@@ -13525,7 +13525,7 @@
     "tldManager": "Shangri-La International Hotel Management Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".网站",
@@ -13533,7 +13533,7 @@
     "tldManager": "Global Website TLD Asia Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".移动",
@@ -13541,7 +13541,7 @@
     "tldManager": "Identity Digital Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".我爱你",
@@ -13549,7 +13549,7 @@
     "tldManager": "Tycoon Treasure Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".москва",
@@ -13557,7 +13557,7 @@
     "tldManager": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".испытание",
@@ -13565,7 +13565,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".қаз",
@@ -13573,7 +13573,7 @@
     "tldManager": "Association of IT Companies of Kazakhstan",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".католик",
@@ -13581,7 +13581,7 @@
     "tldManager": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".онлайн",
@@ -13589,7 +13589,7 @@
     "tldManager": "CORE Association",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".сайт",
@@ -13597,7 +13597,7 @@
     "tldManager": "CORE Association",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".联通",
@@ -13605,7 +13605,7 @@
     "tldManager": "China United Network Communications Corporation Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".срб",
@@ -13613,7 +13613,7 @@
     "tldManager": "Serbian National Internet Domain Registry (RNIDS)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".бг",
@@ -13621,7 +13621,7 @@
     "tldManager": "Imena.BG AD",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".бел",
@@ -13629,7 +13629,7 @@
     "tldManager": "Belarusian Cloud Technologies LLC",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.קום‎",
@@ -13637,7 +13637,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".时尚",
@@ -13645,7 +13645,7 @@
     "tldManager": "RISE VICTORY LIMITED",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".微博",
@@ -13653,7 +13653,7 @@
     "tldManager": "Sina Corporation",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".테스트",
@@ -13661,7 +13661,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".淡马锡",
@@ -13669,7 +13669,7 @@
     "tldManager": "Temasek Holdings (Private) Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ファッション",
@@ -13677,7 +13677,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".орг",
@@ -13685,7 +13685,7 @@
     "tldManager": "Public Interest Registry",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".नेट",
@@ -13693,7 +13693,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ストア",
@@ -13701,7 +13701,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".アマゾン",
@@ -13709,7 +13709,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".삼성",
@@ -13717,7 +13717,7 @@
     "tldManager": "SAMSUNG SDS CO., LTD",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".சிங்கப்பூர்",
@@ -13725,7 +13725,7 @@
     "tldManager": "Singapore Network Information Centre (SGNIC) Pte Ltd",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".商标",
@@ -13733,7 +13733,7 @@
     "tldManager": "Internet DotTrademark Organisation Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".商店",
@@ -13741,7 +13741,7 @@
     "tldManager": "Binky Moon, LLC",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".商城",
@@ -13749,7 +13749,7 @@
     "tldManager": "Zodiac Aquarius Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".дети",
@@ -13757,7 +13757,7 @@
     "tldManager": "The Foundation for Network Initiatives “The Smart Internet”",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".мкд",
@@ -13765,7 +13765,7 @@
     "tldManager": "Macedonian Academic Research Network Skopje",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.טעסט‎",
@@ -13773,7 +13773,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ею",
@@ -13781,7 +13781,7 @@
     "tldManager": "EURid vzw",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ポイント",
@@ -13789,7 +13789,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".新闻",
@@ -13797,7 +13797,7 @@
     "tldManager": "Guangzhou YU Wei Information and Technology Co.,Ltd",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".工行",
@@ -13805,7 +13805,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".家電",
@@ -13813,7 +13813,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.كوم‎",
@@ -13821,7 +13821,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".中文网",
@@ -13829,7 +13829,7 @@
     "tldManager": "TLD REGISTRY LIMITED",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".中信",
@@ -13837,7 +13837,7 @@
     "tldManager": "CITIC Group Corporation",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".中国",
@@ -13845,7 +13845,7 @@
     "tldManager": "China Internet Network Information Center (CNNIC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".中國",
@@ -13853,7 +13853,7 @@
     "tldManager": "China Internet Network Information Center (CNNIC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".娱乐",
@@ -13861,7 +13861,7 @@
     "tldManager": "Binky Moon, LLC",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".谷歌",
@@ -13869,7 +13869,7 @@
     "tldManager": "Charleston Road Registry Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".భారత్",
@@ -13877,7 +13877,7 @@
     "tldManager": "National Internet Exchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ලංකා",
@@ -13885,7 +13885,7 @@
     "tldManager": "LK Domain Registry",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".電訊盈科",
@@ -13893,7 +13893,7 @@
     "tldManager": "PCCW Enterprises Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".购物",
@@ -13901,7 +13901,7 @@
     "tldManager": "Nawang Heli(Xiamen) Network Service Co., LTD.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".測試",
@@ -13909,7 +13909,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".クラウド",
@@ -13917,7 +13917,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ભારત",
@@ -13925,7 +13925,7 @@
     "tldManager": "National Internet Exchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".通販",
@@ -13933,7 +13933,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".भारतम्",
@@ -13941,7 +13941,7 @@
     "tldManager": "National Internet eXchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".भारत",
@@ -13949,7 +13949,7 @@
     "tldManager": "National Internet Exchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".भारोत",
@@ -13957,7 +13957,7 @@
     "tldManager": "National Internet eXchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.آزمایشی‎",
@@ -13965,7 +13965,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".பரிட்சை",
@@ -13973,7 +13973,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".网店",
@@ -13981,7 +13981,7 @@
     "tldManager": "Zodiac Taurus Ltd.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".संगठन",
@@ -13989,7 +13989,7 @@
     "tldManager": "Public Interest Registry",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".餐厅",
@@ -13997,7 +13997,7 @@
     "tldManager": "Internet DotTrademark Organisation Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".网络",
@@ -14005,7 +14005,7 @@
     "tldManager": "China Internet Network Information Center (CNNIC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ком",
@@ -14013,7 +14013,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".укр",
@@ -14021,7 +14021,7 @@
     "tldManager": "Ukrainian Network Information Centre (UANIC), Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".香港",
@@ -14029,7 +14029,7 @@
     "tldManager": "Hong Kong Internet Registration Corporation Ltd.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".亚马逊",
@@ -14037,7 +14037,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".诺基亚",
@@ -14045,7 +14045,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".食品",
@@ -14053,7 +14053,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".δοκιμή",
@@ -14061,7 +14061,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".飞利浦",
@@ -14069,7 +14069,7 @@
     "tldManager": "Koninklijke Philips N.V.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.إختبار‎",
@@ -14077,7 +14077,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".台湾",
@@ -14085,7 +14085,7 @@
     "tldManager": "Taiwan Network Information Center (TWNIC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".台灣",
@@ -14093,7 +14093,7 @@
     "tldManager": "Taiwan Network Information Center (TWNIC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".手表",
@@ -14101,7 +14101,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".手机",
@@ -14109,7 +14109,7 @@
     "tldManager": "Beijing RITT-Net Technology Development Co., Ltd",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".мон",
@@ -14117,7 +14117,7 @@
     "tldManager": "Datacom Co.,Ltd",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.الجزائر‎",
@@ -14125,7 +14125,7 @@
     "tldManager": "CERIST",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.عمان‎",
@@ -14133,7 +14133,7 @@
     "tldManager": "Telecommunications Regulatory Authority (TRA)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.ارامكو‎",
@@ -14141,7 +14141,7 @@
     "tldManager": "Aramco Services Company",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.ایران‎",
@@ -14149,7 +14149,7 @@
     "tldManager": "Institute for Research in Fundamental Sciences (IPM)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.العليان‎",
@@ -14157,7 +14157,7 @@
     "tldManager": "Competrol (Luxembourg) Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.اتصالات‎",
@@ -14165,7 +14165,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.امارات‎",
@@ -14173,7 +14173,7 @@
     "tldManager": "Telecommunications and Digital Government Regulatory Authority (TDRA)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.بازار‎",
@@ -14181,7 +14181,7 @@
     "tldManager": "CORE Association",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.موريتانيا‎",
@@ -14189,7 +14189,7 @@
     "tldManager": "Université de Nouakchott Al Aasriya",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.پاکستان‎",
@@ -14197,7 +14197,7 @@
     "tldManager": "National Telecommunication Corporation",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.الاردن‎",
@@ -14205,7 +14205,7 @@
     "tldManager": "Ministry of Digital Economy and Entrepreneurship (MoDEE)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.موبايلي‎",
@@ -14213,7 +14213,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.بارت‎",
@@ -14221,7 +14221,7 @@
     "tldManager": "National Internet eXchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.بھارت‎",
@@ -14229,7 +14229,7 @@
     "tldManager": "National Internet Exchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.المغرب‎",
@@ -14237,7 +14237,7 @@
     "tldManager": "Agence Nationale de Réglementation des Télécommunications (ANRT)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.ابوظبي‎",
@@ -14245,7 +14245,7 @@
     "tldManager": "Abu Dhabi Systems and Information Centre",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.البحرين‎",
@@ -14253,7 +14253,7 @@
     "tldManager": "Telecommunications Regulatory Authority (TRA)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.السعودية‎",
@@ -14261,7 +14261,7 @@
     "tldManager": "Communications, Space and Technology Commission",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.ڀارت‎",
@@ -14269,7 +14269,7 @@
     "tldManager": "National Internet eXchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.كاثوليك‎",
@@ -14277,7 +14277,7 @@
     "tldManager": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.سودان‎",
@@ -14285,7 +14285,7 @@
     "tldManager": "Sudan Internet Society",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.همراه‎",
@@ -14293,7 +14293,7 @@
     "tldManager": "Emergency Back-End Registry Operator Program - ICANN",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.عراق‎",
@@ -14301,7 +14301,7 @@
     "tldManager": "Communications and Media Commission (CMC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.مليسيا‎",
@@ -14309,7 +14309,7 @@
     "tldManager": "MYNIC Berhad",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".澳門",
@@ -14317,7 +14317,7 @@
     "tldManager": "Macao Post and Telecommunications Bureau (CTT)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".닷컴",
@@ -14325,7 +14325,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".政府",
@@ -14333,7 +14333,7 @@
     "tldManager": "Net-Chinese Co., Ltd.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.شبكة‎",
@@ -14341,7 +14341,7 @@
     "tldManager": "International Domain Registry Pty. Ltd.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.بيتك‎",
@@ -14349,7 +14349,7 @@
     "tldManager": "Kuwait Finance House",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.عرب‎",
@@ -14357,7 +14357,7 @@
     "tldManager": "League of Arab States",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".გე",
@@ -14365,7 +14365,7 @@
     "tldManager": "Information Technologies Development Center (ITDC)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".机构",
@@ -14373,7 +14373,7 @@
     "tldManager": "Public Interest Registry",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".组织机构",
@@ -14381,7 +14381,7 @@
     "tldManager": "Public Interest Registry",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".健康",
@@ -14389,7 +14389,7 @@
     "tldManager": "Stable Tone Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ไทย",
@@ -14397,7 +14397,7 @@
     "tldManager": "Thai Network Information Center Foundation",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.سورية‎",
@@ -14405,7 +14405,7 @@
     "tldManager": "National Agency for Network Services (NANS)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".招聘",
@@ -14413,7 +14413,7 @@
     "tldManager": "Jiang Yu Liang Cai Technology Company Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".рус",
@@ -14421,7 +14421,7 @@
     "tldManager": "Rusnames Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".рф",
@@ -14429,7 +14429,7 @@
     "tldManager": "Coordination Center for TLD RU",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".珠宝",
@@ -14437,7 +14437,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.تونس‎",
@@ -14445,7 +14445,7 @@
     "tldManager": "Agence Tunisienne d'Internet",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".大拿",
@@ -14453,7 +14453,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ລາວ",
@@ -14461,7 +14461,7 @@
     "tldManager": "Lao National Internet Center (LANIC), Ministry of Technology and Communications",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".みんな",
@@ -14469,7 +14469,7 @@
     "tldManager": "Charleston Road Registry Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".グーグル",
@@ -14477,7 +14477,7 @@
     "tldManager": "Charleston Road Registry Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ευ",
@@ -14485,7 +14485,7 @@
     "tldManager": "EURid vzw",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ελ",
@@ -14493,7 +14493,7 @@
     "tldManager": "ICS-FORTH GR",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".世界",
@@ -14501,7 +14501,7 @@
     "tldManager": "Stable Tone Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".書籍",
@@ -14509,7 +14509,7 @@
     "tldManager": "Amazon Registry Services, Inc.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ഭാരതം",
@@ -14517,7 +14517,7 @@
     "tldManager": "National Internet eXchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".ਭਾਰਤ",
@@ -14525,7 +14525,7 @@
     "tldManager": "National Internet Exchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".网址",
@@ -14533,7 +14533,7 @@
     "tldManager": "KNET Co., Ltd",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".닷넷",
@@ -14541,7 +14541,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".コム",
@@ -14549,7 +14549,7 @@
     "tldManager": "VeriSign Sarl",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".天主教",
@@ -14557,7 +14557,7 @@
     "tldManager": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".游戏",
@@ -14565,7 +14565,7 @@
     "tldManager": "Binky Moon, LLC",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vermögensberater",
@@ -14573,7 +14573,7 @@
     "tldManager": "Deutsche Vermögensberatung Aktiengesellschaft DVAG",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".vermögensberatung",
@@ -14581,7 +14581,7 @@
     "tldManager": "Deutsche Vermögensberatung Aktiengesellschaft DVAG",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".企业",
@@ -14589,7 +14589,7 @@
     "tldManager": "Binky Moon, LLC",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".信息",
@@ -14597,7 +14597,7 @@
     "tldManager": "Beijing Tele-info Technology Co., Ltd.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".嘉里大酒店",
@@ -14605,7 +14605,7 @@
     "tldManager": "Kerry Trading Co. Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".嘉里",
@@ -14613,7 +14613,7 @@
     "tldManager": "Kerry Trading Co. Limited",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.مصر‎",
@@ -14621,7 +14621,7 @@
     "tldManager": "National Telecommunication Regulatory Authority - NTRA",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.قطر‎",
@@ -14629,7 +14629,7 @@
     "tldManager": "Communications Regulatory Authority",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".广东",
@@ -14637,7 +14637,7 @@
     "tldManager": "Guangzhou YU Wei Information Technology Co., Ltd.",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".இலங்கை",
@@ -14645,7 +14645,7 @@
     "tldManager": "LK Domain Registry",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".இந்தியா",
@@ -14653,7 +14653,7 @@
     "tldManager": "National Internet Exchange of India",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".հայ",
@@ -14661,7 +14661,7 @@
     "tldManager": "\"Internet Society\" Non-governmental Organization",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".新加坡",
@@ -14669,7 +14669,7 @@
     "tldManager": "Singapore Network Information Centre (SGNIC) Pte Ltd",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": "‏.فلسطين‎",
@@ -14677,7 +14677,7 @@
     "tldManager": "Ministry of Telecom & Information Technology (MTIT)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".テスト",
@@ -14685,7 +14685,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".政务",
@@ -14693,7 +14693,7 @@
     "tldManager": "China Organizational Name Administration Center",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".xperia",
@@ -14701,7 +14701,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".xxx",
@@ -14711,7 +14711,7 @@
       "https://rdap.nic.xxx/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".xyz",
@@ -14771,7 +14771,7 @@
       "https://rdap.y.net.ye/"
     ],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".yodobashi",
@@ -14781,7 +14781,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".yoga",
@@ -14791,7 +14791,7 @@
       "https://rdap.nic.yoga/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".yokohama",
@@ -14801,7 +14801,7 @@
       "https://rdap.gmoregistry.net/rdap/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".you",
@@ -14831,7 +14831,7 @@
       "https://rdap.nic.yt/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".yun",
@@ -14849,7 +14849,7 @@
     "tldManager": "ZA Domain Name Authority",
     "rdap": [],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".zappos",
@@ -14897,7 +14897,7 @@
     "tldManager": "Not assigned",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   },
   {
     "domain": ".zm",
@@ -14907,7 +14907,7 @@
       "https://rdap.nic.zm/"
     ],
     "dnssec": true,
-    "search": false
+    "search": true
   },
   {
     "domain": ".zone",
@@ -14935,6 +14935,6 @@
     "tldManager": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
     "rdap": [],
     "dnssec": false,
-    "search": false
+    "search": true
   }
 ]
