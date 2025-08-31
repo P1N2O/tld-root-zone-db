@@ -10,6 +10,9 @@ const AUTH_URL = "https://account-api.icann.org/api/authenticate";
 const DOWNLOAD_LINKS_URL = "https://czds-api.icann.org/czds/downloads/links";
 const DATA_DIR = "./data/centralized-zone";
 
+// Concurrency limit to prevent overwhelming the API or system resources
+const CONCURRENCY_LIMIT = parseInt(process.env.CONCURRENCY_LIMIT || "10", 10);
+
 interface TokenCache {
 	accessToken: string;
 	expiresAt: number;
@@ -91,6 +94,29 @@ function isTokenExpired(token: string): boolean {
 	}
 }
 
+// Utility function to process items in batches with concurrency control
+async function processInBatches<T, R>(
+	items: T[],
+	processor: (item: T) => Promise<R>,
+	batchSize: number,
+	delayBetweenBatches: number = 0
+): Promise<R[]> {
+	const results: R[] = [];
+	
+	for (let i = 0; i < items.length; i += batchSize) {
+		const batch = items.slice(i, i + batchSize);
+		const batchResults = await Promise.all(batch.map(processor));
+		results.push(...batchResults);
+		
+		// Add delay between batches if specified
+		if (delayBetweenBatches > 0 && i + batchSize < items.length) {
+			await sleep(delayBetweenBatches);
+		}
+	}
+	
+	return results;
+}
+
 async function processZoneFilesToDatabase(
 	downloadLinks: string[],
 	db: Database,
@@ -98,54 +124,62 @@ async function processZoneFilesToDatabase(
 	console.log("Processing zone files to database...");
 	await db.initializeTables();
 
-	for (let i = 0; i < downloadLinks.length; i++) {
-		const url = downloadLinks[i];
-		const filename = path.basename(url);
-		const tld = filename.split(".")[0];
-
-		console.log(`Processing ${i + 1}/${downloadLinks.length}: ${tld}`);
-
-		try {
-			const { domainCount, fileSize } = await downloadAndProcessZone(
-				url,
-				tld,
-				db,
-			);
-			console.log(`  ✅ ${domainCount} domains processed for ${tld}`);
-
-			if (i < downloadLinks.length - 1) {
-				await sleep(1000);
+	// Process files in parallel with concurrency control
+	const results = await processInBatches(
+		downloadLinks,
+		async (url: string) => {
+			const filename = path.basename(url);
+			const tld = filename.split(".")[0];
+			
+			try {
+				console.log(`Processing: ${tld}`);
+				const result = await downloadAndProcessZone(url, tld, db);
+				console.log(`  ✅ ${result.domainCount} domains processed for ${tld}`);
+				return { success: true, tld, ...result };
+			} catch (error) {
+				console.error(`  ❌ Failed to process ${tld}:`, error);
+				return { success: false, tld, error };
 			}
-		} catch (error) {
-			console.error(`  ❌ Failed to process ${tld}:`, error);
-		}
-	}
+		},
+		CONCURRENCY_LIMIT,
+		1000 // 1 second delay between batches
+	);
+
+	const successful = results.filter(r => r.success).length;
+	const failed = results.filter(r => !r.success).length;
+	console.log(`Completed: ${successful} successful, ${failed} failed`);
 }
 
 async function processZoneFilesToLocal(downloadLinks: string[]): Promise<void> {
 	FileWriter.ensureDirectory(DATA_DIR);
 	console.log("Processing zone files to local storage...");
 
-	for (let i = 0; i < downloadLinks.length; i++) {
-		const url = downloadLinks[i];
-		const filename = path.basename(url);
-		const gzPath = path.join(DATA_DIR, filename);
-		const tld = filename.split(".")[0];
-		const txtPath = path.join(DATA_DIR, `${tld}.txt`);
+	// Process files in parallel with concurrency control
+	const results = await processInBatches(
+		downloadLinks,
+		async (url: string) => {
+			const filename = path.basename(url);
+			const gzPath = path.join(DATA_DIR, filename);
+			const tld = filename.split(".")[0];
+			const txtPath = path.join(DATA_DIR, `${tld}.txt`);
 
-		console.log(`Processing ${i + 1}/${downloadLinks.length}: ${tld}`);
-
-		try {
-			await downloadFile(url, gzPath);
-			await extractAndProcessFile(gzPath, txtPath, tld);
-
-			if (i < downloadLinks.length - 1) {
-				await sleep(1000);
+			try {
+				console.log(`Processing: ${tld}`);
+				await downloadFile(url, gzPath);
+				await extractAndProcessFile(gzPath, txtPath, tld);
+				return { success: true, tld };
+			} catch (error) {
+				console.error(`  ❌ Failed to process ${tld}:`, error);
+				return { success: false, tld, error };
 			}
-		} catch (error) {
-			console.error(`  ❌ Failed to process ${tld}:`, error);
-		}
-	}
+		},
+		CONCURRENCY_LIMIT,
+		1000 // 1 second delay between batches
+	);
+
+	const successful = results.filter(r => r.success).length;
+	const failed = results.filter(r => !r.success).length;
+	console.log(`Completed: ${successful} successful, ${failed} failed`);
 }
 
 async function downloadAndProcessZone(
@@ -202,7 +236,7 @@ async function downloadFile(url: string, outputPath: string): Promise<void> {
 async function extractAndProcessFile(
 	gzPath: string,
 	txtPath: string,
-	tld: string,
+	_tld: string,
 ): Promise<void> {
 	const buffer = fs.readFileSync(gzPath);
 	const decompressed = zlib.gunzipSync(buffer);

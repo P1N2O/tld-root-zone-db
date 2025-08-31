@@ -182,42 +182,57 @@ async function saveToDatabase(
 
   console.log(`📊 Starting database insert for ${tldRows.length} TLDs...`);
 
+  // Process TLDs in parallel with concurrency control
+  const CONCURRENCY_LIMIT = parseInt(process.env.CONCURRENCY_LIMIT || "10", 10);
+  
   let successful = 0;
   let failed = 0;
 
-  // Save TLD data to database
-  for (let i = 0; i < tldRows.length; i++) {
-    const tld = tldRows[i];
-    const tldWithoutDot = tld.domain.replace(/^\./, '').toLowerCase();
-    const rdapUrls = rdapMap.get(tldWithoutDot) || [];
-    const hasDnssec = dnssecMap.get(tldWithoutDot) || false;
+  // Process in batches to avoid overwhelming the database
+  for (let i = 0; i < tldRows.length; i += CONCURRENCY_LIMIT) {
+    const batch = tldRows.slice(i, i + CONCURRENCY_LIMIT);
+    const batchPromises = batch.map(async (tld) => {
+      const tldWithoutDot = tld.domain.replace(/^\./, '').toLowerCase();
+      const rdapUrls = rdapMap.get(tldWithoutDot) || [];
+      const hasDnssec = dnssecMap.get(tldWithoutDot) || false;
 
-    // Convert array to proper JSON string
-    const rdapUrlsJson = JSON.stringify(rdapUrls);
+      // Convert array to proper JSON string
+      const rdapUrlsJson = JSON.stringify(rdapUrls);
 
-    // Update progress on the same line
-    process.stdout.write(`   Processing TLD ${i + 1}/${tldRows.length}: ${tld.domain} (✅ ${successful} ❌ ${failed})...\r`);
+      try {
+        await client.query(`
+          INSERT INTO tlds (domain, type, tld_manager, rdap_urls, dnssec, last_updated)
+          VALUES ($1, $2, $3, $4, $5, NOW())
+          ON CONFLICT (domain) 
+          DO UPDATE SET 
+            type = EXCLUDED.type,
+            tld_manager = EXCLUDED.tld_manager,
+            rdap_urls = EXCLUDED.rdap_urls,
+            dnssec = EXCLUDED.dnssec,
+            last_updated = NOW()
+        `, [tldWithoutDot, tld.type, tld.tldManager, rdapUrlsJson, hasDnssec]);
+        
+        return { success: true };
+      } catch (error) {
+        console.error(`\n   ❌ Failed to insert ${tld.domain}:`, (error as Error).message);
+        return { success: false, error };
+      }
+    });
 
-    try {
-      await client.query(`
-        INSERT INTO tlds (domain, type, tld_manager, rdap_urls, dnssec, last_updated)
-        VALUES ($1, $2, $3, $4, $5, NOW())
-        ON CONFLICT (domain) 
-        DO UPDATE SET 
-          type = EXCLUDED.type,
-          tld_manager = EXCLUDED.tld_manager,
-          rdap_urls = EXCLUDED.rdap_urls,
-          dnssec = EXCLUDED.dnssec,
-          last_updated = NOW()
-      `, [tldWithoutDot, tld.type, tld.tldManager, rdapUrlsJson, hasDnssec]);
-      
-      successful++;
+    // Wait for all promises in the batch to complete
+    const results = await Promise.all(batchPromises);
+    
+    // Count successes and failures
+    results.forEach(result => {
+      if (result.success) {
+        successful++;
+      } else {
+        failed++;
+      }
+    });
 
-    } catch (error: any) {
-      console.error(`\n   ❌ Failed to insert ${tld.domain}:`, error.message);
-      failed++;
-      // Continue with next record instead of failing completely
-    }
+    // Update process on the same line
+    process.stdout.write(`   Processed ${Math.min(i + CONCURRENCY_LIMIT, tldRows.length)}/${tldRows.length} TLDs (✅ ${successful} ❌ ${failed})...\r`);
   }
 
   // Clear the progress line and show final result
